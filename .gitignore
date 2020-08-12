@@ -1,6 +1,7 @@
 /build
 /easy_en.userdb
-/sync
+/sync/527937a2-03e0-4f4e-be0c-19d4f0f5bc3e/*
+!/sync/527937a2-03e0-4f4e-be0c-19d4f0f5bc3e/luna_pinyin.userdb.txt
 /luna_pinyin.userdb
 /luna_pinyin.userdb.old
 user.yaml
