@@ -1,0 +1,26 @@
+#!/bin/bash
+CELL_ID=`basename ${BASH_SOURCE[0]}`
+DICT_CELL=("${DICT_CELL[@]}" $CELL_ID)
+DICT=(
+"standard/11377"
+"computer/15117"
+"idiom/332"
+"poetry/15096"
+"movie/20652"
+"animation/22537"
+"repeat/79354"
+"name/29429"
+"software/2002"
+"develop/75228"
+"mechanical/15126"
+"electric/15121"
+"building/15118"
+"communication/1354"
+"diet/15201"
+"daily/40288"
+"agriculture/15149"
+"lives/15206"
+"area/763"
+"warframe/99864"
+)
+eval "${CELL_ID}${DICT_CELL_SUFFIX}=(${DICT[@]})"

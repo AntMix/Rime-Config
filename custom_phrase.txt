@@ -1,0 +1,44 @@
+antmix@aliyun.com	email	100000
+[奸笑]	hj	10
+[捂脸]	wl	10
+[皱眉]	zm	10
+[旺柴]	gt	10
+[旺柴]	wc	10
+[打脸]	dl	10
+[吃瓜]	cg	10
+[汗]	han	10
+[社会社会]	shehui	10
+😂	xk	10
+🐔哥	jige	10
+🍋  nm  10
+NB	nb	10
+BUG	bug	10
+lol	lol	10
+java	java 10
+JAVA	java	3
+go	go	10
+GO	go	3
+php	php	10
+PHP	php	3
+MySQL	mysql	10
+emoji	emoji	10
+App	app	10
+git	git	10
+github	github	10
+AirPods	airpods	10
+VSCode	vsc	10
+VSCode	vscode	10
+vscode	vscode	10
+VirtualBox	virtual box	10
+Electron    electron    10
+thx thx 10
+番羽土啬	fq	10
+ssr	ssr	10
+幺蛾子	yez 10
+公众号	gzh	10
+余额宝	yeb	10
+余额宝	yuebao	10
+玄骸	xuan hai	10
+你又	ni you	10
+∵	yinwei	10
+∴	suoyi	10

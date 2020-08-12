@@ -1,0 +1,3402 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: luna_pinyin.emoji
+version: "2015.11.09"
+sort: original
+use_preset_vocabulary: false
+...
+
+# table begins
+
+©️	ban quan	1000
+©️	fu hao	1000
+®️	fu hao	1000
+®️	zhu ce	1000
+‼️	jing tan	1000
+‼️	jing ya	1000
+‼️	fu hao	1000
+‼️	shuang jing tan hao	1000
+⁉️	jing ya huai yi	1000
+⁉️	fu hao	1000
+⁉️	jing tan hao jia wen hao	1000
+⁉️	jing wen	1000
+™️	shang biao	1000
+™️	fu hao	1000
+ℹ️	fu hao	1000
+ℹ️	xin xi	1000
+ℹ️	zi xun	1000
+↔️	fu hao	1000
+↔️	zuo you jian tou	1000
+↔️	zuo you	1000
+↕️	shang xia	1000
+↕️	fu hao	1000
+↕️	shang xia jian tou	1000
+↖️	jian tou	1000
+↖️	zuo shang jian tou	1000
+↖️	fu hao	1000
+↖️	zuo shang	1000
+↗️	jian tou	1000
+↗️	fu hao	1000
+↗️	you shang	1000
+↗️	you shang jian tou	1000
+↘️	jian tou	1000
+↘️	fu hao	1000
+↘️	you xia jian tou	1000
+↘️	you xia	1000
+↙️	fu hao	1000
+↙️	zuo xia	1000
+↙️	jian tou	1000
+↙️	zuo xia jian tou	1000
+↩️	fu hao	1000
+↩️	xiang zuo hui zhuan	1000
+↩️	zuo hui zhuan	1000
+↪️	you hui zhuan	1000
+↪️	fu hao	1000
+↪️	xiang you hui zhuan	1000
+⌚️	wan biao	1000
+⌚️	shi jian	1000
+⌚️	shou biao	1000
+⌛️	sha lou	1000
+⌛️	deng dai	1000
+⌛️	shi jian	1000
+⌛️	ji shi	1000
+⌨️	jian pan	1000
+⏩	xiang you fu hao	1000
+⏩	jia su	1000
+⏩	kuai jin	1000
+⏪	jian su	1000
+⏪	kuai tui	1000
+⏪	xiang zuo fu hao	1000
+⏫	shang chuan	1000
+⏫	fu hao	1000
+⏫	xiang shang fu hao	1000
+⏬	xia zai	1000
+⏬	fu hao	1000
+⏬	xiang xia fu hao	1000
+⏭️	kuai jin jian	1000
+⏮️	dao tui jian	1000
+⏯️	bo fang zan ting jian	1000
+⏰	nao zhong	1000
+⏰	ti xing	1000
+⏰	nao ling	1000
+⏱️	miao biao	1000
+⏲️	shi zhong	1000
+⏳	sha lou	1000
+⏸️	zan ting lu zhi	1000
+⏹️	ting zhi lu zhi	1000
+⏺️	lu zhi	1000
+Ⓜ️	de tie	1000
+Ⓜ️	fu hao	1000
+▶️	san jiao	1000
+▶️	xia yi ge	1000
+▶️	xiang you	1000
+◀️	shang yi ge	1000
+◀️	xiang zuo	1000
+◀️	san jiao	1000
+☀️	tian qi	1000
+☀️	qing tian	1000
+☀️	tai yang	1000
+☀️	qing lang	1000
+☁️	fu yun	1000
+☁️	duo yun	1000
+☁️	yin tian	1000
+☁️	wu yun	1000
+☁️	tian qi	1000
+☁️	yun	1000
+☂️	yu san	1000
+☂️	bao hu san	1000
+☃️	xue ren	1000
+☃️	dui xue ren	1000
+☄️	ha lei hui xing	1000
+☄️	sao ba xing	1000
+☄️	hui xing	1000
+☄️	sao zhou xing	1000
+☎️	zuo ji	1000
+☎️	da dian hua	1000
+☎️	dian hua	1000
+☎️	shang wu	1000
+☑️	xuan zhong	1000
+☑️	que ding	1000
+☑️	fu hao	1000
+☑️	gou xuan	1000
+☑️	da gou	1000
+☔️	xia yu	1000
+☔️	da san	1000
+☔️	yu san	1000
+☔️	tian qi	1000
+☔️	zhou yu	1000
+☕️	he ka fei	1000
+☕️	yin liao	1000
+☕️	ka fei	1000
+☕️	can yin	1000
+☕️	re yin	1000
+☘️	xing yun cao	1000
+☘️	san ye cao	1000
+☝️	di yi	1000
+☝️	shou shi	1000
+☝️	shi zhi	1000
+☠️	ju du	1000
+☠️	ku lou tou	1000
+☠️	ku lou	1000
+☢️	fang she xing	1000
+☢️	fu she	1000
+☣️	sheng wu wei hai biao zhi	1000
+☦️	zheng jiao hui shi zi	1000
+☪️	xing yue biao zhi	1000
+☮️	he ping biao zhi	1000
+☮️	fan zhan biao zhi	1000
+☯️	tai ji	1000
+☯️	yin yang	1000
+☸️	fa lun	1000
+☹️	sheng qi de lian	1000
+☹️	bu gao xing de lian	1000
+☺️	xiao lian	1000
+☺️	kai xin	1000
+☺️	biao qing	1000
+☺️	wei xiao	1000
+♈️	mu yang zuo	1000
+♈️	xing zuo	1000
+♉️	jin niu zuo	1000
+♉️	xing zuo	1000
+♊️	shuang zi zuo	1000
+♊️	xing zuo	1000
+♋️	xing zuo	1000
+♋️	ju xie zuo	1000
+♌️	shi zi zuo	1000
+♌️	xing zuo	1000
+♍️	xing zuo	1000
+♍️	chu nu zuo	1000
+♎️	tian cheng zuo	1000
+♎️	xing zuo	1000
+♏️	xing zuo	1000
+♏️	tian xie zuo	1000
+♐️	xing zuo	1000
+♐️	she shou zuo	1000
+♑️	xing zuo	1000
+♑️	mo jie zuo	1000
+♒️	shui ping zuo	1000
+♒️	xing zuo	1000
+♓️	shuang yu zuo	1000
+♓️	xing zuo	1000
+♠️	biao zhi	1000
+♠️	hei tao	1000
+♣️	biao zhi	1000
+♣️	cao hua	1000
+♣️	mei hua	1000
+♥️	biao zhi	1000
+♥️	hong xin	1000
+♥️	hong tao	1000
+♥️	tao xin	1000
+♦️	fang kuai	1000
+♦️	biao zhi	1000
+♦️	fang pian	1000
+♨️	xiu xi	1000
+♨️	re tang	1000
+♨️	re shui	1000
+♨️	pao tang	1000
+♨️	wen quan	1000
+♻️	hui shou	1000
+♻️	huan bao	1000
+♻️	xun huan	1000
+♻️	fu hao	1000
+♿️	can zhang	1000
+♿️	lun yi	1000
+♿️	biao zhi	1000
+♿️	can zhang ren shi	1000
+⚒️	chui zi he hao	1000
+⚒️	chui zi he gao	1000
+⚓️	chuan mao	1000
+⚓️	mao	1000
+⚓️	hai yun	1000
+⚓️	du lun	1000
+⚓️	fu hao	1000
+⚓️	gang kou	1000
+⚔️	jiao cha de jian	1000
+⚖️	gong ping cheng	1000
+⚖️	tian cheng	1000
+⚖️	tian ping	1000
+⚗️	zheng liu qi	1000
+⚙️	chi lun	1000
+⚛️	yuan zi fu hao	1000
+⚛️	wu li	1000
+⚜️	jin bai he	1000
+⚜️	yuan wei hua	1000
+⚜️	xiang gen yuan wei	1000
+⚠️	jing shi	1000
+⚠️	biao zhi	1000
+⚠️	jing gao	1000
+⚠️	zhu yi	1000
+⚡️	shan dian	1000
+⚡️	biao zhi	1000
+⚰️	guan cai	1000
+⚰️	guan guo	1000
+⚰️	ling jiu	1000
+⚱️	gu hui he	1000
+⚱️	gu hui tan	1000
+⚽️	zu qiu	1000
+⚽️	yun dong	1000
+⚽️	ti qiu	1000
+⚾️	yun dong	1000
+⚾️	bang qiu	1000
+⛄️	tian qi	1000
+⛄️	xue ren	1000
+⛅️	qing jian duo yun	1000
+⛅️	duo yun	1000
+⛅️	yin tian	1000
+⛅️	tian qi	1000
+⛈️	lei yu yun	1000
+⛈️	bao yu	1000
+⛈️	dian shan lei ming	1000
+⛎	xing zuo	1000
+⛎	she fu zuo	1000
+⛑️	jiu sheng an quan mao	1000
+⛑️	an quan mao	1000
+⛓️	lian tiao	1000
+⛔️	jin xing	1000
+⛔️	jin zhi	1000
+⛔️	biao zhi	1000
+⛔️	jin zhi jin ru	1000
+⛩️	ri ben shen she	1000
+⛩️	shen she	1000
+⛪️	li bai tang	1000
+⛪️	jie hun	1000
+⛪️	jian zhu	1000
+⛪️	zuo li bai	1000
+⛪️	sheng tang	1000
+⛪️	jiao tang	1000
+⛰️	gao shan	1000
+⛰️	shan feng	1000
+⛱️	zhe yang san	1000
+⛱️	du jia	1000
+⛲️	pen shui chi	1000
+⛲️	huo dong	1000
+⛲️	pen quan	1000
+⛲️	gong yuan	1000
+⛳️	yun dong	1000
+⛳️	gao er fu qiu	1000
+⛳️	da gao er fu	1000
+⛳️	gao er fu	1000
+⛴️	du chuan	1000
+⛴️	du lun	1000
+⛴️	shui shang ba shi	1000
+⛵️	you ting	1000
+⛵️	fan chuan	1000
+⛵️	ma tou	1000
+⛵️	jiao tong	1000
+⛵️	hai shang huo dong	1000
+⛷️	hua xue yun dong yuan	1000
+⛷️	hua xue	1000
+⛸️	liu bing xie	1000
+⛸️	hua bing	1000
+⛸️	bing dao xie	1000
+⛹️	yun dong	1000
+⛹️	da lan qiu	1000
+⛹️	lan qiu bi sai	1000
+⛺️	huo dong	1000
+⛺️	ye ying	1000
+⛺️	zhang peng	1000
+⛺️	lu ying	1000
+⛽️	ran liao	1000
+⛽️	xiu xi qu	1000
+⛽️	jia you	1000
+⛽️	jia you zhan	1000
+⛽️	huo dong	1000
+⛽️	ran liao beng	1000
+✂️	jian zi	1000
+✂️	gong ju	1000
+✂️	jian dao	1000
+✅	yun xu	1000
+✅	wan cheng	1000
+✅	que ding	1000
+✅	biao zhi	1000
+✅	zheng que	1000
+✈️	jiao tong	1000
+✈️	ji chang	1000
+✈️	lu xing	1000
+✈️	fei xing	1000
+✈️	hang kong	1000
+✈️	fei ji	1000
+✉️	xie xin	1000
+✉️	shang wu	1000
+✉️	xin jian	1000
+✉️	xun xi	1000
+✉️	you jian	1000
+✉️	xin feng	1000
+✊	shou shi	1000
+✊	quan tou	1000
+✋	ji zhang	1000
+✋	shou shi	1000
+✋	bu xing	1000
+✌️	jian dao	1000
+✌️	shou shi	1000
+✌️	ying le	1000
+✌️	sheng li	1000
+✍️	xie zi	1000
+✏️	qian bi	1000
+✏️	xie zuo	1000
+✒️	gang bi	1000
+✔️	zheng que	1000
+✔️	fu hao	1000
+✔️	da gou	1000
+✖️	da cha	1000
+✖️	fu hao	1000
+✖️	cuo wu	1000
+✖️	cheng hao	1000
+✝️	ji du jiao	1000
+✝️	shi zi jia	1000
+✡️	you tai xing hui	1000
+✡️	liu mang xing	1000
+✡️	you tai xing	1000
+✡️	suo luo men feng yin	1000
+✨	xing xing	1000
+✨	shan liang	1000
+✨	tian wen	1000
+✨	liang jing jing	1000
+✳️	fu hao	1000
+✳️	xing xing fu hao	1000
+✳️	xing hao	1000
+✴️	da cha fu hao	1000
+✴️	fu hao	1000
+✴️	ba jiao xing	1000
+❄️	xue hua	1000
+❄️	tian qi	1000
+❄️	xia xue	1000
+❇️	mi zi fu hao	1000
+❇️	qing zhu	1000
+❇️	tiao fu xing	1000
+❌	ju jue	1000
+❌	jin zhi	1000
+❌	fu hao	1000
+❌	cuo wu	1000
+❎	bu yun xu	1000
+❎	da cha fu hao	1000
+❎	wei wan cheng	1000
+❎	fu hao	1000
+❓	yi wen	1000
+❓	wen hao	1000
+❓	fu hao	1000
+❔	yi wen	1000
+❔	wen hao	1000
+❔	fu hao	1000
+❕	jing tan	1000
+❕	fu hao	1000
+❕	jing ya	1000
+❕	jing tan hao	1000
+❗️	jing tan hao	1000
+❗️	jing ya	1000
+❗️	jing tan	1000
+❗️	fu hao	1000
+❣️	xin qing gan tan hao	1000
+❤️	ai xin	1000
+❤️	fu hao	1000
+❤️	tao xin	1000
+❤️	ai	1000
+❤️	re qing	1000
+❤️	xin	1000
+➕	fu hao	1000
+➕	jia hao	1000
+➕	jia	1000
+➖	jian hao	1000
+➖	jian	1000
+➖	fu hao	1000
+➗	fu hao	1000
+➗	chu	1000
+➗	chu hao	1000
+➡️	you zhuan	1000
+➡️	jian tou	1000
+➡️	fu hao	1000
+➡️	you	1000
+➡️	xiang you jian tou	1000
+➰	fu hao	1000
+➰	wan qu xian	1000
+➿	biao zhi	1000
+➿	shuang wan qu xian	1000
+➿	fu hao	1000
+⤴️	fu hao	1000
+⤴️	zhuan xiang qian fang	1000
+⤵️	zhuan xiang hou fang	1000
+⤵️	fu hao	1000
+⬅️	fu hao	1000
+⬅️	zuo zhuan	1000
+⬅️	jian tou	1000
+⬅️	xiang zuo jian tou	1000
+⬅️	zuo	1000
+⬆️	fu hao	1000
+⬆️	jian tou	1000
+⬆️	xiang shang jian tou	1000
+⬇️	xiang xia jian tou	1000
+⬇️	jian tou	1000
+⬇️	fu hao	1000
+⭐️	fu hao	1000
+⭐️	wu jiao xing	1000
+⭐️	xing xing	1000
+⭕️	yuan quan	1000
+⭕️	fu hao	1000
+⭕️	zheng que	1000
+〰️	bo lang xian	1000
+〰️	fu hao	1000
+〽️	chang ge fu hao	1000
+〽️	zhong ri han biao dian	1000
+〽️	ge ji hao	1000
+〽️	fu hao	1000
+〽️	ge yao kai shi ji hao	1000
+㊗️	gong he	1000
+㊗️	zhu he	1000
+㊗️	qing zhu	1000
+㊗️	fu hao	1000
+㊗️	zhu fu	1000
+㊙️	mi mi	1000
+㊙️	fu hao	1000
+㊙️	mi fang	1000
+㊙️	yin si	1000
+🀄️	huo dong	1000
+🀄️	ma jiang	1000
+🀄️	hong zhong	1000
+🃏	xiao chou	1000
+🃏	huo dong	1000
+🃏	xiao wang	1000
+🃏	pu ke pai	1000
+🃏	zhi pai	1000
+🃏	wan pai	1000
+🅰️	biao zhi	1000
+🅰️	xue xing	1000
+🅱️	xue xing	1000
+🅱️	biao zhi	1000
+🅾️	biao zhi	1000
+🅾️	xue xing	1000
+🅿️	biao zhi	1000
+🅿️	ting che	1000
+🅿️	ting che chang	1000
+🆎	xue xing	1000
+🆎	biao zhi	1000
+🆑	qing ling	1000
+🆑	qing ling jian	1000
+🆑	qing chu	1000
+🆑	fu hao	1000
+🆒	ku	1000
+🆒	qing liang	1000
+🆒	fu hao	1000
+🆓	mian fei	1000
+🆓	zi you	1000
+🆓	fu hao	1000
+🆔	shen fen	1000
+🆔	fu hao	1000
+🆕	xin jian	1000
+🆕	fu hao	1000
+🆕	xin	1000
+🆖	bu xing	1000
+🆖	fu hao	1000
+🆖	bu hao	1000
+🆗	fu hao	1000
+🆗	mei wen ti	1000
+🆗	O K	1000
+🆗	o k	1000
+🆘	fu hao	1000
+🆘	qiu jiu	1000
+🆘	jiu ming	1000
+🆘	hu jiu	1000
+🆙	fu hao	1000
+🆙	ding	1000
+🆚	bi sai	1000
+🆚	bi	1000
+🆚	dui kang	1000
+🆚	dui bi	1000
+🆚	fu hao	1000
+🇦🇩	an dao er	1000
+🇦🇩	an dao er gong he guo	1000
+🇦🇪	a la bo lian he qiu zhang guo	1000
+🇦🇪	a lian qiu	1000
+🇦🇪	a la bo lian he da gong guo	1000
+🇦🇫	a fu han	1000
+🇦🇬	an ti gua he ba bu da	1000
+🇦🇬	an de ka ji ba bu da	1000
+🇦🇮	an gui la	1000
+🇦🇱	a er ba ni ya	1000
+🇦🇲	ya mei ni ya	1000
+🇦🇴	an ge la	1000
+🇦🇷	a gen ting	1000
+🇦🇷	nan mei tan ge	1000
+🇦🇸	mei shu sa mo ya	1000
+🇦🇹	ao de li	1000
+🇦🇹	yin le zhi bang	1000
+🇦🇺	ao da li ya	1000
+🇦🇺	dai shu guo	1000
+🇦🇼	a lu ba	1000
+🇦🇿	ya sai bai ran	1000
+🇦🇿	a sai bai jiang	1000
+🇧🇦	bo si ni ya	1000
+🇧🇦	bo shi ni ya	1000
+🇧🇧	ba bei duo	1000
+🇧🇧	ba ba duo si	1000
+🇧🇩	meng jia la	1000
+🇧🇪	bi li shi	1000
+🇧🇫	bu ji na fa suo	1000
+🇧🇬	mei gui wang guo	1000
+🇧🇬	bao jia li ya	1000
+🇧🇭	ba lin	1000
+🇧🇮	pu long de	1000
+🇧🇮	bu long di	1000
+🇧🇯	bei ning	1000
+🇧🇯	you zong zhi guo	1000
+🇧🇯	bei nan	1000
+🇧🇲	bai mu da	1000
+🇧🇳	wen lai	1000
+🇧🇴	bo li wei ya	1000
+🇧🇷	sang ba wu zhe	1000
+🇧🇷	sen ba wu zhe	1000
+🇧🇷	ba xi	1000
+🇧🇸	ba ha ma	1000
+🇧🇹	bu dan	1000
+🇧🇼	bo zha na	1000
+🇧🇼	bo zi wa na	1000
+🇧🇾	bai e luo si	1000
+🇧🇿	bei li si	1000
+🇧🇿	bo li zi	1000
+🇨🇦	jia na da	1000
+🇨🇦	feng ye zhi guo	1000
+🇨🇩	gang guo min zhu gong he guo	1000
+🇨🇫	zhong fei gong he guo	1000
+🇨🇬	gang guo gong he guo	1000
+🇨🇭	rui shi	1000
+🇨🇮	xiang ya hai an	1000
+🇨🇮	ke te di wa	1000
+🇨🇰	ku ke qun dao	1000
+🇨🇱	zhi li	1000
+🇨🇲	ka mai long	1000
+🇨🇳	wu xing hong qi	1000
+🇨🇳	zhong hua ren min gong he guo	1000
+🇨🇳	zhong guo guo qi	1000
+🇨🇳	zhong guo	1000
+🇨🇳	zhong hua ren min gong he guo guo qi	1000
+🇨🇴	ge lun bi ya	1000
+🇨🇷	ge si da li jia	1000
+🇨🇺	gu ba	1000
+🇨🇻	wei de jiao	1000
+🇨🇻	fu de jiao	1000
+🇨🇼	ku la suo	1000
+🇨🇾	sai pu lei si	1000
+🇨🇾	sai pu lu si	1000
+🇨🇿	jie ke	1000
+🇩🇪	de guo guo qi	1000
+🇩🇪	de guo	1000
+🇩🇪	ri er man zhan che	1000
+🇩🇯	ji bu de	1000
+🇩🇯	ji bu ti	1000
+🇩🇰	dan mai	1000
+🇩🇲	duo mi ni ke	1000
+🇩🇴	duo ming ni jia gong he guo	1000
+🇩🇴	duo mi ni jia gong he guo	1000
+🇩🇿	a er ji li ya	1000
+🇪🇨	e gua duo er	1000
+🇪🇪	ai sha ni ya	1000
+🇪🇬	ai ji	1000
+🇪🇷	e li te li ya	1000
+🇪🇷	e li chui ya	1000
+🇪🇸	xi ban ya guo qi	1000
+🇪🇸	xi ban ya	1000
+🇪🇹	ai sai e bi ya	1000
+🇪🇹	yi suo bi ya	1000
+🇫🇮	fen lan	1000
+🇫🇯	fei ji	1000
+🇫🇴	fa luo qun dao	1000
+🇫🇷	fa guo guo qi	1000
+🇫🇷	gao lu xiong ji	1000
+🇫🇷	fa guo	1000
+🇬🇦	jia peng	1000
+🇬🇧	mi zi qi	1000
+🇬🇧	bu lie dian	1000
+🇬🇧	ying guo	1000
+🇬🇧	da bu lie dian	1000
+🇬🇧	ying guo guo qi	1000
+🇬🇩	ge rui na da	1000
+🇬🇩	ge lin na da	1000
+🇬🇪	ge lu ji ya	1000
+🇬🇪	qiao zhi ya gong he guo	1000
+🇬🇫	fa shu gui ya na	1000
+🇬🇭	jia na	1000
+🇬🇮	zhi bu luo tuo	1000
+🇬🇲	gang bi ya	1000
+🇬🇲	gan bi ya	1000
+🇬🇳	ji nei ya	1000
+🇬🇵	gua de luo pu	1000
+🇬🇶	chi dao ji nei ya	1000
+🇬🇷	xi la	1000
+🇬🇹	wei de ma la	1000
+🇬🇹	gua de ma la	1000
+🇬🇺	guan dao	1000
+🇬🇼	ji nei ya bi shao	1000
+🇬🇼	ji nei ya bi suo	1000
+🇬🇾	gai ya na	1000
+🇬🇾	gui ya na	1000
+🇭🇰	xiang gang	1000
+🇭🇰	zi jing hua qi	1000
+🇭🇳	hong dou la si	1000
+🇭🇷	ge zi jun	1000
+🇭🇷	ke luo ai xi ya	1000
+🇭🇷	ke luo de ya	1000
+🇭🇹	hai de	1000
+🇭🇺	xiong ya li	1000
+🇮🇩	yin ni	1000
+🇮🇩	yin du ni xi ya	1000
+🇮🇪	ai er lan	1000
+🇮🇱	yi se lie	1000
+🇮🇳	yin du	1000
+🇮🇳	kong que zhi guo	1000
+🇮🇶	yi la ke	1000
+🇮🇷	yi lang	1000
+🇮🇸	bing dao	1000
+🇮🇹	yi da li	1000
+🇮🇹	yi da li guo qi	1000
+🇯🇲	ya mai jia	1000
+🇯🇴	yue dan	1000
+🇯🇵	ri ben guo qi	1000
+🇯🇵	ying hua zhi guo	1000
+🇯🇵	ri ben	1000
+🇯🇵	ri zhang qi	1000
+🇰🇪	ken ni ya	1000
+🇰🇬	ji er ji si	1000
+🇰🇬	ji er ji si tan	1000
+🇰🇭	jian bu zhai	1000
+🇰🇮	ji li ba si	1000
+🇰🇲	ke mo luo	1000
+🇰🇲	xiang dao	1000
+🇰🇲	ge mo	1000
+🇰🇳	sheng ji ci he ni wei si	1000
+🇰🇳	sheng ke li si duo fu ji ni wei si	1000
+🇰🇵	bei han	1000
+🇰🇷	tai ji qi	1000
+🇰🇷	han guo	1000
+🇰🇷	tai ji hu	1000
+🇰🇷	nan han	1000
+🇰🇷	han guo guo qi	1000
+🇰🇼	ke wei te	1000
+🇰🇾	kai man qun dao	1000
+🇰🇿	ha sa ke	1000
+🇰🇿	ha sa ke si tan	1000
+🇱🇦	lao wo	1000
+🇱🇦	liao guo	1000
+🇱🇧	li ba nen	1000
+🇱🇨	sheng lu xi ya	1000
+🇱🇮	lie zhi dun si deng	1000
+🇱🇮	lie zhi dun shi deng	1000
+🇱🇰	si li lan ka	1000
+🇱🇷	li bi li ya	1000
+🇱🇷	lai bi rui ya	1000
+🇱🇸	lai suo tuo	1000
+🇱🇹	li tao wan	1000
+🇱🇺	lu sen bao	1000
+🇱🇻	la tuo wei ya	1000
+🇱🇾	li bi ya	1000
+🇲🇦	mo luo ge	1000
+🇲🇩	mo er duo wa	1000
+🇲🇪	hei shan	1000
+🇲🇬	ma da jia si jia	1000
+🇲🇰	ma qi dun	1000
+🇲🇱	ma li	1000
+🇲🇲	mian dian	1000
+🇲🇳	meng gu	1000
+🇲🇴	ao men	1000
+🇲🇵	bei ma li ya na qun dao	1000
+🇲🇶	ma ding ni ke	1000
+🇲🇶	ma ti ni ke	1000
+🇲🇷	mao li ta ni ya	1000
+🇲🇸	meng te se la te dao	1000
+🇲🇸	meng te sai la te dao	1000
+🇲🇹	ma er ta	1000
+🇲🇻	ma er dai fu	1000
+🇲🇻	ma er de fu	1000
+🇲🇼	ma la wei	1000
+🇲🇽	gao yuan xiong ying	1000
+🇲🇽	mo xi ge	1000
+🇲🇾	xi he xiang jiao wang guo	1000
+🇲🇾	ma lai xi ya	1000
+🇲🇿	mo san bi ke	1000
+🇲🇿	mo sang bi ke	1000
+🇳🇦	na mi bi ya	1000
+🇳🇨	xin ka li duo ni ya qun dao	1000
+🇳🇨	xin ka li duo ni ya	1000
+🇳🇪	ni ri er	1000
+🇳🇪	sha zhong zhi guo	1000
+🇳🇬	nai ji li ya	1000
+🇳🇬	ni ri li ya	1000
+🇳🇬	fei zhou xiong ying	1000
+🇳🇮	ni jia la gua	1000
+🇳🇱	he lan	1000
+🇳🇱	feng che zhi guo	1000
+🇳🇴	nuo wei	1000
+🇳🇴	wan dao guo	1000
+🇳🇵	si miao zhi guo	1000
+🇳🇵	ni po er	1000
+🇳🇺	niu ai	1000
+🇳🇿	niu xi lan	1000
+🇳🇿	xin xi lan	1000
+🇴🇲	a man	1000
+🇵🇦	ba na ma	1000
+🇵🇪	mi lu	1000
+🇵🇬	ba bu ya niu ji nei ya	1000
+🇵🇬	ba bu ya xin ji nei ya	1000
+🇵🇭	fei lu bin	1000
+🇵🇰	ba ji si tan	1000
+🇵🇷	bo duo li ge	1000
+🇵🇸	ba lei si tan	1000
+🇵🇹	pu tao ya	1000
+🇵🇼	bo liu	1000
+🇵🇼	pa lao	1000
+🇵🇾	ba la gui	1000
+🇶🇦	ka da	1000
+🇶🇦	ka ta er	1000
+🇷🇪	liu ni wang dao	1000
+🇷🇪	liu ni wang	1000
+🇷🇴	luo ma ni ya	1000
+🇷🇸	sai er wei ya	1000
+🇷🇺	e guo	1000
+🇷🇺	e guo guo qi	1000
+🇷🇺	e luo si	1000
+🇷🇼	lu an da	1000
+🇷🇼	lu wang da	1000
+🇸🇦	sha te a la bo	1000
+🇸🇦	sha wu de a la bo	1000
+🇸🇧	suo luo men qun dao	1000
+🇸🇨	sai she er	1000
+🇸🇨	sai xi er	1000
+🇸🇩	huo lu guo	1000
+🇸🇩	su dan	1000
+🇸🇪	rui dian	1000
+🇸🇬	xin jia po	1000
+🇸🇬	shi cheng	1000
+🇸🇮	si luo wei ni ya	1000
+🇸🇮	si luo wen ni ya	1000
+🇸🇰	si luo fa ke	1000
+🇸🇱	sai la li ang	1000
+🇸🇲	sheng ma li nuo	1000
+🇸🇳	sai nei jia er	1000
+🇸🇴	suo ma li	1000
+🇸🇴	fei zhou zhi jiao	1000
+🇸🇴	suo ma li ya	1000
+🇸🇷	su li nan	1000
+🇸🇸	nan su dan gong he guo	1000
+🇸🇹	sheng duo mei ji pu lin xi bi	1000
+🇸🇹	sheng duo mei he pu lin xi bi	1000
+🇸🇻	sa er wa duo gong he guo	1000
+🇸🇽	he shu sheng ma ding	1000
+🇸🇽	sheng ma ding dao	1000
+🇸🇾	xu li ya	1000
+🇸🇿	si wei shi lan	1000
+🇸🇿	shi wa ji lan	1000
+🇹🇨	tu ke si ji kai ke si qun dao	1000
+🇹🇨	te ke si he kai ke si qun dao	1000
+🇹🇫	fa shu nan bu ling de	1000
+🇹🇬	duo ge	1000
+🇹🇭	tai guo	1000
+🇹🇭	wan fu zhi guo	1000
+🇹🇯	ta ji ke	1000
+🇹🇯	ta ji ke si tan	1000
+🇹🇱	dong di wen	1000
+🇹🇲	tu ku man si tan	1000
+🇹🇲	tu ku man	1000
+🇹🇳	tu ni xi ya	1000
+🇹🇳	gan lan zhi guo	1000
+🇹🇳	tu ni si	1000
+🇹🇴	dong jia	1000
+🇹🇴	tang jia	1000
+🇹🇷	xing yue qi	1000
+🇹🇷	tu er qi	1000
+🇹🇹	te li ni da he duo ba ge	1000
+🇹🇹	qian li da ji tuo ba ge	1000
+🇹🇻	tu wa lu	1000
+🇹🇿	tan sang ni ya	1000
+🇹🇿	tan shang ni ya	1000
+🇺🇦	wu ke lan	1000
+🇺🇬	wu gan da	1000
+🇺🇸	mei guo	1000
+🇺🇸	shan mu da shu	1000
+🇺🇸	mei guo guo qi	1000
+🇺🇸	xing tiao qi	1000
+🇺🇾	wu la gui	1000
+🇺🇿	wu zi bie ke	1000
+🇺🇿	wu zi bie ke si tan	1000
+🇻🇨	sheng wen sen te	1000
+🇻🇨	sheng wen sen	1000
+🇻🇪	wei nei rui la	1000
+🇻🇬	ying shu wei jing qun dao	1000
+🇻🇮	mei shu wei jing qun dao	1000
+🇻🇳	yue nan	1000
+🇻🇺	wan na du	1000
+🇻🇺	wa nu a tu	1000
+🇼🇸	sa mo ya qun dao	1000
+🇾🇪	ye men	1000
+🇿🇦	nan fei	1000
+🇿🇲	shang bi ya	1000
+🇿🇲	zan bi ya	1000
+🇿🇼	jin ba bu wei	1000
+🇿🇼	xin ba wei	1000
+🈚️	fu hao	1000
+🈚️	mei you	1000
+🈯️	fu hao	1000
+🈯️	yu ding	1000
+🈯️	zhi ding	1000
+🈲️	jin zhi	1000
+🈲️	fu hao	1000
+🈳️	kong wei	1000
+🈳️	fu hao	1000
+🈳️	you kong wei	1000
+🈴️	fu hao	1000
+🈴️	he ge	1000
+🈴️	shi he	1000
+🈵️	fu hao	1000
+🈵️	yi man	1000
+🈶️	fu hao	1000
+🈷️	fu hao	1000
+🈷️	yue fen	1000
+🈸️	shen	1000
+🈸️	shen qing	1000
+🈸️	fu hao	1000
+🈹️	da zhe	1000
+🈹️	ge	1000
+🈹️	rang li	1000
+🈹️	fu hao	1000
+🈺️	ying	1000
+🈺️	ying ye	1000
+🈺️	fu hao	1000
+🈺️	ying ye zhong	1000
+🉐️	huo de	1000
+🉐️	fu hao	1000
+🉐️	te jia	1000
+🉐️	shou yi	1000
+🉑️	fu hao	1000
+🉑️	jie shou	1000
+🉑️	xu ke	1000
+🌀	tian qi	1000
+🌀	xuan wo	1000
+🌀	long juan feng	1000
+🌀	tai feng	1000
+🌁	wu mai	1000
+🌁	wu qi	1000
+🌁	tian qi	1000
+🌁	wu meng meng	1000
+🌂	tian qi	1000
+🌂	yu san	1000
+🌃	xing kong	1000
+🌃	wan shang	1000
+🌃	ye jing	1000
+🌃	xing ye	1000
+🌃	zi ran	1000
+🌄	ri chu	1000
+🌄	shan jian ri chu	1000
+🌄	zi ran	1000
+🌅	ri chu	1000
+🌅	hai shang ri chu	1000
+🌅	zi ran	1000
+🌆	mu se	1000
+🌆	xi yang	1000
+🌆	huang hun	1000
+🌆	zi ran	1000
+🌆	bang wan	1000
+🌇	huang hun	1000
+🌇	xi yang	1000
+🌇	zi ran	1000
+🌈	zi ran	1000
+🌈	cai hong	1000
+🌉	ye jing	1000
+🌉	zi ran	1000
+🌉	da qiao	1000
+🌊	zi ran	1000
+🌊	chao xi	1000
+🌊	hai lang	1000
+🌊	bo lang	1000
+🌋	zi ran	1000
+🌋	huo huo shan	1000
+🌋	huo shan	1000
+🌋	huo shan pen fa	1000
+🌌	yin he	1000
+🌌	tian wen	1000
+🌌	yin he xi	1000
+🌌	zi ran	1000
+🌍	fei zhou	1000
+🌍	de qiu	1000
+🌍	ou zhou fei zhou	1000
+🌎	mei zhou	1000
+🌎	de qiu	1000
+🌏	ya zhou ao zhou	1000
+🌏	de qiu	1000
+🌐	zi wu xian	1000
+🌐	de qiu	1000
+🌑	xin yue	1000
+🌑	tian wen	1000
+🌒	mei yue	1000
+🌒	tian wen	1000
+🌓	tian wen	1000
+🌓	shang xian yue	1000
+🌓️	shang xian yue	1000
+🌔	ying tu yue	1000
+🌔	tian wen	1000
+🌕	man yue	1000
+🌕	tian wen	1000
+🌖	kui tu yue	1000
+🌖	tian wen	1000
+🌗	tian wen	1000
+🌗	xia xian yue	1000
+🌘	tian wen	1000
+🌘	can yue	1000
+🌙	tian wen	1000
+🌙	yue liang	1000
+🌙	xin yue	1000
+🌙	e mei yue	1000
+🌙	can yue	1000
+🌚	xin yue	1000
+🌚	tian wen	1000
+🌛	tian wen	1000
+🌛	shang xian yue	1000
+🌛	yue liang	1000
+🌜	xia xian yue	1000
+🌜	tian wen	1000
+🌝	tian wen	1000
+🌝	man yue	1000
+🌝	yue liang	1000
+🌞	tai yang	1000
+🌞	tian wen	1000
+🌟	xing guang	1000
+🌟	tian wen	1000
+🌟	xing xing	1000
+🌟	xing mang	1000
+🌠	liu xing	1000
+🌠	hui xing	1000
+🌠	tian wen	1000
+🌡️	wen du ji	1000
+🌤️	duo yun	1000
+🌥️	yin tian	1000
+🌦️	zhen yu	1000
+🌦️	tai yang yu	1000
+🌧️	xia yu	1000
+🌨️	xia xue	1000
+🌩️	shan dian	1000
+🌪️	long juan feng	1000
+🌫️	wu mai	1000
+🌬️	chui qi	1000
+🌭️	re gou	1000
+🌮️	ta ke	1000
+🌮️	mo xi ge juan	1000
+🌯️	mo xi ge juan bing	1000
+🌰	zhi wu	1000
+🌰	li zi	1000
+🌰	ban li	1000
+🌰	jian guo	1000
+🌱	zhi wu	1000
+🌱	qing miao	1000
+🌱	you miao	1000
+🌲	shu	1000
+🌲	chang qing shu	1000
+🌲	song shu	1000
+🌲	zhi wu	1000
+🌲	chang lu qiao mu	1000
+🌳	luo ye qiao mu	1000
+🌳	luo ye shu	1000
+🌳	zhi wu	1000
+🌳	shu	1000
+🌴	shu	1000
+🌴	zhi wu	1000
+🌴	zong lu	1000
+🌴	zong lu shu	1000
+🌵	xian ren zhang	1000
+🌵	zhi wu	1000
+🌶️	la jiao	1000
+🌷	hua	1000
+🌷	zhi wu	1000
+🌷	yu jin xiang	1000
+🌸	hua	1000
+🌸	zhi wu	1000
+🌸	ying hua	1000
+🌹	zhi wu	1000
+🌹	hua	1000
+🌹	lang man	1000
+🌹	mei gui	1000
+🌺	zhi wu	1000
+🌺	hua duo	1000
+🌺	fu sang hua	1000
+🌻	xiang ri kui	1000
+🌻	zhi wu	1000
+🌼	zhi wu	1000
+🌼	hua	1000
+🌼	qun hua	1000
+🌼	kai hua	1000
+🌼	chu ju	1000
+🌽	yu mi sui	1000
+🌽	zhi wu	1000
+🌽	yu mi	1000
+🌾	dao sui	1000
+🌾	zhi wu	1000
+🌾	shui dao	1000
+🌿	xiang cao	1000
+🌿	cao yao	1000
+🌿	zhong yao	1000
+🌿	zhi wu	1000
+🍀	zhi wu	1000
+🍀	si ye cao	1000
+🍀	hao yun	1000
+🍀	xing yun cao	1000
+🍁	zhi wu	1000
+🍁	feng ye	1000
+🍂	zhi wu	1000
+🍂	ku ye	1000
+🍂	luo ye	1000
+🍃	ye zi	1000
+🍃	zhi wu	1000
+🍃	lu ye	1000
+🍃	feng chui luo ye	1000
+🍄	mo gu	1000
+🍄	xun lei	1000
+🍄	zhi wu	1000
+🍅	xi hong shi	1000
+🍅	shui guo	1000
+🍅	fan jia	1000
+🍆	jia zi	1000
+🍆	shui guo	1000
+🍇	pu tao	1000
+🍇	shui guo	1000
+🍈	shui guo	1000
+🍈	ha mi gua	1000
+🍈	tian gua	1000
+🍉	xi gua	1000
+🍉	shui guo	1000
+🍊	shui guo	1000
+🍊	gan ju	1000
+🍊	ju zi	1000
+🍊	cheng zi	1000
+🍋	shui guo	1000
+🍋	ning meng	1000
+🍌	shui guo	1000
+🍌	xiang jiao	1000
+🍍	bo luo	1000
+🍍	feng li	1000
+🍍	shui guo	1000
+🍎	ping guo	1000
+🍎	shui guo	1000
+🍎	hong ping guo	1000
+🍏	shui guo	1000
+🍏	ping guo	1000
+🍏	qing ping guo	1000
+🍐	shui guo	1000
+🍐	li	1000
+🍐	li zi	1000
+🍑	shui mi tao	1000
+🍑	tao zi	1000
+🍑	shui guo	1000
+🍒	ying tao	1000
+🍒	shui guo	1000
+🍓	cao mei	1000
+🍓	shui guo	1000
+🍔	han bao	1000
+🍔	su shi dian	1000
+🍔	han bao bao	1000
+🍔	shi wu	1000
+🍕	bi sa	1000
+🍕	shi wu	1000
+🍕	pi sa	1000
+🍕	bi sa pian	1000
+🍕	pi sa pian	1000
+🍕	pi sa bing	1000
+🍖	gu tou rou	1000
+🍖	rou chuan	1000
+🍖	rou gu	1000
+🍖	shi wu	1000
+🍗	shi wu	1000
+🍗	ji tui	1000
+🍘	mi guo	1000
+🍘	shi wu	1000
+🍘	mi bing	1000
+🍙	shi wu	1000
+🍙	fan tuan	1000
+🍚	mi fan	1000
+🍚	shi wu	1000
+🍛	ka li fan	1000
+🍛	shi wu	1000
+🍜	mian tiao	1000
+🍜	la mian	1000
+🍜	tang mian	1000
+🍜	zheng wan	1000
+🍜	shi wu	1000
+🍝	yi da li mian tiao	1000
+🍝	yi da li mian	1000
+🍝	yi mian	1000
+🍝	mian tiao	1000
+🍝	shi wu	1000
+🍞	mian bao	1000
+🍞	shi wu	1000
+🍟	shu tiao	1000
+🍟	shi wu	1000
+🍠	fan shu	1000
+🍠	kao de gua	1000
+🍠	hong shu	1000
+🍠	de gua	1000
+🍠	shi wu	1000
+🍡	rou wan	1000
+🍡	wan zi	1000
+🍡	tuan zi	1000
+🍡	shi wu	1000
+🍢	shi wu	1000
+🍢	guan dong zhu	1000
+🍣	shou si	1000
+🍣	shi wu	1000
+🍤	shi wu	1000
+🍤	zha xia	1000
+🍤	tian fu luo	1000
+🍤	chao xia	1000
+🍥	niu er bing	1000
+🍥	xue bing	1000
+🍥	shi wu	1000
+🍥	yu ban	1000
+🍦	shuang qi lin	1000
+🍦	bing qi lin	1000
+🍦	bing ji ling	1000
+🍦	tian tong	1000
+🍦	xue gao	1000
+🍦	shi wu	1000
+🍧	pao bing	1000
+🍧	shi wu	1000
+🍨	bing ji ling	1000
+🍨	bing qi lin	1000
+🍨	xue gao	1000
+🍨	shi wu	1000
+🍩	mian bao quan	1000
+🍩	tian tian quan	1000
+🍩	shi wu	1000
+🍪	shi wu	1000
+🍪	bing gan	1000
+🍪	qu qi	1000
+🍫	shi wu	1000
+🍫	qiao ke li	1000
+🍬	tang guo	1000
+🍬	shi wu	1000
+🍭	shi wu	1000
+🍭	bang bang tang	1000
+🍮	bu ding	1000
+🍮	tian dian	1000
+🍮	tian pin	1000
+🍮	shi wu	1000
+🍯	mi guan	1000
+🍯	feng mi guan	1000
+🍯	shi wu	1000
+🍰	cao mei dan gao	1000
+🍰	dan gao	1000
+🍰	shi wu	1000
+🍱	shi wu	1000
+🍱	kuai can	1000
+🍱	he fan	1000
+🍱	bian dang	1000
+🍲	nong tang	1000
+🍲	shi wu	1000
+🍲	huo guo	1000
+🍲	re qi teng teng	1000
+🍳	ping di guo	1000
+🍳	shi wu	1000
+🍳	peng ren	1000
+🍳	jian dan	1000
+🍴	yong can	1000
+🍴	xi can	1000
+🍴	shi wu	1000
+🍴	dao cha	1000
+🍴	can ting	1000
+🍵	lu cha	1000
+🍵	cha	1000
+🍵	yin liao	1000
+🍵	mo cha	1000
+🍵	cha bei	1000
+🍶	qing jiu	1000
+🍶	jiu ping he jiu bei	1000
+🍶	yin liao	1000
+🍷	jiu bei	1000
+🍷	hong jiu bei	1000
+🍷	yin liao	1000
+🍷	hong jiu	1000
+🍷	pu tao jiu	1000
+🍸	yin liao	1000
+🍸	ji wei jiu bei	1000
+🍸	jiu bei	1000
+🍸	ji wei jiu jiu bei	1000
+🍸	ji wei jiu	1000
+🍹	leng yin	1000
+🍹	re dai yin pin	1000
+🍹	guo zhi	1000
+🍹	yin liao	1000
+🍺	pi jiu	1000
+🍺	pi jiu bei	1000
+🍺	yin liao	1000
+🍻	pi jiu bei	1000
+🍻	peng bei	1000
+🍻	yin liao	1000
+🍻	gan bei	1000
+🍻	pi jiu	1000
+🍼	nai ping	1000
+🍼	wei nai	1000
+🍽️	dao cha he can pan	1000
+🍽️	xi shi can ju	1000
+🍾️	ruan mu sai ping	1000
+🍾️	xiang bin jiu	1000
+🍿️	bao mi hua	1000
+🎀	si dai	1000
+🎀	hu die jie	1000
+🎀	duan dai	1000
+🎀	qing zhu	1000
+🎁	qing zhu	1000
+🎁	li he	1000
+🎁	li wu	1000
+🎁	li pin	1000
+🎂	dan gao	1000
+🎂	sheng ri	1000
+🎂	qing zhu	1000
+🎂	sheng ri dan gao	1000
+🎃	nan gua deng long	1000
+🎃	nan gua	1000
+🎃	qing zhu	1000
+🎃	wan sheng jie	1000
+🎃	nan gua deng	1000
+🎄	sheng dan jie	1000
+🎄	sheng dan shu	1000
+🎄	qing zhu	1000
+🎅	sheng dan lao ren	1000
+🎅	qing zhu	1000
+🎆	yan hua	1000
+🎆	ji dian	1000
+🎆	qing zhu	1000
+🎆	yan huo	1000
+🎇	qing zhu	1000
+🎇	yan huo	1000
+🎇	xian nu bang	1000
+🎇	yan hua	1000
+🎈	qing dian	1000
+🎈	qi qiu	1000
+🎈	qing zhu	1000
+🎉	qing dian	1000
+🎉	qing zhu	1000
+🎉	la pao	1000
+🎉	pai dui	1000
+🎉	li bin hua	1000
+🎊	sui hua cai qiu	1000
+🎊	cai se sui zhi	1000
+🎊	qing zhu	1000
+🎊	tang guo qiu	1000
+🎋	qi xi	1000
+🎋	xu yuan	1000
+🎋	qing zhu	1000
+🎋	qi xi shu	1000
+🎋	qi xi jie	1000
+🎍	ri ben xin nian	1000
+🎍	pen zai	1000
+🎍	zhu jie	1000
+🎍	zhi wu	1000
+🎍	men song	1000
+🎎	ri shi ren ou	1000
+🎎	ri ben nu er jie	1000
+🎎	hun li	1000
+🎎	qing zhu	1000
+🎎	jie hun	1000
+🎏	ri ben nan er jie	1000
+🎏	qing zhu	1000
+🎏	nan hai jie	1000
+🎏	li yu qi	1000
+🎐	qing zhu	1000
+🎐	feng ling jie	1000
+🎐	feng ling	1000
+🎑	zhong qiu jie	1000
+🎑	zhong qiu	1000
+🎑	qing zhu	1000
+🎒	shi ye shi	1000
+🎒	shang xue	1000
+🎒	shu bao	1000
+🎒	huo dong	1000
+🎓	jie ye shi	1000
+🎓	qing zhu	1000
+🎓	bi ye	1000
+🎓	bi ye mao	1000
+🎖️	jun gong zhang	1000
+🎖️	jun gong xun zhang	1000
+🎗️	huang si dai	1000
+🎗️	ti xing dai	1000
+🎙️	hua tong	1000
+🎙️	mai ke feng	1000
+🎚️	shui ping hua kuai	1000
+🎛️	kong zhi xuan niu	1000
+🎞️	jiao pian	1000
+🎟️	ru chang quan	1000
+🎠	xuan zhuan mu ma	1000
+🎠	xuan mu	1000
+🎠	you le yuan	1000
+🎠	you le chang	1000
+🎠	huo dong	1000
+🎡	mo tian lun	1000
+🎡	huo dong	1000
+🎡	you le chang	1000
+🎢	huo dong	1000
+🎢	guo shan che	1000
+🎢	yu le	1000
+🎢	yun xiao fei che	1000
+🎣	yun dong	1000
+🎣	diao yu	1000
+🎣	huo dong	1000
+🎣	diao yu chang	1000
+🎤	huo dong	1000
+🎤	mai ke feng	1000
+🎤	yu le	1000
+🎤	yin le	1000
+🎤	chang ge	1000
+🎥	fang ying	1000
+🎥	dian ying	1000
+🎥	huo dong	1000
+🎥	she ying ji	1000
+🎦	fang ying shi	1000
+🎦	huo dong	1000
+🎦	ying yuan	1000
+🎦	kan dian ying	1000
+🎦	dian ying yuan	1000
+🎧	yin le	1000
+🎧	er ji	1000
+🎨	huo dong	1000
+🎨	hui hua	1000
+🎨	yi shu	1000
+🎨	diao se ban	1000
+🎨	shang se	1000
+🎩	xi ju	1000
+🎩	li mao	1000
+🎩	mao zi	1000
+🎩	fu zhuang	1000
+🎪	huo dong	1000
+🎪	ma xi tuan	1000
+🎫	piao ju	1000
+🎫	ru chang quan	1000
+🎫	huo dong	1000
+🎬	huo dong	1000
+🎬	pai she	1000
+🎬	dian ying da ban	1000
+🎬	dian ying	1000
+🎭	shuang huang	1000
+🎭	xiang sheng	1000
+🎭	biao yan yi shu	1000
+🎭	tou xiang	1000
+🎭	mian ju	1000
+🎮	shi pin you xi	1000
+🎮	yao gan	1000
+🎮	shou bing	1000
+🎮	da you xi	1000
+🎮	wan you xi	1000
+🎮	dian shi you le qi	1000
+🎮	you xi ji	1000
+🎮	you xi	1000
+🎯	zheng zhong hong xin	1000
+🎯	zhi jie ming zhong	1000
+🎯	biao ba	1000
+🎰	du chang	1000
+🎰	you xi	1000
+🎰	chi jiao zi lao hu	1000
+🎰	lao hu ji	1000
+🎱	zhuang qiu	1000
+🎱	zhuo qiu	1000
+🎱	tai qiu	1000
+🎲	du bo	1000
+🎳	bao ling qiu	1000
+🎴	zhi pai	1000
+🎴	hua zha pai	1000
+🎴	pu ke pai	1000
+🎵	yin le	1000
+🎵	yin fu	1000
+🎶	xuan lu	1000
+🎶	yin fu	1000
+🎶	yin le	1000
+🎷	yin le	1000
+🎷	sa ke si feng	1000
+🎷	sa ke si	1000
+🎸	yin le	1000
+🎸	ji ta	1000
+🎹	gang qin	1000
+🎹	yin le	1000
+🎹	qin jian	1000
+🎹	yin le jian pan	1000
+🎹	dan gang qin	1000
+🎺	la ba	1000
+🎺	yin le	1000
+🎻	yin le	1000
+🎻	xiao ti qin	1000
+🎼	yin le	1000
+🎼	le pu	1000
+🎽	yun dong shan	1000
+🎽	wang qiu shan	1000
+🎽	yun dong	1000
+🎽	yun dong bei xin	1000
+🎽	bei xin	1000
+🎾	wang qiu	1000
+🎾	yun dong	1000
+🎿	yun dong	1000
+🎿	hua xue xie	1000
+🎿	hua xue	1000
+🏀	yun dong	1000
+🏀	lan qiu	1000
+🏁	zhong dian	1000
+🏁	yun dong	1000
+🏁	ge zi qi	1000
+🏁	sai che	1000
+🏂	yun dong	1000
+🏂	dan ban hua xue	1000
+🏂	hua xue ban	1000
+🏃	sai pao	1000
+🏃	yun dong	1000
+🏃	pao bu	1000
+🏄	yun dong	1000
+🏄	chong lang	1000
+🏅️	jin pai	1000
+🏅️	yun dong jiang pai	1000
+🏆	yun dong	1000
+🏆	jiang bei	1000
+🏆	guan jun	1000
+🏆	duo guan	1000
+🏇	yun dong	1000
+🏇	sai ma	1000
+🏈	mei shi gan lan qiu	1000
+🏈	yun dong	1000
+🏈	gan lan qiu	1000
+🏈	mei shi zu qiu	1000
+🏉	gan lan qiu	1000
+🏉	yun dong	1000
+🏊	you yong	1000
+🏊	yun dong	1000
+🏋️	ju zhong zhe	1000
+🏌️	gao er fu qiu shou	1000
+🏌️	da gao er fu	1000
+🏍️	mo tuo che	1000
+🏎️	sai che	1000
+🏏️	ban qiu	1000
+🏐️	pai qiu	1000
+🏑️	qu gun qiu	1000
+🏒️	bing shang qu gun qiu	1000
+🏓️	ping pang qiu	1000
+🏔️	xue shan	1000
+🏕️	lu ying	1000
+🏖️	hai bin	1000
+🏖️	sha tan	1000
+🏗️	fang wu gou zao	1000
+🏘️	zhu zhai jian zhu	1000
+🏙️	cheng shi feng guang	1000
+🏙️	dou shi feng guang	1000
+🏚️	wei fang	1000
+🏚️	fei qi jian zhu	1000
+🏛️	gu dian jian zhu	1000
+🏜️	sha mo	1000
+🏝️	wu ren dao	1000
+🏝️	huang dao	1000
+🏞️	guo jia gong yuan	1000
+🏟️	ti yu chang	1000
+🏠	jian zhu	1000
+🏠	zhu zhai	1000
+🏠	wu qi	1000
+🏠	lou fang	1000
+🏠	fang zi	1000
+🏠	zhu jia	1000
+🏠	jia	1000
+🏠	fang wu	1000
+🏠	zhu zhai lou	1000
+🏡	ting yuan	1000
+🏡	jian zhu	1000
+🏡	wu qi	1000
+🏡	fang zi	1000
+🏡	zhu jia	1000
+🏡	mu wu	1000
+🏡	fang wu	1000
+🏡	zhu zhai	1000
+🏢	ban gong lou	1000
+🏢	ban gong da lou	1000
+🏢	jian zhu	1000
+🏣	ri ben you ju	1000
+🏣	you ju	1000
+🏣	jian zhu	1000
+🏤	jian zhu	1000
+🏤	you ju	1000
+🏤	ou zhou you ju	1000
+🏥	jian zhu	1000
+🏥	yi yuan	1000
+🏦	yin xing	1000
+🏦	jian zhu	1000
+🏧	qu kuan ji	1000
+🏧	ti kuan ji	1000
+🏧	jian zhu	1000
+🏧	zi dong gui yuan ji	1000
+🏨	jian zhu	1000
+🏨	bin guan	1000
+🏨	jiu dian	1000
+🏨	lu guan	1000
+🏨	fan dian	1000
+🏩	qing ren jiu dian	1000
+🏩	lian ai lu guan	1000
+🏩	jian zhu	1000
+🏩	ai qing lu guan	1000
+🏩	bin guan	1000
+🏪	jian zhu	1000
+🏪	shi duo dian	1000
+🏪	bian li dian	1000
+🏪	bian li shang dian	1000
+🏫	jian zhu	1000
+🏫	xue xiao	1000
+🏬	jian zhu	1000
+🏬	bai huo shang dian	1000
+🏬	bai huo da lou	1000
+🏬	bai huo gong si	1000
+🏭	gong chang	1000
+🏭	jian zhu	1000
+🏭	gong ye qu	1000
+🏮	deng long	1000
+🏮	ju jiu wu	1000
+🏮	qing zhu	1000
+🏮	ju jiu wu deng long	1000
+🏮	jiu guan	1000
+🏯	cheng bao	1000
+🏯	jian zhu	1000
+🏯	ri ben cheng bao	1000
+🏰	jian zhu	1000
+🏰	cheng bao	1000
+🏰	ou zhou cheng bao	1000
+🏳️	ju bai qi	1000
+🏳️	tou jiang	1000
+🏴️	piao yang de hai dao qi	1000
+🏴️	si wang zhi qi	1000
+🏴️	ju hei qi	1000
+🏵️	yuan hua shi	1000
+🏵️	qiang wei hua shi	1000
+🏵️	mei gui hua jie	1000
+🏷️	biao qian	1000
+🏸️	yu mao qiu	1000
+🏹️	gong nu	1000
+🏹️	gong jian	1000
+🏺️	liang er xi jing guan	1000
+🏺️	shuang er xi jing tuo yuan tu guan	1000
+🏺️	shuang er ping	1000
+🐀	lao shu	1000
+🐀	dong wu	1000
+🐁	bai lao shu	1000
+🐁	dong wu	1000
+🐁	xiao bai shu	1000
+🐂	dong wu	1000
+🐂	gong niu	1000
+🐂	niu	1000
+🐃	dong wu	1000
+🐃	shui niu	1000
+🐃	niu	1000
+🐄	dong wu	1000
+🐄	nai niu	1000
+🐄	ru niu	1000
+🐄	niu	1000
+🐅	lao hu	1000
+🐅	dong wu	1000
+🐆	hua bao	1000
+🐆	dong wu	1000
+🐇	tu zi	1000
+🐇	dong wu	1000
+🐈	mao mi	1000
+🐈	dong wu	1000
+🐉	long	1000
+🐉	dong wu	1000
+🐉	qing long	1000
+🐊	dong wu	1000
+🐊	e yu	1000
+🐋	dong wu	1000
+🐋	jing yu	1000
+🐌	dong wu	1000
+🐌	wo niu	1000
+🐍	dong wu	1000
+🐎	shen ma	1000
+🐎	ma	1000
+🐎	dong wu	1000
+🐏	dong wu	1000
+🐏	gong yang	1000
+🐐	yang	1000
+🐐	shan yang	1000
+🐐	dong wu	1000
+🐑	mian yang	1000
+🐑	yang	1000
+🐑	yang gao	1000
+🐑	dong wu	1000
+🐒	hou	1000
+🐒	dong wu	1000
+🐒	hou zi	1000
+🐔	gong ji	1000
+🐓	gong ji	1000
+🐓	dong wu	1000
+🐔	dong wu	1000
+🐔	mu ji	1000
+🐔	ji	1000
+🐕	gou	1000
+🐕	dong wu	1000
+🐖	dong wu	1000
+🐖	zhu	1000
+🐗	gong zhu	1000
+🐗	ye zhu	1000
+🐗	dong wu	1000
+🐗	zhu tou	1000
+🐗	zhu	1000
+🐘	xiang	1000
+🐘	dong wu	1000
+🐘	da xiang	1000
+🐙	ba zhao yu	1000
+🐙	zhang yu	1000
+🐙	dong wu	1000
+🐚	dong wu	1000
+🐚	hai luo	1000
+🐚	shan bei	1000
+🐚	hai bei	1000
+🐚	bei ke	1000
+🐛	dong wu	1000
+🐛	qing chong	1000
+🐛	mao mao chong	1000
+🐛	chong zi	1000
+🐛	mao chong	1000
+🐜	chong zi	1000
+🐜	ma yi	1000
+🐜	dong wu	1000
+🐝	mi feng	1000
+🐝	dong wu	1000
+🐞	piao chong	1000
+🐞	jia qiao chong	1000
+🐞	dong wu	1000
+🐞	jia ke chong	1000
+🐟	yu	1000
+🐟	dong wu	1000
+🐠	yu	1000
+🐠	dong wu	1000
+🐠	re dai yu	1000
+🐡	dong wu	1000
+🐡	he tun	1000
+🐢	wu gui	1000
+🐢	dong wu	1000
+🐣	tuo qiao er chu	1000
+🐣	chu sheng	1000
+🐣	dong wu	1000
+🐣	fu hua	1000
+🐣	xiao ji	1000
+🐣	po ke er chu	1000
+🐣	po ke	1000
+🐣	fu xiao ji	1000
+🐣	tuo ke er chu	1000
+🐤	xiao ji	1000
+🐤	ji bao bao	1000
+🐤	xiao ji bao bao	1000
+🐤	dong wu	1000
+🐥	xiao ji	1000
+🐥	zheng mian de xiao ji bao bao	1000
+🐥	zheng mian de ji bao bao	1000
+🐥	zheng mian de xiao ji	1000
+🐥	dong wu	1000
+🐦	xiao niao	1000
+🐦	dong wu	1000
+🐧	dong wu	1000
+🐧	qi e	1000
+🐨	ke la xiong	1000
+🐨	dong wu	1000
+🐨	kao la	1000
+🐨	wu wei xiong	1000
+🐨	shu dai xiong	1000
+🐩	dong wu	1000
+🐩	juan mao gou	1000
+🐩	gui bin gou	1000
+🐩	shi zi gou	1000
+🐩	gou	1000
+🐪	dan feng tuo	1000
+🐪	luo tuo	1000
+🐪	dan feng luo tuo	1000
+🐪	dong wu	1000
+🐫	dong wu	1000
+🐫	shuang feng tuo	1000
+🐫	luo tuo	1000
+🐫	shuang feng luo tuo	1000
+🐬	dong wu	1000
+🐬	hai tun	1000
+🐭	dong wu	1000
+🐭	lao shu lian	1000
+🐭	shu lian	1000
+🐭	lao shu	1000
+🐭	shu	1000
+🐮	dong wu biao qing	1000
+🐮	niu	1000
+🐮	niu lian	1000
+🐮	mu niu	1000
+🐮	dong wu	1000
+🐯	lao hu lian	1000
+🐯	hu lian	1000
+🐯	lao hu	1000
+🐯	dong wu	1000
+🐰	tu lian	1000
+🐰	tu zi lian	1000
+🐰	tu	1000
+🐰	dong wu	1000
+🐰	tu zi	1000
+🐱	mao lian	1000
+🐱	dong wu	1000
+🐱	mao	1000
+🐲	long lian	1000
+🐲	dong wu	1000
+🐲	long	1000
+🐳	pen shui	1000
+🐳	pen shui jing yu	1000
+🐳	jing	1000
+🐳	dong wu	1000
+🐳	jing yu	1000
+🐴	shen ma	1000
+🐴	dong wu	1000
+🐴	ma lian	1000
+🐴	ma	1000
+🐵	hou lian	1000
+🐵	hou zi lian	1000
+🐵	dong wu	1000
+🐵	hou zi	1000
+🐵	hou	1000
+🐶	dong wu	1000
+🐶	gou	1000
+🐶	gou lian	1000
+🐶	ke ai	1000
+🐶	mai meng	1000
+🐶	xiao gou	1000
+🐷	zhu lian	1000
+🐷	xiao zhu	1000
+🐷	zhu	1000
+🐷	dong wu	1000
+🐷	zhu tou	1000
+🐸	dong wu	1000
+🐸	dong wu biao qing	1000
+🐸	qing wa	1000
+🐸	qing wa lian	1000
+🐹	cang shu lian	1000
+🐹	dong wu	1000
+🐹	cang shu	1000
+🐺	lang lian	1000
+🐺	lang	1000
+🐺	dong wu	1000
+🐻	xiong lian	1000
+🐻	xiong	1000
+🐻	dong wu	1000
+🐼	xiong mao	1000
+🐼	dong wu	1000
+🐼	xiong mao lian	1000
+🐼	mao xiong	1000
+🐽	zhu bi	1000
+🐽	dong wu	1000
+🐾	dong wu	1000
+🐾	zhang yin	1000
+🐾	dong wu zu yin	1000
+🐿️	jin li shu	1000
+🐿️	jin hua shu	1000
+🐿️	song shu	1000
+👀	yan jing	1000
+👀	yan	1000
+👀	qi guan	1000
+👁️	yan jing	1000
+👂	qi guan	1000
+👂	er	1000
+👂	lian bu qi guan	1000
+👃	bi zi	1000
+👃	wen	1000
+👃	qi guan	1000
+👃	bi	1000
+👄	zui ba	1000
+👄	shuo hua	1000
+👄	qi guan	1000
+👄	zui	1000
+👄	lian bu qi guan	1000
+👅	chang	1000
+👅	qi guan	1000
+👆	shang mian	1000
+👆	shou shi	1000
+👆	xiang shang shou shi	1000
+👆	xiang shang	1000
+👇	shou shi	1000
+👇	xiang xia	1000
+👇	xiang xia shou shi	1000
+👇	xia mian	1000
+👈	xiang zuo shou shi	1000
+👈	xiang zuo	1000
+👈	shou shi	1000
+👈	zuo bian	1000
+👉	you bian	1000
+👉	xiang you shou shi	1000
+👉	xiang you	1000
+👉	shou shi	1000
+👊	da ji	1000
+👊	quan tou	1000
+👊	hui quan	1000
+👊	shou shi	1000
+👊	quan tou shou shi	1000
+👋	shou shi	1000
+👋	shou	1000
+👋	hui shou	1000
+👋	zai jian	1000
+👋	bai bai	1000
+👌	shou shi	1000
+👌	mei wen ti	1000
+👌	que ren shou shi	1000
+👌	O K	1000
+👌	hao	1000
+👌	o k	1000
+👍	cheng zan	1000
+👍	shu mu zhi	1000
+👍	ding gu gu	1000
+👍	zan	1000
+👍	shou shi	1000
+👍	shu qi mu zhi	1000
+👍	fei chang hao	1000
+👎	bu hao	1000
+👎	mu zhi chao xia	1000
+👎	shou shi	1000
+👎	bi shi	1000
+👎	cai	1000
+👏	shou shi	1000
+👏	gu zhang	1000
+👏	pai shou	1000
+👏	zhang sheng	1000
+👐	tan kai shou	1000
+👐	shou shi	1000
+👐	wu neng wei li	1000
+👐	zhang kai shuang shou	1000
+👐	shuang zhang	1000
+👐	mei ban fa	1000
+👑	huang guan	1000
+👑	fu zhuang	1000
+👒	fu zhuang	1000
+👒	li mao	1000
+👒	shi nu mao	1000
+👒	mao zi	1000
+👒	nu shi mao	1000
+👓	jin shi	1000
+👓	fu zhuang	1000
+👓	yan jing	1000
+👔	zheng zhuang	1000
+👔	chen shan ling dai	1000
+👔	yi fu	1000
+👔	chen shan	1000
+👔	ling dai	1000
+👔	fu zhuang	1000
+👕	xiu xian zhuang	1000
+👕	shang yi	1000
+👕	fu zhuang	1000
+👕	yuan ling shan	1000
+👕	chen shan	1000
+👖	niu zi ku	1000
+👖	zhang ku	1000
+👖	ku zi	1000
+👖	fu zhuang	1000
+👗	yang zhuang	1000
+👗	qun zi	1000
+👗	fu zhuang	1000
+👗	yi fu	1000
+👗	lian yi qun	1000
+👘	fu zhuang	1000
+👘	he fu	1000
+👘	ri shi fu zhuang	1000
+👘	yu yi	1000
+👙	yong zhuang	1000
+👙	bi ji ni	1000
+👙	fu zhuang	1000
+👚	shang yi	1000
+👚	fu zhuang	1000
+👚	nu zhuang	1000
+👚	nu shi fu zhuang	1000
+👛	qian bao	1000
+👛	fu zhuang	1000
+👜	shou ti bao	1000
+👜	kua bao	1000
+👜	fu zhuang	1000
+👝	fu zhuang	1000
+👝	pi bao	1000
+👝	xiao bao bao	1000
+👝	he bao	1000
+👞	nan xie	1000
+👞	pi xie	1000
+👞	fu zhuang	1000
+👞	nan shi xie	1000
+👟	yun dong xie	1000
+👟	xie	1000
+👟	fu zhuang	1000
+👟	xiu xian xie	1000
+👠	xie	1000
+👠	fu zhuang	1000
+👠	gao gen xie	1000
+👠	nu xie	1000
+👡	fu zhuang	1000
+👡	liang xie	1000
+👢	fu zhuang	1000
+👢	xue zi	1000
+👢	zhang xue	1000
+👣	zu yin	1000
+👣	qi guan	1000
+👣	jiao yin	1000
+👣	zu ji	1000
+👤	ge ren	1000
+👤	tou xiang	1000
+👤	dan ren	1000
+👤	ke ren zhang hu	1000
+👤	ban shen xiang	1000
+👥	shuang ren	1000
+👥	tou xiang	1000
+👥	duo ren	1000
+👦	tou xiang	1000
+👦	nan hai	1000
+👦	er zi	1000
+👧	nu hai	1000
+👧	nu er	1000
+👧	tou xiang	1000
+👨	tou xiang	1000
+👨	fu qin	1000
+👨	nan ren	1000
+👨‍❤️‍👨	xiong di qing shen	1000
+👨‍❤️‍💋‍👨	qin wen	1000
+👨‍👨‍👦	yi jia san kou	1000
+👨‍👨‍👦‍👦	yi jia si kou	1000
+👨‍👨‍👧	yi jia san kou	1000
+👨‍👨‍👧‍👦	yi jia si kou	1000
+👨‍👨‍👧‍👧	yi jia si kou	1000
+👨‍👩‍👦	yi suo de nan	1000
+👨‍👩‍👦	yi jia san kou	1000
+👨‍👩‍👦‍👦	shuang long zhi jia	1000
+👨‍👩‍👦‍👦	yi jia si kou	1000
+👨‍👩‍👧	yi jia san kou	1000
+👨‍👩‍👧‍👦	jia you er nu	1000
+👨‍👩‍👧‍👦	yi jia si kou	1000
+👨‍👩‍👧‍👧	yi jia si kou	1000
+👨‍👩‍👧‍👧	shuang feng zhi jia	1000
+👩	nu ren	1000
+👩	tou xiang	1000
+👩	mu qin	1000
+👩‍❤️‍👩	gui mi qing yi	1000
+👩‍❤️‍👩	jie mei qing shen	1000
+👩‍❤️‍💋‍👩	qin wen	1000
+👩‍👩‍👦	yi jia san kou	1000
+👩‍👩‍👦‍👦	yi jia si kou	1000
+👩‍👩‍👧	yi jia san kou	1000
+👩‍👩‍👧‍👦	yi jia si kou	1000
+👩‍👩‍👧‍👧	yi jia si kou	1000
+👪	jia ren	1000
+👪	jia ting	1000
+👫	jia ren	1000
+👫	qing lu	1000
+👫	qian shou	1000
+👬	qian shou	1000
+👬	you hao	1000
+👬	jia ren	1000
+👬	peng you	1000
+👬	xiong di	1000
+👭	peng you	1000
+👭	jia ren	1000
+👭	you qing	1000
+👭	jie mei	1000
+👭	qian shou	1000
+👮	tou xiang	1000
+👮	jing cha	1000
+👯	tu nu lang	1000
+👯	tou xiang	1000
+👰	jie hun	1000
+👰	tou xiang	1000
+👰	xin niang	1000
+👱	jin fa de ren	1000
+👱	jin fa nan zi	1000
+👱	jin fa	1000
+👱	xi fang ren	1000
+👱	tou xiang	1000
+👲	gua pi mao	1000
+👲	tou xiang	1000
+👲	lei feng shu shu	1000
+👳	tou jin	1000
+👳	bao tou jin	1000
+👳	bao tou jin de nan ren	1000
+👳	tou xiang	1000
+👴	lao ren	1000
+👴	zu fu	1000
+👴	tou xiang	1000
+👴	lao ye ye	1000
+👵	zu mu	1000
+👵	tou xiang	1000
+👵	lao nai nai	1000
+👵	lao fu ren	1000
+👶	tou xiang	1000
+👶	bao bao	1000
+👶	ying er	1000
+👷	gong ren	1000
+👷	jian zhu gong ren	1000
+👷	shi gong	1000
+👷	tou xiang	1000
+👸	gong zhu	1000
+👸	tong hua	1000
+👸	tou xiang	1000
+👹	guai wu	1000
+👹	mo gui	1000
+👹	tou xiang	1000
+👹	e gui	1000
+👹	gui guai	1000
+👺	yao guai	1000
+👺	tou xiang	1000
+👺	tian gou	1000
+👻	gui hun	1000
+👻	you ling	1000
+👻	tou xiang	1000
+👻	yao guai	1000
+👻	gui lian	1000
+👼	tian shi bao bao	1000
+👼	tou xiang	1000
+👼	tian shi	1000
+👽	tou xiang	1000
+👽	wai xing ren	1000
+👾	guai shou	1000
+👾	tou xiang	1000
+👾	xiao jing ling	1000
+👿	xiao e mo	1000
+👿	tou xiang	1000
+👿	tong hua	1000
+👿	e mo	1000
+💀	tou gu	1000
+💀	ku lou tou	1000
+💀	si wang	1000
+💀	tou xiang	1000
+💁	tou xiang	1000
+💁	fu wu yuan	1000
+💂	wei bing	1000
+💂	wei shi	1000
+💂	tou xiang	1000
+💃	jiao se	1000
+💃	tou xiang	1000
+💃	wu dao jia	1000
+💃	tiao wu	1000
+💃	wu nu	1000
+💃	wu zhe	1000
+💄	kou hong	1000
+💄	huo dong	1000
+💅	mei jia	1000
+💅	huo dong	1000
+💆	an mo	1000
+💆	mei rong	1000
+💆	tou xiang	1000
+💇	li fa	1000
+💇	tou xiang	1000
+💇	jian fa	1000
+💇	ti tou	1000
+💈	fa lang	1000
+💈	li fa	1000
+💈	huo dong	1000
+💈	li fa dian	1000
+💉	zhen tong	1000
+💉	zhu she	1000
+💉	da zhen	1000
+💉	yi liao	1000
+💉	huo dong	1000
+💉	zhu she qi	1000
+💊	huo dong	1000
+💊	yao wan	1000
+💊	jiao nang	1000
+💊	chi yao	1000
+💊	yi liao	1000
+💋	hong chun	1000
+💋	jie wen	1000
+💋	lang man	1000
+💋	qin yi kou	1000
+💋	qin zui	1000
+💋	chun yin	1000
+💌	qing shu	1000
+💌	lang man	1000
+💍	shou shi	1000
+💍	lang man	1000
+💍	jie zhi	1000
+💍	zuan jie	1000
+💎	zuan shi	1000
+💎	bao shi	1000
+💎	zhu bao	1000
+💎	lang man	1000
+💏	lang man	1000
+💏	jie wen	1000
+💏	qin wen	1000
+💐	xian hua	1000
+💐	hua	1000
+💐	hua shu	1000
+💐	lang man	1000
+💑	lian ren	1000
+💑	fu fu	1000
+💑	lang man	1000
+💑	qing lu	1000
+💒	hun li	1000
+💒	lang man	1000
+💓	xi huan	1000
+💓	tiao dong de xin	1000
+💓	xin dong	1000
+💓	lang man	1000
+💓	ai	1000
+💓	ai qing	1000
+💔	lang man	1000
+💔	xin sui	1000
+💔	shi lian	1000
+💔	shang xin	1000
+💕	xin xin xiang yin	1000
+💕	liang ke xin	1000
+💕	lang man	1000
+💕	xin	1000
+💖	shan liang de xin	1000
+💖	lang man	1000
+💗	ai xin	1000
+💗	jin zhang	1000
+💗	lang man	1000
+💗	ai	1000
+💗	xin tiao	1000
+💗	yue dong de xin	1000
+💘	lang man	1000
+💘	yi jian chuan xin	1000
+💘	yi jian zhong qing	1000
+💙	lan se xin xing	1000
+💙	lan xin	1000
+💙	lang man	1000
+💙	cai xin	1000
+💚	lu se xin xing	1000
+💚	lu xin	1000
+💚	cai xin	1000
+💚	lang man	1000
+💛	huang xin	1000
+💛	huang se xin xing	1000
+💛	cai xin	1000
+💛	lang man	1000
+💜	lang man	1000
+💜	cai xin	1000
+💜	zi xin	1000
+💜	zi se xin xing	1000
+💝	bang shang duan dai de xin	1000
+💝	shi yi si dai de xin	1000
+💝	ai xin li wu	1000
+💝	lang man	1000
+💞	xuan zhuan de xin xing	1000
+💞	xin xin xiang yin	1000
+💞	xuan zhuan de xin	1000
+💞	lang man	1000
+💟	lang man	1000
+💟	xin xing zhuang shi	1000
+💡	dian deng	1000
+💡	dian zi	1000
+💡	dian deng pao	1000
+💡	deng pao	1000
+💡	xiang fa	1000
+💢	qing jin	1000
+💢	sheng qi	1000
+💢	fen nu	1000
+💢	qi fen	1000
+💢	xin qing	1000
+💣	xin qing	1000
+💣	zha dan	1000
+💤	shui jue	1000
+💤	xin qing	1000
+💤	han shui	1000
+💤	chen shui	1000
+💥	peng zhuang	1000
+💥	xin qing	1000
+💥	bao zha	1000
+💦	han shui	1000
+💦	hui han ru yu	1000
+💦	xin ku	1000
+💦	liu han	1000
+💦	xin qing	1000
+💧	han yan	1000
+💧	shui di	1000
+💧	han di	1000
+💧	xin qing	1000
+💧	xiao di	1000
+💨	tao li	1000
+💨	tao pao	1000
+💨	kuai pao	1000
+💨	ji pao	1000
+💨	xin qing	1000
+💩	gou shi	1000
+💩	xin qing	1000
+💩	shi	1000
+💩	da bian	1000
+💩	la shi	1000
+💪	ji rou	1000
+💪	er tou ji	1000
+💪	qiang zhuang	1000
+💪	xiu ji rou	1000
+💪	xin qing	1000
+💫	tou yun mu xuan	1000
+💫	xin qing	1000
+💫	yun tou zhuan xiang	1000
+💫	yun xuan	1000
+💬	shuo hua	1000
+💬	fa yan	1000
+💬	xin qing	1000
+💬	fa yan qi qiu	1000
+💬	fa yan zhong	1000
+💭	biao zhi	1000
+💭	xiang xiang zhong	1000
+💭	si kao zhong	1000
+💭	si kao	1000
+💭	kao lu	1000
+💭	xiang fa	1000
+💯	yi bai fen	1000
+💯	man fen	1000
+💯	xin qing	1000
+💯	bai dian	1000
+💰	jin qian	1000
+💰	qian dai	1000
+💱	shang wu	1000
+💱	huo bi dui huan	1000
+💲	jin qian	1000
+💲	mei jin	1000
+💲	mei yuan	1000
+💳	xin yong ka	1000
+💳	jin qian	1000
+💴	jin qian	1000
+💴	ri yuan	1000
+💵	mei yuan	1000
+💵	jin qian	1000
+💶	jin qian	1000
+💶	ou yuan	1000
+💷	jin qian	1000
+💷	ying bang	1000
+💸	po chan	1000
+💸	kui sun	1000
+💸	jin qian	1000
+💸	qian fei le	1000
+💸	po cai	1000
+💺	zuo wei	1000
+💺	jiao tong	1000
+💺	zuo yi	1000
+💺	yi zi	1000
+💻	xin xi	1000
+💻	ying mu	1000
+💻	dian nao	1000
+💻️	ge ren dian nao	1000
+💻️	bi ji ben dian nao	1000
+💻️	ge ren ji suan ji	1000
+💼	gong wen bao	1000
+💼	xin xi	1000
+💼	gong shi bao	1000
+💼	shang wu	1000
+💼	shang ban	1000
+💽	xin xi	1000
+💽	guang die	1000
+💽	die pian	1000
+💽	mi ni guang die	1000
+💾	xin xi	1000
+💾	ruan die	1000
+💾	ruan pan	1000
+💾	zi liao	1000
+💿	guang die	1000
+💿	guang pan	1000
+💿	xin xi	1000
+📀	guang pan	1000
+📀	xin xi	1000
+📀	guang die	1000
+📁	zi liao jia	1000
+📁	wen jian jia	1000
+📁	shang wu	1000
+📂	shang wu	1000
+📂	wen jian jia	1000
+📂	kai qi zi liao jia	1000
+📃	ye mian	1000
+📃	wen shu	1000
+📃	shang wu	1000
+📃	zi liao	1000
+📃	wen jian	1000
+📃	dang an	1000
+📄	ye mian	1000
+📄	wen jian	1000
+📄	zheng shu	1000
+📄	zi liao	1000
+📄	dang an	1000
+📄	shang wu	1000
+📅	ri li	1000
+📅	shang wu	1000
+📅	ri qi	1000
+📆	ri li	1000
+📆	shang wu	1000
+📆	si kai de ri li	1000
+📇	ka pian suo yin	1000
+📇	suo yin ka	1000
+📇	ming pian zhi zuo	1000
+📇	shang wu	1000
+📈	shou yi bao biao	1000
+📈	xiang shang qu shi tu	1000
+📈	ye ji shang zhang	1000
+📈	tu biao	1000
+📈	shang wu	1000
+📉	xiang xia qu shi tu	1000
+📉	kui sun bao biao	1000
+📉	shang wu	1000
+📉	die shi	1000
+📉	ye ji xia hua	1000
+📉	tu biao	1000
+📊	shang wu	1000
+📊	zhi fang tu	1000
+📊	zhang tiao tu	1000
+📋	jian qie ban	1000
+📋	zhu yi shi xiang	1000
+📋	jian tie ban	1000
+📋	shang wu	1000
+📋	zhan tie ban	1000
+📌	shang wu	1000
+📌	tu ding	1000
+📍	yuan tu ding	1000
+📍	da tou ding	1000
+📍	shang wu	1000
+📎	hui wen zhen	1000
+📎	shang wu	1000
+📎	hui xing zhen	1000
+📏	shang wu	1000
+📏	zhi chi	1000
+📐	shang wu	1000
+📐	san jiao chi	1000
+📑	shu qian	1000
+📑	shang wu	1000
+📑	shu qian biao qian	1000
+📒	shang wu	1000
+📒	zhang ben	1000
+📒	ji shi bu	1000
+📒	bi ji	1000
+📓	shang wu	1000
+📓	bi ji ben	1000
+📔	shang wu	1000
+📔	bi ji ben	1000
+📕	bei wang lu	1000
+📕	hong se shu ben	1000
+📕	shang wu	1000
+📖	da kai de shu ben	1000
+📖	fan shu	1000
+📖	shang wu	1000
+📖	shu ben	1000
+📖	cha xun	1000
+📗	lu se shu ben	1000
+📗	shang wu	1000
+📘	shang wu	1000
+📘	lan se shu ben	1000
+📙	ju se shu ben	1000
+📙	shang wu	1000
+📚	shang wu	1000
+📚	shu ji	1000
+📚	shu ben	1000
+📛	xing ming pai	1000
+📛	shang wu	1000
+📛	ming pai	1000
+📜	shang wu	1000
+📜	juan zong	1000
+📜	juan zhou	1000
+📝	bi lu	1000
+📝	ji shi	1000
+📝	xin xi	1000
+📝	ji lu	1000
+📝	bei wang	1000
+📞	dian hua	1000
+📞	tong xun	1000
+📞	dian hua ting tong	1000
+📞	ting tong	1000
+📞	shang wu	1000
+📟	chuan hu ji	1000
+📟	shang wu	1000
+📟	hu ji	1000
+📠	chuan zhen ji	1000
+📠	xin xi	1000
+📠	chuan zhen	1000
+📡	xin xi	1000
+📡	wei xing tian xian	1000
+📡	tong xun	1000
+📡	wei xing tong xun	1000
+📢	kuo yin la ba	1000
+📢	kuo yin qi	1000
+📢	guang bo	1000
+📢	xin xi	1000
+📢	la ba	1000
+📣	la ba	1000
+📣	jia you	1000
+📣	xin xi	1000
+📣	da sheng gong	1000
+📣	chuan sheng tong	1000
+📣	da la ba	1000
+📣	la la dui	1000
+📤	fa jian xiang	1000
+📤	fa jian xiang tuo pan	1000
+📤	shang wu	1000
+📥	shang wu	1000
+📥	shou jian xiang	1000
+📥	shou jian xiang tuo pan	1000
+📦	feng zhuang	1000
+📦	zhi xiang	1000
+📦	li pin	1000
+📦	bao guo	1000
+📧	dian zi you jian	1000
+📧	you jian	1000
+📧	dian you	1000
+📧	shang wu	1000
+📨	yue du you jian	1000
+📨	lai xin	1000
+📨	shang wu	1000
+📨	shou jian xia	1000
+📩	fa you jian	1000
+📩	xin xi	1000
+📩	fa song you jian	1000
+📪	you xiang	1000
+📪	xin xiang	1000
+📪	shang wu	1000
+📪	shou xin	1000
+📫	xin xiang	1000
+📫	ji xin	1000
+📫	xin xi	1000
+📫	you xin ji chu	1000
+📫	you xiang	1000
+📬	you xiang	1000
+📬	shang wu	1000
+📬	you lai xin	1000
+📭	shang wu	1000
+📭	mei you lai xin	1000
+📭	you xiang	1000
+📮	xin xi	1000
+📮	you xiang	1000
+📮	you tong	1000
+📯	you zheng hao jiao	1000
+📯	yin le	1000
+📯	hao jiao	1000
+📰	bao zhi	1000
+📰	xin xi	1000
+📰	xin wen	1000
+📰	bao kan	1000
+📱	shou ji	1000
+📱	xin xi	1000
+📱	xing dong dian hua	1000
+📱	yi dong dian hua	1000
+📱	zhi neng ji	1000
+📲	da dian hua	1000
+📲	jie dian hua	1000
+📲	xin xi	1000
+📳	xin xi	1000
+📳	zhen dong mo shi	1000
+📳	zhen dong	1000
+📴	guan ji	1000
+📴	shou ji guan ji	1000
+📴	guan ji mo shi	1000
+📴	yi dong dian hua guan ji	1000
+📴	xin xi	1000
+📵	jin yong shou ji	1000
+📵	biao zhi	1000
+📵	jin zhi tong hua	1000
+📶	xin hao zhuang kuang	1000
+📶	xin xi	1000
+📶	shou xun	1000
+📶	xin hao	1000
+📷	zhao xiang	1000
+📷	zhao xiang ji	1000
+📷	xin xi	1000
+📷	xiang ji	1000
+📷	pai zhao	1000
+📸️	xiang ji shan guang deng	1000
+📸️	shan guang deng	1000
+📹	xin xi	1000
+📹	she xiang	1000
+📹	she ying	1000
+📹	she ying ji	1000
+📹	she xiang ji	1000
+📹	lu ying	1000
+📹	lu xiang	1000
+📺	dian shi ji	1000
+📺	dian shi	1000
+📺	mei ti	1000
+📺	xin xi	1000
+📻	shou yin ji	1000
+📻	mei ti	1000
+📻	ting guang bo	1000
+📻	xin xi	1000
+📼	lu ying dai	1000
+📼	xin xi	1000
+📼	lu xiang dai	1000
+📽️	dian ying fang ying ji	1000
+📿️	nian zhu	1000
+🔀	sui ji bo fang	1000
+🔀	fu hao	1000
+🔁	xun huan bo fang	1000
+🔁	dan qu bo fang	1000
+🔁	fu hao	1000
+🔁	xun huan	1000
+🔂	dan qu xun huan	1000
+🔂	bo fang yi ci	1000
+🔂	fu hao	1000
+🔃	shang wu	1000
+🔃	zhong xin bo fang	1000
+🔃	xun huan	1000
+🔃	zhong xin zai ru	1000
+🔃	zhong xin du qu	1000
+🔃	zhong zai	1000
+🔄	xun huan	1000
+🔄	lie biao xun huan	1000
+🔄	fu hao	1000
+🔄	zhong xin zheng li	1000
+🔊	xin xi	1000
+🔊	sheng yin	1000
+🔊	yin liang	1000
+🔋	dian chi	1000
+🔋	gong ju	1000
+🔋	dian liang	1000
+🔌	dian yuan	1000
+🔌	dian cha tou	1000
+🔌	cha tou	1000
+🔌	gong ju	1000
+🔍	sou xun	1000
+🔍	sou suo	1000
+🔍	cha xun	1000
+🔍	fang da jing	1000
+🔍	gong ju	1000
+🔎	xiang xi	1000
+🔎	qing bao	1000
+🔎	gong ju	1000
+🔎	fang da jing	1000
+🔎	xiang qing	1000
+🔏	gong ju	1000
+🔏	yin si	1000
+🔏	yin mi	1000
+🔐	gong ju	1000
+🔐	jia mi	1000
+🔐	an quan	1000
+🔑	gong ju	1000
+🔒	shang suo	1000
+🔒	gong ju	1000
+🔒	suo ding	1000
+🔒	suo	1000
+🔓	jie suo	1000
+🔓	gong ju	1000
+🔓	kai suo	1000
+🔔	ling dang	1000
+🔔	xiang ling	1000
+🔔	ti xing	1000
+🔔	gong ju	1000
+🔖	shu qian	1000
+🔖	gong ju	1000
+🔗	tie suo	1000
+🔗	gong ju	1000
+🔗	lian jie	1000
+🔗	huan kou	1000
+🔘	gong ju	1000
+🔘	an niu	1000
+🔘	yuan xing an niu	1000
+🔘	dan xuan an niu	1000
+🔙	fu hao	1000
+🔙	hou tui	1000
+🔙	tui hui	1000
+🔚	mo wei	1000
+🔚	fu hao	1000
+🔚	jie shu	1000
+🔛	kai qi	1000
+🔛	qi yong	1000
+🔛	fu hao	1000
+🔜	kuai jin	1000
+🔜	kuai su	1000
+🔜	fu hao	1000
+🔝	shang fang	1000
+🔝	fu hao	1000
+🔝	zhi ding	1000
+🔞	shao er bu yi	1000
+🔞	wei cheng nian jin zhi	1000
+🔞	biao zhi	1000
+🔞	cheng ren	1000
+🔞	cheng ren jie mu	1000
+🔞	shi ba jin	1000
+🔟	shi	1000
+🔟	fu hao	1000
+🔠	ying wen da xie	1000
+🔠	fu hao	1000
+🔠	da xie zi mu	1000
+🔡	fu hao	1000
+🔡	xiao xie zi mu	1000
+🔡	ying wen xiao xie	1000
+🔢	fu hao	1000
+🔢	shu zi	1000
+🔣	te shu fu hao	1000
+🔣	fu hao	1000
+🔤	ying wen zi	1000
+🔤	qie huan shu ru	1000
+🔤	fu hao	1000
+🔤	ying wen shu ru fa	1000
+🔥	huo yan	1000
+🔥	huo	1000
+🔥	ran shao	1000
+🔥	dian ran	1000
+🔦	shou dian tong	1000
+🔦	zhao ming	1000
+🔦	gong ju	1000
+🔧	gong ju	1000
+🔧	ban shou	1000
+🔧	xiu li	1000
+🔨	chui zi	1000
+🔨	tie chui	1000
+🔨	qiao da	1000
+🔨	gong ju	1000
+🔩	luo shuan tao jian	1000
+🔩	luo mu ji luo shuan	1000
+🔩	luo si	1000
+🔩	gong ju	1000
+🔪	cai dao	1000
+🔪	shui guo dao	1000
+🔪	gong ju	1000
+🔪	xiao dao	1000
+🔫	zuo lun qiang	1000
+🔫	qiang	1000
+🔫	gong ju	1000
+🔫	shou qiang	1000
+🔫	qiang xie	1000
+🔬	gong ju	1000
+🔬	zuo shi yan	1000
+🔬	xian wei jing	1000
+🔬	ke xue	1000
+🔭	tian wen guan cha	1000
+🔭	gong ju	1000
+🔭	wang yuan jing	1000
+🔭	tian wen	1000
+🔮	zhan bo	1000
+🔮	shui jing qiu	1000
+🔮	fu hao	1000
+🔯	liu jiao xing	1000
+🔯	liu mang xing	1000
+🔯	fu hao	1000
+🔰	dun pai	1000
+🔰	chu xin zhe	1000
+🔰	fu hao	1000
+🔱	hai wang ji	1000
+🔱	fu hao	1000
+🔱	san cha ji	1000
+🔼	xiang shang	1000
+🔼	fu hao	1000
+🔽	xiang xia	1000
+🔽	fu hao	1000
+🕉️	fan wen fu hao	1000
+🕊️	he ping ge	1000
+🕋️	ke er bai	1000
+🕋️	ka ba sheng tang	1000
+🕌️	qing zhen si	1000
+🕌️	hui jiao tang	1000
+🕍️	you tai jiao tang	1000
+🕎️	duo lian deng zhu tai	1000
+🕎️	you tai jiao deng tai	1000
+🕎️	you tai jiao jiu deng zhu tai	1000
+🕐	yi dian zhong	1000
+🕐	yi dian	1000
+🕐	shi jian	1000
+🕑	liang dian	1000
+🕑	shi jian	1000
+🕑	liang dian zhong	1000
+🕒	shi jian	1000
+🕒	san dian	1000
+🕒	san dian zhong	1000
+🕓	shi jian	1000
+🕓	si dian zhong	1000
+🕓	si dian	1000
+🕔	wu dian zhong	1000
+🕔	wu dian	1000
+🕔	shi jian	1000
+🕕	liu dian zhong	1000
+🕕	shi jian	1000
+🕕	liu dian	1000
+🕖	qi dian zhong	1000
+🕖	qi dian	1000
+🕖	shi jian	1000
+🕗	ba dian	1000
+🕗	shi jian	1000
+🕗	ba dian zhong	1000
+🕘	shi jian	1000
+🕘	jiu dian zhong	1000
+🕘	jiu dian	1000
+🕙	shi dian zhong	1000
+🕙	shi jian	1000
+🕙	shi dian	1000
+🕚	shi yi dian	1000
+🕚	shi yi dian zhong	1000
+🕚	shi jian	1000
+🕛	shi er dian zhong	1000
+🕛	shi er dian	1000
+🕛	shi jian	1000
+🕜	yi dian ban	1000
+🕝	liang dian ban	1000
+🕞	san dian ban	1000
+🕟	si dian ban	1000
+🕠	wu dian ban	1000
+🕡	liu dian ban	1000
+🕢	qi dian ban	1000
+🕣	ba dian ban	1000
+🕤	jiu dian ban	1000
+🕥	shi dian ban	1000
+🕦	shi yi dian ban	1000
+🕧	shi er dian ban	1000
+🕯️	zhu guang	1000
+🕯️	la zhu	1000
+🕰️	bi lu zhong	1000
+🕳️	de dong	1000
+🕴️	xi zhuang nan	1000
+🕵️	zhen tan	1000
+🕶️	tai yang jing	1000
+🕶️	hei chao	1000
+🕶️	mo jing	1000
+🕷️	zhi zhu	1000
+🕸️	zhi zhu wang	1000
+🕹️	you xi gan	1000
+🕹️	cao zong gan	1000
+🖇️	lian jie de hui xing zhen	1000
+🖇️	hui xing zhen	1000
+🖊️	yuan zhu bi	1000
+🖋️	gang bi	1000
+🖌️	hua bi	1000
+🖍️	la bi	1000
+🖐️	shou zhang	1000
+🖐️	ju qi shou bing shen wu zhi	1000
+🖕️	shu zhong zhi	1000
+🖥️	tai shi ji	1000
+🖥️	zhuo shang xing dian nao	1000
+🖨️	da yin ji	1000
+🖨️	yin biao ji	1000
+🖱️	san jian shu biao	1000
+🖱️	shu biao	1000
+🖲️	gui ji qiu	1000
+🖼️	xiang kuang	1000
+🗂️	ka pian suo yin qi	1000
+🗃️	ka pian wen jian he	1000
+🗄️	dang an gui	1000
+🗄️	wen jian gui	1000
+🗑️	fei zhi lou	1000
+🗒️	luo xuan xian quan bi ji ben	1000
+🗒️	ji shi ben	1000
+🗓️	ri li	1000
+🗓️	luo xuan xian quan ri li	1000
+🗜️	ya suo	1000
+🗝️	jiu yao shi	1000
+🗞️	juan qi de bao zhi	1000
+🗡️	duan dao	1000
+🗡️	duan jian	1000
+🗡️	bi shou	1000
+🗣️	da sheng rang rang	1000
+🗣️	da sheng shuo hua	1000
+🗣️	shuo hua de lun kuo	1000
+🗯️	you ce fen nu qi pao kuang	1000
+🗳️	tou piao xiang	1000
+🗺️	shi jie de tu	1000
+🗽	mei guo	1000
+🗽	huo dong	1000
+🗽	zi you nu shen	1000
+😁	lu chi er xiao	1000
+😁	lu chi da xiao	1000
+😁	ku xiao	1000
+😁	xi xi	1000
+😁	biao qing	1000
+😁	wei xiao	1000
+😂	xiao chu yan lei	1000
+😂	da xiao	1000
+😂	po ti wei xiao	1000
+😂	xi ji er qi	1000
+😂	xiao bu ke yi	1000
+😂	ku xiao	1000
+😂	biao qing	1000
+😃	kai xin	1000
+😃	wei xiao	1000
+😃	xiao rong	1000
+😃	xiao lian	1000
+😃	zhang zui xiao	1000
+😃	kai huai da xiao	1000
+😃	biao qing	1000
+😃	gao xing	1000
+😄	mi yan xiao	1000
+😄	kai xin	1000
+😄	ha ha	1000
+😄	ha ha ha ha	1000
+😄	ha ha ha	1000
+😄	xiao yan	1000
+😄	gao xing	1000
+😄	biao qing	1000
+😄	xiao	1000
+😄	wei xiao	1000
+😄	xi xi	1000
+😄	a a	1000
+😅	leng han	1000
+😅	gan ga	1000
+😅	mao leng han	1000
+😅	biao qing	1000
+😅	han	1000
+😆	sha xiao	1000
+😆	biao qing	1000
+😆	kai xin	1000
+😆	da xiao	1000
+😆	mi yan xiao	1000
+😇	tian shi	1000
+😇	biao qing	1000
+😇	chun jie	1000
+😈	e mo	1000
+😈	biao qing	1000
+😈	xie e	1000
+😉	qing song	1000
+😉	biao qing	1000
+😉	shi yan se	1000
+😉	zha yan	1000
+😊	xiao rong	1000
+😊	xiao lian	1000
+😊	gao xing	1000
+😊	biao qing	1000
+😊	hai xiu	1000
+😊	wei xiao	1000
+😊	ke ai	1000
+😊	xiao	1000
+😋	tu she tou	1000
+😋	biao qing	1000
+😋	yan chan	1000
+😋	zui chan	1000
+😌	biao qing	1000
+😌	shu fu	1000
+😌	fang song	1000
+😌	shi ran	1000
+😍	biao qing	1000
+😍	zhe mi	1000
+😍	ai	1000
+😍	ai ni	1000
+😍	xi huan	1000
+😎	mo jing	1000
+😎	de yi	1000
+😎	biao qing	1000
+😎	ban ku	1000
+😏	leng xiao	1000
+😏	biao qing	1000
+😏	chi xiao	1000
+😏	jia xiao	1000
+😏	tou xiao	1000
+😏	zui jiao shang yang	1000
+😐	mo ran	1000
+😐	biao qing	1000
+😐	wu biao qing	1000
+😐	dan mo	1000
+😐	dai ran	1000
+😒	leng mo	1000
+😒	bi shi	1000
+😒	biao qing	1000
+😒	yu men	1000
+😒	bu gao xing	1000
+😒	chou mei ku lian	1000
+😓	jin zhang	1000
+😓	han yan	1000
+😓	dao mei	1000
+😓	leng han	1000
+😓	dan xin	1000
+😓	han	1000
+😓	wu yu	1000
+😓	biao qing	1000
+😔	chen si	1000
+😔	you lu	1000
+😔	dan you	1000
+😔	bu kai xin	1000
+😔	you yu	1000
+😔	biao qing	1000
+😔	si kao	1000
+😕	bu shuang	1000
+😕	bu xie	1000
+😕	pie zui	1000
+😕	biao qing	1000
+😖	tong ku	1000
+😖	kun huo	1000
+😖	yi wen	1000
+😖	ku nao	1000
+😖	biao qing	1000
+😘	qin qin	1000
+😘	ai	1000
+😘	biao qing	1000
+😘	chuan qing	1000
+😘	shi ai	1000
+😘	ai ni	1000
+😘	fei wen	1000
+😚	qin wen	1000
+😚	du zui	1000
+😚	qin qin	1000
+😚	biao qing	1000
+😚	qin yi kou	1000
+😜	zha yan	1000
+😜	ban gui lian	1000
+😜	shi yan se	1000
+😜	biao qing	1000
+😜	gui lian	1000
+😜	zuo gui lian	1000
+😝	chao nong	1000
+😝	kai wan xiao	1000
+😝	biao qing	1000
+😝	bi yan	1000
+😝	chao xiao	1000
+😞	di luo	1000
+😞	bu kai xin	1000
+😞	biao qing	1000
+😞	shi wang	1000
+😠	biao qing	1000
+😠	bu gao xing	1000
+😠	qi fen	1000
+😠	sheng qi	1000
+😠	nao xin	1000
+😠	bu kai xin	1000
+😠	zhou mei	1000
+😠	bi zui	1000
+😠	yan su	1000
+😠	jue zui	1000
+😡	qi fen	1000
+😡	biao qing	1000
+😡	fen nu	1000
+😡	jue zui	1000
+😡	sheng qi	1000
+😢	ku	1000
+😢	bei tong	1000
+😢	ku qi	1000
+😢	chuai qi	1000
+😢	liu lei	1000
+😢	bei shang	1000
+😢	biao qing	1000
+😣	biao qing	1000
+😣	zhe ji	1000
+😣	jian ren	1000
+😣	shang xin	1000
+😤	de yi	1000
+😤	biao qing	1000
+😥	biao qing	1000
+😥	shi wang	1000
+😨	hai pa	1000
+😨	ke pa	1000
+😨	biao qing	1000
+😩	yan juan	1000
+😩	biao qing	1000
+😩	pi juan	1000
+😪	pi lao	1000
+😪	shui jue	1000
+😪	kun juan	1000
+😪	da ke shui	1000
+😪	fan kun	1000
+😪	biao qing	1000
+😫	biao qing	1000
+😫	nan guo	1000
+😫	pi bei	1000
+😭	liu lei	1000
+😭	da ku	1000
+😭	ku qi	1000
+😭	bei shang	1000
+😭	lei liu man mian	1000
+😭	biao qing	1000
+😭	ku	1000
+😰	jiao ji	1000
+😰	biao qing	1000
+😰	han	1000
+😰	leng han	1000
+😰	mao leng han	1000
+😱	hai pa	1000
+😱	kong bu	1000
+😱	kong ju	1000
+😱	biao qing	1000
+😱	ke pa	1000
+😱	chi jing	1000
+😲	biao qing	1000
+😲	chi jing	1000
+😲	tong ku	1000
+😳	hai sao	1000
+😳	jiong	1000
+😳	lian hong	1000
+😳	biao qing	1000
+😳	xiu kui	1000
+😳	hai xiu	1000
+😵	yan mao jin xing	1000
+😵	biao qing	1000
+😶	wu hua ke shuo	1000
+😶	biao qing	1000
+😶	wu yu	1000
+😶	wu kou	1000
+😷	gan mao	1000
+😷	kou zhao	1000
+😷	biao qing	1000
+😷	sheng bing	1000
+😸	biao qing	1000
+😸	wei xiao	1000
+😸	gao xing	1000
+😹	xi ji er qi	1000
+😹	gan dong	1000
+😹	xiao bu ke yi	1000
+😹	biao qing	1000
+😺	biao qing	1000
+😺	kai xin	1000
+😺	jing ya	1000
+😻	zhe mi	1000
+😻	xi huan	1000
+😻	biao qing	1000
+😼	zi xin	1000
+😼	bu huai hao yi	1000
+😼	ku xiao	1000
+😼	biao qing	1000
+😼	xiong you cheng zhu	1000
+😽	qin qin	1000
+😽	qin ni	1000
+😽	biao qing	1000
+😽	qin yi kou	1000
+😾	sheng qi	1000
+😾	wu shi	1000
+😾	min zui	1000
+😾	biao qing	1000
+😾	jue zui	1000
+😾	nu mu	1000
+😿	shang xin	1000
+😿	biao qing	1000
+😿	ku qi	1000
+🙀	mao lian	1000
+🙀	pi juan	1000
+🙀	biao qing	1000
+🙀	jing ya	1000
+🙀	jing xia	1000
+🙀	kun juan	1000
+🙁️	nan guo	1000
+🙂️	wei xiao	1000
+🙃️	dian dao	1000
+🙃️	wo dao	1000
+🙄️	yan jing gun dong biao qing	1000
+🙄️	bai yan	1000
+🙅	fou jue	1000
+🙅	wu de	1000
+🙅	bu ke	1000
+🙅	fan dui	1000
+🙅	cuo wu	1000
+🙅	tou xiang	1000
+🙅	biao yi bu hao	1000
+🙆	biao yi hao	1000
+🙆	ken ding	1000
+🙆	zheng que	1000
+🙆	tou xiang	1000
+🙆	zhun xu	1000
+🙆	tong yi	1000
+🙇	ken qiu	1000
+🙇	dao qian	1000
+🙇	tou xiang	1000
+🙇	ju gong	1000
+🙈	wu yan	1000
+🙈	kan bu jian	1000
+🙈	tou xiang	1000
+🙈	fei li wu shi	1000
+🙈	bu kan	1000
+🙈	mao yan di	1000
+🙉	ting bu dao	1000
+🙉	shen ting	1000
+🙉	fei li wu ting	1000
+🙉	tou xiang	1000
+🙉	bu ting	1000
+🙊	bu shuo	1000
+🙊	fei li wu yan	1000
+🙊	tou xiang	1000
+🙊	jin yan	1000
+🙊	bu neng shuo	1000
+🙊	bi zui	1000
+🙋	tou xiang	1000
+🙋	da zhao hu	1000
+🙋	ju shou	1000
+🙌	ting zhi	1000
+🙌	shou shi	1000
+🙍	qi nei	1000
+🙍	tou xiang	1000
+🙍	di luo	1000
+🙎	dan mo	1000
+🙎	du zui	1000
+🙎	tou xiang	1000
+🙏	ken qiu	1000
+🙏	gan xie	1000
+🙏	he zhang	1000
+🙏	zhi xie	1000
+🙏	bai tuo	1000
+🙏	shou shi	1000
+🚀	jiao tong	1000
+🚀	huo jian	1000
+🚁	jiao tong	1000
+🚁	zhi sheng ji	1000
+🚂	jiao tong	1000
+🚂	zheng qi huo che	1000
+🚂	huo che	1000
+🚃	you gui dian che	1000
+🚃	dian che	1000
+🚃	tie dao che	1000
+🚃	jiao tong	1000
+🚄	gao tie	1000
+🚄	huo che	1000
+🚄	jiao tong gong ju	1000
+🚄	zi dan tou	1000
+🚄	gao su lie che	1000
+🚄	jiao tong	1000
+🚅	huo che	1000
+🚅	he xie hao	1000
+🚅	gao su lie che	1000
+🚅	zi dan lie che	1000
+🚅	jiao tong	1000
+🚅	gao tie	1000
+🚇	de tie	1000
+🚇	jiao tong	1000
+🚇	jie yun	1000
+🚈	qing gui dian che	1000
+🚈	de tie	1000
+🚈	jiao tong	1000
+🚉	che zhan	1000
+🚉	huo che	1000
+🚉	huo che zhan	1000
+🚉	jiao tong	1000
+🚊	xin gan xian	1000
+🚊	dian che	1000
+🚊	jiao tong	1000
+🚊	huo che	1000
+🚌	jiao tong	1000
+🚌	gong gong qi che	1000
+🚌	jiao tong gong ju	1000
+🚌	gong jiao che	1000
+🚌	ba shi	1000
+🚌	gong che	1000
+🚌	gong jiao	1000
+🚍	gong gong qi che	1000
+🚍	gong che	1000
+🚍	da ba che	1000
+🚍	jiao tong	1000
+🚍	ba shi	1000
+🚎	gong che	1000
+🚎	gong gong qi che	1000
+🚎	dian che	1000
+🚎	jiao tong	1000
+🚎	ba shi	1000
+🚎	ding ding	1000
+🚎	you gui dian che	1000
+🚏	gong gong qi che zhan	1000
+🚏	jiao tong	1000
+🚏	gong che zhan	1000
+🚐	gong gong xiao ba	1000
+🚐	jiao tong	1000
+🚐	xiao ba	1000
+🚐	ba shi	1000
+🚐	mian bao che	1000
+🚐	xiao ba shi	1000
+🚐	gong che	1000
+🚐	gong gong qi che	1000
+🚑	jiao tong	1000
+🚑	yi liao che	1000
+🚑	jiu hu che	1000
+🚑	ji jiu che	1000
+🚒	jiao tong	1000
+🚒	xiao fang che	1000
+🚓	jing che	1000
+🚓	jiao tong	1000
+🚔	jiao tong	1000
+🚔	jing cha	1000
+🚔	bao jing	1000
+🚔	jing che	1000
+🚕	de shi	1000
+🚕	chu zu che	1000
+🚕	ji cheng che	1000
+🚕	jiao tong	1000
+🚖	jiao tong	1000
+🚖	da che	1000
+🚖	de shi	1000
+🚖	ji cheng che	1000
+🚖	da de	1000
+🚖	chu zu che	1000
+🚗	che zi	1000
+🚗	xiao jiao che	1000
+🚗	qi che	1000
+🚗	jiao che	1000
+🚗	che	1000
+🚗	si jia che	1000
+🚗	jiao tong	1000
+🚘	che zi	1000
+🚘	jiao che	1000
+🚘	xiao jiao che	1000
+🚘	jiao tong	1000
+🚘	si jia che	1000
+🚙	yue ye che	1000
+🚙	xiu lu che	1000
+🚙	jiao tong	1000
+🚙	xiu xian che	1000
+🚚	jiao tong	1000
+🚚	huo che	1000
+🚜	tuo la ji	1000
+🚜	huo gui che	1000
+🚜	jiao tong	1000
+🚝	ci xuan fu lie che	1000
+🚝	jiao tong	1000
+🚝	dan gui lie che	1000
+🚞	jiao tong	1000
+🚞	deng shan lie che	1000
+🚟	guan guang lie che	1000
+🚟	jiao tong	1000
+🚟	xuan fu lie che	1000
+🚠	shan ding lan che	1000
+🚠	jiao tong	1000
+🚠	lan che	1000
+🚡	jiao tong	1000
+🚡	lan che	1000
+🚢	you lun	1000
+🚢	hai yun	1000
+🚢	jiao tong	1000
+🚢	chuan	1000
+🚢	chu hai	1000
+🚢	lun chuan	1000
+🚣	jiao tong	1000
+🚣	xiao chuan	1000
+🚣	hua ting	1000
+🚣	hua chuan	1000
+🚣	fan zhou	1000
+🚤	kuai ting	1000
+🚤	jiao tong	1000
+🚤	sai ting	1000
+🚤	qi ting	1000
+🚥	jiao tong	1000
+🚥	xin hao deng	1000
+🚥	jiao tong hao zhi	1000
+🚥	hong lu deng	1000
+🚥	jiao tong biao zhi	1000
+🚥	jiao tong deng	1000
+🚦	jiao tong deng	1000
+🚦	xin hao deng	1000
+🚦	jiao tong hao zhi	1000
+🚦	hong lu deng	1000
+🚦	jiao tong	1000
+🚧	jiao tong	1000
+🚧	dao lu shi gong	1000
+🚧	shi gong	1000
+🚧	jiao tong biao zhi	1000
+🚧	lu zhang	1000
+🚧	ju ma	1000
+🚨	jing che deng	1000
+🚨	jing shi deng	1000
+🚨	jing deng	1000
+🚨	jiao tong	1000
+🚩	san jiao qi	1000
+🚩	zhong dian	1000
+🚩	qi gan	1000
+🚩	hong qi	1000
+🚫	bu de ru nei	1000
+🚫	biao zhi	1000
+🚫	jin zhi	1000
+🚬	xi yan qu	1000
+🚬	xi yan	1000
+🚬	biao zhi	1000
+🚭	wu yan qu	1000
+🚭	jin zhi xi yan	1000
+🚭	biao zhi	1000
+🚮	la ji ru lou	1000
+🚮	biao zhi	1000
+🚯	jin diu la ji	1000
+🚯	biao zhi	1000
+🚯	qing wu luan reng	1000
+🚰	yin shui qu	1000
+🚰	yin yong shui	1000
+🚰	biao zhi	1000
+🚰	shui long tou	1000
+🚱	fei yin yong shui	1000
+🚱	biao zhi	1000
+🚱	jin zhi yin shui	1000
+🚲	jiao ta che	1000
+🚲	dan che	1000
+🚲	jiao tong	1000
+🚲	zi xing che	1000
+🚳	jin zhi qi che	1000
+🚳	biao zhi	1000
+🚳	jin xing dan che	1000
+🚴	jiao tong	1000
+🚴	zi xing che shou	1000
+🚴	shan de che	1000
+🚵	qi che deng shan	1000
+🚵	yun dong	1000
+🚵	deng shan zi xing che shou	1000
+🚶	jiao tong	1000
+🚶	lu ren	1000
+🚶	xing ren	1000
+🚷	jin zhi xing ren	1000
+🚷	biao zhi	1000
+🚸	zhu yi er tong	1000
+🚸	biao zhi	1000
+🚸	dang xin er tong	1000
+🚹	nan shi	1000
+🚹	nan xing	1000
+🚹	nan ce	1000
+🚹	biao zhi	1000
+🚺	nu xing	1000
+🚺	nu ce	1000
+🚺	nu shi	1000
+🚺	biao zhi	1000
+🚻	wei sheng jian	1000
+🚻	xi shou jian	1000
+🚻	biao zhi	1000
+🚻	hua zhuang shi	1000
+🚼	ying er	1000
+🚼	biao zhi	1000
+🚼	bao bao	1000
+🚽	chou shui ma tong	1000
+🚽	biao zhi	1000
+🚽	ma tong	1000
+🚽	ce suo	1000
+🚾	biao zhi	1000
+🚾	ce suo	1000
+🚿	hua sa	1000
+🚿	lin yu	1000
+🚿	lian peng tou	1000
+🚿	xi zao	1000
+🚿	chong zao	1000
+🚿	chong liang	1000
+🛀	pao zao	1000
+🛀	huo dong	1000
+🛀	xi zao	1000
+🛁	yu gang	1000
+🛁	xi zao	1000
+🛁	yu chi	1000
+🛂	biao zhi	1000
+🛂	tong guan jian cha	1000
+🛂	zheng jian jian cha	1000
+🛂	cha zheng	1000
+🛃	cha bao	1000
+🛃	xing li jian cha	1000
+🛃	hai guan	1000
+🛃	cha xing li	1000
+🛃	biao zhi	1000
+🛄	xing li guo ji	1000
+🛄	biao zhi	1000
+🛄	ti qu xing li	1000
+🛄	cha xing li	1000
+🛄	xing li tong cha	1000
+🛅	chu fang xing li	1000
+🛅	ji cun	1000
+🛅	cun bao	1000
+🛅	biao zhi	1000
+🛅	xing li tuo guan	1000
+🛋️	sha fa he deng	1000
+🛌️	wo pu	1000
+🛍️	gou wu dai	1000
+🛎️	fu wu yuan ling dang	1000
+🛏️	chuang	1000
+🛐️	zong jiao chang suo	1000
+🛠️	chui zi he ban shou	1000
+🛡️	dun pai	1000
+🛢️	you tong	1000
+🛣️	gao su gong lu	1000
+🛣️	gao su lu	1000
+🛤️	tie lu gui dao	1000
+🛤️	tie gui	1000
+🛥️	kuai ting	1000
+🛥️	you ting	1000
+🛥️	mo tuo ting	1000
+🛩️	xiao xing fei ji	1000
+🛫️	fei ji qi fei	1000
+🛫️	ke ji qi fei	1000
+🛬️	fei ji dao da	1000
+🛬️	ke ji di da	1000
+🛰️	ren zao wei xing	1000
+🛳️	ke lun	1000
+🛳️	ke chuan	1000
+🤐️	la lian kou biao qing	1000
+🤐️	bi zui	1000
+🤑️	jian qian yan kai	1000
+🤒️	fa shao	1000
+🤒️	liang ti wen	1000
+🤓️	shu dai zi	1000
+🤓️	yan jing nan	1000
+🤔️	xiang yi xiang	1000
+🤔️	si kao yi xia	1000
+🤔️	wo xiang xiang	1000
+🤕️	tou bu shou shang	1000
+🤕️	tou shou shang da bang dai	1000
+🤕️	shou shang	1000
+🤖️	ji qi ren	1000
+🤗️	gei ni yi ge yong bao	1000
+🤗️	gei wo yi ge yong bao	1000
+🤗️	ai de bao bao	1000
+🤘️	shu qi shi zhi yu xiao zhi	1000
+🤘️	shu shi zhi yu xiao zhi	1000
+🤘️	e mo zhi jiao	1000
+🦀️	pang xie	1000
+🦁️	shi zi	1000
+🦂️	xie zi	1000
+🦃️	huo ji	1000
+🦃️	tu shou ji	1000
+🦄️	du jiao shou	1000
+🧀️	qi si	1000
+🧀️	nai lao	1000

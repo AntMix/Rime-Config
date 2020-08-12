@@ -1,0 +1,229 @@
+# luna_pinyin_simp.custom.yaml
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 重新部署后生效
+
+patch:
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: ["中文", "西文"]
+    - name: full_shape
+      states: ["半角", "全角"]
+    - name: extended_charset
+      states: ["通用", "增廣"]
+    - name: zh_simp
+      reset: 1 # 默认简体输入
+      states: ["漢字", "汉字"]
+    - name: ascii_punct
+      states: ["。，", "．，"]
+
+  simplifier:
+    option_name: zh_simp
+
+  engine:
+    processors:
+      - ascii_composer
+      - recognizer
+      - key_binder
+      - speller
+      - punctuator
+      - selector
+      - navigator
+      - express_editor
+    segmentors:
+      - ascii_segmentor
+      - matcher
+      - abc_segmentor
+      - punct_segmentor
+      - fallback_segmentor
+    translators:
+      - lua_translator@date_translator # 日期 - rime.lua
+      - lua_translator@time_translator # 时间 - rime.lua
+      - punct_translator
+      - reverse_lookup_translator
+      - script_translator
+      - table_translator@custom_phrase
+      - table_translator@english # 英文编码翻译器
+      # - lua_translator@execute
+    filters:
+      - simplifier
+      - uniquifier
+
+  # 用户自定义词库
+  custom_phrase:
+    db_class: stabledb
+    dictionary: ""
+    enable_encoder: false
+    encode_commit_history: false
+    sentence_over_completion: false
+    enable_completion: false
+    enable_sentence: false
+    initial_quality: 1
+    user_dict: custom_phrase
+
+  # 加载英文依赖
+  schema:
+    dependencies:
+      - easy_en
+
+  # table_translator@english 英文编码翻译器设置项
+  english:
+    dictionary: easy_en
+    # 拼写提醒
+    spelling_hints: 4
+    # 设置出字优先级
+    initial_quality: 1
+    # 是否开启自动造句
+    enable_encoder: false
+    # 是否对已上屏词自动成词
+    encode_commit_history: false
+    # 在没有全码对应字而仅有逐键提示时也开启智能组句
+    sentence_over_completion: false
+    # 提前显示尚未输入完整的单词
+    enable_completion: true
+    # 是否开启自动造句
+    enable_sentence: false
+    # 是否开启用户词典（用户词典记录动态字词频、用户词）
+    enable_user_dict: false
+
+  # 载入扩充词库
+  translator:
+    dictionary: luna_pinyin.extended
+    # 设置 是否显示拼音提示 0不显示 其他的为几个字符才显示
+    spelling_hints: 5
+    initial_quality: 1
+    enable_encoder: false
+    encode_commit_history: true
+
+    # preedit_format:
+    #   - "xform/([nljqxyzcs])v/$1ü/" # v => ü
+
+  # 符号 default symbols
+  punctuator:
+    # import_preset: default
+    half_shape:
+      "!": "！"
+      "\"": {pair: ["“", "”"]}
+      "#": "#"
+      "$": "¥"
+      "%": "%"
+      "&": "&"
+      "'": {pair: ["‘", "’"]}
+      "(": "（"
+      ")": "）"
+      "*": "*"
+      "+": "+"
+      ",": "，"
+      "-": "-"
+      .: "。"
+      "/": "/"
+      ":": "："
+      ";": "；"
+      "<": "《"
+      "=": "="
+      ">": "》"
+      "?": "？"
+      "@": "@"
+      "[": "【"
+      "\\": "、"
+      "]": "】"
+      "^": "^"
+      _: "——"
+      "`": "`"
+      "{": "{"
+      "|": "|"
+      "}": "}"
+      "~": "~"
+
+  recognizer:
+    # import_preset: default
+    # patterns:
+    #   email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    #   uppercase: "[A-Z][-_+.'0-9A-Za-z]*$" # 本行禁用后SHIFT加字母可直接上屏大写字母，不需按回车上屏
+    #   url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    #   punct: "^/([a-z]+|[0-9]0?)$"
+
+  # 模糊音
+  speller:
+    alphabet: zyxwvutsrqponmlkjihgfedcba
+    delimiter: " '"
+    algebra:
+      - erase/^xx$/ # 保留
+      - "xform/^([b-df-hj-np-tv-z])$/$1_/" # 保留
+      # 模糊音定义优先于简拼定义，方可令简拼支持以上模糊音
+      - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
+      - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
+
+      - derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
+      - derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
+
+      # - derive/^n/l/                     # n => l
+      # - derive/^l/n/                     # l => n
+
+      # 这两组是单向的
+      # - derive/^r/l/                     # r => l
+
+      # - derive/^ren/yin/                 # ren => yin, reng => ying
+      # - derive/^r/y/                     # r => y
+
+      # 下面 hu <=> f
+      # - derive/^hu$/fu/                  # hu => fu
+      # - derive/^hong$/feng/              # hong => feng
+      # - derive/^hu([in])$/fe$1/          # hui => fei, hun => fen
+      # - derive/^hu([ao])/f$1/            # hua => fa, ...
+
+      # - derive/^fu$/hu/                  # fu => hu
+      # - derive/^feng$/hong/              # feng => hong
+      # - derive/^fe([in])$/hu$1/          # fei => hui, fen => hun
+      # - derive/^f([ao])/hu$1/            # fa => hua, ...
+
+      # 韵母
+      # - derive/^([bpmf])eng$/$1ong/      # meng = mong, ...
+      # - derive/([aeio])n$/$1ng/            # en => eng, in => ing
+      # - derive/([aeio])ng$/$1n/            # eng => en, ing => in
+
+
+      # 反模糊音？
+      # 誰說方言沒有普通話精確、有模糊音，就能有反模糊音。
+      # 示例爲分尖團的中原官話：
+      #- derive/^ji$/zii/   # 在設計者安排下鳩佔鵲巢，尖音i只好雙寫了
+      #- derive/^qi$/cii/
+      #- derive/^xi$/sii/
+      #- derive/^ji/zi/
+      #- derive/^qi/ci/
+      #- derive/^xi/si/
+      #- derive/^ju/zv/
+      #- derive/^qu/cv/
+      #- derive/^xu/sv/
+      # 韻母部份，只能從大面上覆蓋
+      #- derive/^([bpm])o$/$1eh/          # bo => beh, ...
+      #- derive/(^|[dtnlgkhzcs]h?)e$/$1eh/  # ge => geh, se => sheh, ...
+      #- derive/^([gkh])uo$/$1ue/         # guo => gue, ...
+      #- derive/^([gkh])e$/$1uo/          # he => huo, ...
+      #- derive/([uv])e$/$1o/             # jue => juo, lve => lvo, ...
+      #- derive/^fei$/fi/                 # fei => fi
+      #- derive/^wei$/vi/                 # wei => vi
+      #- derive/^([nl])ei$/$1ui/          # nei => nui, lei => lui
+      #- derive/^([nlzcs])un$/$1vn/       # lun => lvn, zun => zvn, ...
+      #- derive/^([nlzcs])ong$/$1iong/    # long => liong, song => siong, ...
+      # 這個辦法雖從拼寫上做出了區分，然而受詞典制約，候選字仍是混的。
+      # 只有真正的方音輸入方案纔能做到！但「反模糊音」這個玩法快速而有效！
+
+      # 容错拼写
+      # - derive/^([nl])ve$/$1ue/          # nve = nue, lve = lue
+      # - derive/^([jqxy])u/$1v/           # ju = jv,
+      # - derive/un$/uen/                  # gun = guen,
+      # - derive/ui$/uei/                  # gui = guei,
+      # - derive/iu$/iou/                  # jiu = jiou,
+
+      # 纠正按键错误
+      # - derive/([aeiou])ng$/$1gn/        # dagn => dang
+      # - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+      # - derive/ong$/on/                  # zhonguo => zhong guo
+      # - derive/ao$/oa/                   # hoa => hao
+      # - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian

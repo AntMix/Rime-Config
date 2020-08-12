@@ -1,0 +1,47 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: luna_pinyin.extended
+version: "2014.10.28"
+sort: by_weight
+use_preset_vocabulary: true
+#此處爲明月拼音擴充詞庫（基本）默認鏈接載入的詞庫，有朙月拼音官方詞庫、明月拼音擴充詞庫（漢語大詞典）、明月拼音擴充詞庫（詩詞）、明月拼音擴充詞庫（含西文的詞彙）。如果不需要加載某个詞庫請將其用「#」註釋掉。
+#雙拼不支持 luna_pinyin.cn_en 詞庫，請用戶手動禁用。
+import_tables:
+  - luna_pinyin
+
+  - luna_pinyin.sougou.standard
+  - luna_pinyin.sougou.threeKingdoms
+  - luna_pinyin.sougou.xiehouyu
+  - luna_pinyin.sougou.poetry
+  - luna_pinyin.sougou.computer
+  - luna_pinyin.sougou.idiom
+  - luna_pinyin.sougou.software
+  - luna_pinyin.sougou.movie
+  - luna_pinyin.sougou.animation
+  - luna_pinyin.sougou.repeat
+  - luna_pinyin.sougou.name
+  - luna_pinyin.sougou.develop
+  - luna_pinyin.sougou.mechanical
+  - luna_pinyin.sougou.electric
+  - luna_pinyin.sougou.building
+  - luna_pinyin.sougou.communication
+  - luna_pinyin.sougou.diet
+  - luna_pinyin.sougou.daily
+  - luna_pinyin.sougou.agriculture
+  - luna_pinyin.sougou.lives
+  - luna_pinyin.sougou.area
+  - luna_pinyin.sougou.warframe
+  - luna_pinyin.sougou.popular
+
+  - luna_pinyin.emoji

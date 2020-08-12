@@ -1,0 +1,66 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Dec 19 08:43:30 2019"
+  rime_version: 1.5.3
+patch:
+  # 应用内特殊效果 默认英文输入
+  "app_options/code.exe":
+    ascii_mode: true
+  "app_options/codeeditor.exe":
+    ascii_mode: true
+  "app_options/codefront.exe":
+    ascii_mode: true
+  "app_options/mobaxterm.exe":
+    ascii_mode: true
+  "app_options/PotPlayerMini64.exe":
+    ascii_mode: true
+  "app_options/uTools.exe":
+    ascii_mode: true
+  # 自定义输入法皮肤-简约黑
+  "preset_color_schemes/dark":
+    author: AntMix
+    back_color: 0x444444
+    border_color: 0x444444
+    candidate_text_color: 0xeeeeee
+    comment_text_color: 0x808080
+    hilited_back_color: 0x444444
+    hilited_candidate_back_color: 0x696969
+    hilited_candidate_label_color: 0xfafafa
+    hilited_candidate_text_color: 0xfafafa
+    hilited_comment_text_color: 0x444444
+    hilited_text_color: 0xeeeeee
+    name: "简约黑／dark"
+    text_color: 0xc2c2c2
+  # 输入法皮肤样式 简约黑
+  "style/color_scheme": dark
+  # 显示任务栏图标
+  "style/display_tray_icon": false
+  # 字体
+  "style/font_face": "黑体"
+  # 字体大小
+  "style/font_point": 16
+  # 横/竖排显示
+  "style/horizontal": true
+  # 内嵌式候选窗单行显示
+  "style/inline_preedit": true
+  # 边框
+  "style/layout/border": 0
+  # 边框宽度
+  "style/layout/border_width": 0
+  # 候选字间隔
+  "style/layout/candidate_spacing": 10
+  # 候选字左右边距
+  "style/layout/margin_x": 12
+  # 候选字上下边距
+  "style/layout/margin_y": 12
+  # 候选字背景色块高度
+  # 若想候选字背景色块无边界填充候选框，仅需其高度和候选字上下边距一致即可
+  "style/layout/hilite_padding": 8
+  # 序号和候选字之间的间隔
+  "style/layout/hilite_spacing": 1
+  # 候选字背景色块圆角幅度
+  "style/layout/round_corner": 5
+  # 标签间距
+  "style/layout/spacing": 10

@@ -1,0 +1,31 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Fri Jan 10 17:24:10 2020"
+  rime_version: 1.5.3
+patch:
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key:
+      Caps_Lock: commit_code
+      Shift_L: commit_code
+      Shift_R: commit_code
+      Control_L: noop
+      Control_R: noop
+      Eisu_toggle: clear
+  key_binder:
+    bindings:
+      - {accept: "Shift+space", toggle: noop, when: always}
+      - {accept: minus, send: Page_Up, when: has_menu}
+      - {accept: equal, send: Page_Down, when: has_menu}
+      - {accept: comma, send: Page_Up, when: has_menu}
+      - {accept: period, send: Page_Down, when: has_menu}
+      - {accept: "Release+Escape", toggle: ascii_mode, when: always}
+  menu:
+    page_size: 5
+  schema_list:
+    - {schema: luna_pinyin_simp}
+  switcher:
+    hotkeys:
+      - Control+Shift+space
