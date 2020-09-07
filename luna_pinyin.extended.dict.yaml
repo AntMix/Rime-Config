@@ -30,7 +30,6 @@ import_tables:
   - luna_pinyin.sougou.movie
   - luna_pinyin.sougou.animation
   - luna_pinyin.sougou.repeat
-  - luna_pinyin.sougou.name
   - luna_pinyin.sougou.develop
   - luna_pinyin.sougou.mechanical
   - luna_pinyin.sougou.electric
