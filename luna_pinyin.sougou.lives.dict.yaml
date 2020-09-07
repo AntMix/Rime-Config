@@ -1,6 +1,6 @@
 ---
 name: luna_pinyin.sougou.common.lives
-version: "2020.07.06"
+version: "2020.09.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
