@@ -5,7 +5,7 @@ customization:
   modified_time: "Thu Dec 19 08:43:30 2019"
   rime_version: 1.5.3
 patch:
-  # 应用内特殊效果 默认英文输入
+  # 应用内特殊效果 默认英文输入 小写
   "app_options/code.exe":
     ascii_mode: true
   "app_options/codeeditor.exe":
@@ -14,9 +14,9 @@ patch:
     ascii_mode: true
   "app_options/mobaxterm.exe":
     ascii_mode: true
-  "app_options/PotPlayerMini64.exe":
+  "app_options/potplayermini64.exe":
     ascii_mode: true
-  "app_options/uTools.exe":
+  "app_options/utools.exe":
     ascii_mode: true
   # 自定义输入法皮肤-简约黑
   "preset_color_schemes/dark":
