@@ -42,3 +42,5 @@ ssr	ssr	10
 你又	ni you	10
 ∵	yinwei	10
 ∴	suoyi	10
+QQ邮箱	qqyouxiang	10
+QQ邮箱	qqyx	10
