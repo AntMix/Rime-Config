@@ -21,26 +21,26 @@ import_tables:
   - luna_pinyin
 
   - luna_pinyin.sougou.standard
-  - luna_pinyin.sougou.threeKingdoms
-  - luna_pinyin.sougou.xiehouyu
-  - luna_pinyin.sougou.poetry
   - luna_pinyin.sougou.computer
-  - luna_pinyin.sougou.idiom
   - luna_pinyin.sougou.software
   - luna_pinyin.sougou.movie
   - luna_pinyin.sougou.animation
   - luna_pinyin.sougou.repeat
   - luna_pinyin.sougou.develop
-  - luna_pinyin.sougou.mechanical
-  - luna_pinyin.sougou.electric
-  - luna_pinyin.sougou.building
-  - luna_pinyin.sougou.communication
-  - luna_pinyin.sougou.diet
-  - luna_pinyin.sougou.daily
-  - luna_pinyin.sougou.agriculture
-  - luna_pinyin.sougou.lives
+  - luna_pinyin.sougou.diet # 食品
+  - luna_pinyin.sougou.daily # 日常
   - luna_pinyin.sougou.area
   - luna_pinyin.sougou.warframe
   - luna_pinyin.sougou.popular
+  # - luna_pinyin.sougou.threeKingdoms # 三国
+  # - luna_pinyin.sougou.xiehouyu # 歇后语
+  # - luna_pinyin.sougou.poetry # 诗歌
+  # - luna_pinyin.sougou.idiom # 大成语
+  # - luna_pinyin.sougou.mechanical # 基础机械
+  # - luna_pinyin.sougou.electric # 基础电力
+  # - luna_pinyin.sougou.building # 建造
+  # - luna_pinyin.sougou.communication # 信息工程
+  # - luna_pinyin.sougou.agriculture # 农业
+  # - luna_pinyin.sougou.lives # 动物
 
   - luna_pinyin.emoji
