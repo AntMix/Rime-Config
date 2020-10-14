@@ -1,6 +1,6 @@
 ---
 name: luna_pinyin.sougou.daily.popular
-version: "2020.09.07"
+version: "2020.09.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -25,6 +25,7 @@ use_preset_vocabulary: true
 阿布来提
 阿布列林阿布列孜
 阿崔
+阿达娃
 阿呆芙
 阿黛拉
 阿德拉
@@ -184,6 +185,7 @@ use_preset_vocabulary: true
 艾粑粑
 爱浜
 艾蓓家
+爱贝克斯
 埃比
 爱币
 艾彼
@@ -207,6 +209,7 @@ use_preset_vocabulary: true
 艾德曼
 爱的秘笈
 爱的迫降
+爱的恰恰
 埃德森
 爱的时差
 爱的速递
@@ -251,6 +254,7 @@ use_preset_vocabulary: true
 爱国报国
 爱过不过
 爱国奉献
+爱国教育
 爱国精神
 爱国卡
 爱过了站
@@ -462,6 +466,7 @@ use_preset_vocabulary: true
 爱籽花
 矮子王
 爱最闪耀
+安柏
 案板上
 案板下
 安保危机
@@ -551,6 +556,7 @@ use_preset_vocabulary: true
 安全保护
 安全背景
 安全词
+安全第一课
 安全风险
 安全复工复产
 安全教育课
@@ -773,6 +779,8 @@ use_preset_vocabulary: true
 拔鼻毛
 巴比兔
 八伯
+巴博萨
+八才
 八尺大人
 八尺琼勾玉
 八重村
@@ -866,6 +874,7 @@ use_preset_vocabulary: true
 八目筝吹
 巴纳吉
 巴拿恰
+巴楠
 巴南区
 八年的爱
 八片
@@ -889,6 +898,7 @@ use_preset_vocabulary: true
 八升
 八十抽
 八十度
+八十多岁
 巴舒亚伊
 巴斯德
 芭思蔻
@@ -946,6 +956,7 @@ use_preset_vocabulary: true
 巴伊亚
 巴一中
 八音符酱
+八有一超
 八月安好
 八月八
 八月二号
@@ -995,11 +1006,13 @@ use_preset_vocabulary: true
 白炽
 白驰
 白愁飞
+白春礼
 白醋少女
 白蛋白多肽
 拜登
 白帝水宫
 摆地摊儿
+白底照片
 白爹
 白碟
 百迭
@@ -1007,8 +1020,10 @@ use_preset_vocabulary: true
 摆动作
 白斗
 白斗篷
+百度好奇夜
 百度金矿
 百度闪付
+百度世界大会
 白额高脚蛛
 白恩
 白发皇妃
@@ -1096,6 +1111,7 @@ use_preset_vocabulary: true
 百里玄策
 百炼令
 百裂张手
+柏麟
 白磷弹
 百灵火
 柏灵筠
@@ -1105,6 +1121,7 @@ use_preset_vocabulary: true
 白龙使
 白龙王
 白麓
+白露生
 白鹿巷
 白马会所
 白马庙
@@ -1132,6 +1149,8 @@ use_preset_vocabulary: true
 百年校庆
 拜年秀
 白鸟朝凤
+白鸟斗
+白鸟斗篷
 白枇杷
 拜票
 掰苹果
@@ -1193,6 +1212,7 @@ use_preset_vocabulary: true
 拜腾汽车
 白条纹
 白条鱼
+白铁矿
 白头盔
 白头山
 摆脱贫困
@@ -1289,6 +1309,7 @@ use_preset_vocabulary: true
 百子轩
 拜祖大典
 白族姑娘
+绊爱礼包
 办案人员
 班巴
 版本不一样
@@ -1306,6 +1327,7 @@ use_preset_vocabulary: true
 班宠
 半垂
 班达
+半岛月饼
 板凳队
 板凳龙
 班地亚
@@ -1347,6 +1369,7 @@ use_preset_vocabulary: true
 板栗粽
 瓣鳞花
 伴侣证
+斑马森林
 板门店
 半木
 班纳吉
@@ -1363,6 +1386,7 @@ use_preset_vocabulary: true
 搬上楼
 半蛇兜
 伴生皮肤
+半是蜜糖
 半是蜜糖半是伤
 版署
 绊摔
@@ -1371,7 +1395,9 @@ use_preset_vocabulary: true
 坂田金时
 半田君传说
 半田清舟
+半条被子
 半通
+半碗村
 半碗村传奇
 搬完东西
 搬完书
@@ -1388,6 +1414,7 @@ use_preset_vocabulary: true
 半影月食
 伴鱼绘本
 板垣李光人
+半月假
 板仔
 版载千秋
 半藏森林
@@ -1425,6 +1452,7 @@ use_preset_vocabulary: true
 帮我复印
 帮我买一下
 帮我弄下
+帮我投个票
 蚌仙
 邦讯技术
 榜眼签
@@ -1585,7 +1613,9 @@ use_preset_vocabulary: true
 包妈
 苞米
 保密观
+保密卡
 宝敏瑞
+保民生
 保命钱
 报幕词
 保姆纵火案
@@ -1607,6 +1637,7 @@ use_preset_vocabulary: true
 报啥专业
 爆山
 宝山前
+报社团
 豹神
 报省内
 宝盛园
@@ -1635,6 +1666,7 @@ use_preset_vocabulary: true
 鲍西娅
 保险节
 爆笑宠妃
+宝晓峰
 爆笑先森
 宝信软件
 保星
@@ -1648,6 +1680,7 @@ use_preset_vocabulary: true
 暴雪娱乐
 龅牙苏
 爆眼
+爆炎树
 抱养奇缘
 保一保
 抱一抱自己
@@ -1699,6 +1732,7 @@ use_preset_vocabulary: true
 备案审查
 蓓昂斯
 背包皮肤
+杯杯杯
 贝贝南瓜
 贝币
 贝碧佳
@@ -1748,6 +1782,7 @@ use_preset_vocabulary: true
 北方华创
 北方女王
 备飞
+北风狼
 北风那个吹
 北附
 北姑
@@ -1806,6 +1841,7 @@ use_preset_vocabulary: true
 北岭山
 备录
 备录取
+贝鲁特港
 北伦敦
 贝洛蒂
 北落师门
@@ -1915,6 +1951,7 @@ use_preset_vocabulary: true
 本来就热
 奔狼
 本亮大叔
+本领大
 本领高强
 本内特
 本能觉醒
@@ -1974,6 +2011,7 @@ use_preset_vocabulary: true
 笔辩
 鼻病毒
 碧波仙子
+比惨大会
 毕畅
 币车
 避尘
@@ -1996,6 +2034,7 @@ use_preset_vocabulary: true
 比干庙
 比杆赛
 碧光环
+必贵师而重傅
 比海更深
 碧海雄心
 毕宏伟
@@ -2162,6 +2201,7 @@ use_preset_vocabulary: true
 表演滑
 表站
 表志勋
+标准池
 标准地图
 别熬夜
 别逼我结婚
@@ -2169,6 +2209,7 @@ use_preset_vocabulary: true
 别成
 别吃坏
 别出门
+别戳我
 别刺
 憋大招
 别对答案
@@ -2315,6 +2356,7 @@ use_preset_vocabulary: true
 冰饮料
 冰雨火
 冰韵
+冰葬
 冰阵
 冰镇西瓜
 冰之大剑
@@ -2397,6 +2439,7 @@ use_preset_vocabulary: true
 菠萝屋
 博罗依
 博旅
+薄绿
 博迈科
 博纳影业
 波泥河
@@ -2472,6 +2515,7 @@ use_preset_vocabulary: true
 不出票
 不出市
 不传播
+不穿外套
 不串休
 不辞万里
 不凑热闹
@@ -2492,12 +2536,14 @@ use_preset_vocabulary: true
 不当班主任
 不当场
 不当也罢
+不倒闭
 不到场
 不到四百
 不得低于
 不得回
 补得完
 布狄卡
+不抵抗
 不地震
 不点火
 不掉段
@@ -2531,6 +2577,7 @@ use_preset_vocabulary: true
 不二呆
 不二马
 不二小倩
+不发布
 不发点
 不发霉
 不发誓
@@ -2559,8 +2606,10 @@ use_preset_vocabulary: true
 不负人民
 不负韶华
 不负少年心气
+不负时代
 不负时光
 不负信任
+不富也镇宅
 不负有心人
 不负自己
 不改革
@@ -2569,10 +2618,12 @@ use_preset_vocabulary: true
 不甘平凡
 不高不矮
 不搞点
+不搞形式主义
 布鸽
 不给抄
 不给糖就捣蛋
 不跟班
+不跟风
 不构成
 不孤不孤
 布谷布谷
@@ -2588,6 +2639,7 @@ use_preset_vocabulary: true
 不归客
 不贵重
 布国强
+不过人间
 不过也罢
 布哈杜兹
 不好搬
@@ -2610,6 +2662,7 @@ use_preset_vocabulary: true
 不婚不育
 不继承
 不计分
+不计名利
 不及你甜
 不及雨
 不加菜
@@ -2687,6 +2740,8 @@ use_preset_vocabulary: true
 布鲁顿
 布鲁可
 布鲁娜
+布鲁氏
+布鲁氏菌
 布鲁斯特
 布鲁斯特的百万横财
 布罗
@@ -2707,6 +2762,7 @@ use_preset_vocabulary: true
 不眠症
 不灭狂雷
 不没收
+不慕虚荣
 不难写
 不能打野
 不能打游戏
@@ -2720,6 +2776,7 @@ use_preset_vocabulary: true
 不能停止
 不能透露
 不能玩游戏
+不怕吃苦
 不怕鬼
 不怕晒
 不怕蚊子
@@ -2747,6 +2804,7 @@ use_preset_vocabulary: true
 不让家长进
 不让进出
 不让开车
+不让考
 不让离开
 不让提前
 不让玩游戏
@@ -2768,6 +2826,7 @@ use_preset_vocabulary: true
 不烧纸
 捕蛇少年
 不设限
+不升旗
 补试
 不是叭
 不是打野
@@ -2814,6 +2873,7 @@ use_preset_vocabulary: true
 不退役
 不驼背
 不脱单
+不脱发
 不托管
 补完没
 不完美小孩
@@ -2823,7 +2883,9 @@ use_preset_vocabulary: true
 不忘革命
 不忘革命先烈
 不忘国耻
+不忘立德树人
 不忘历史
+不忘师恩
 不忘使命
 不忘童真
 不畏艰难
@@ -2838,6 +2900,7 @@ use_preset_vocabulary: true
 不限等级
 不限定
 不显色
+不想成团
 不想吃狗粮
 不想当老师
 不想分班
@@ -2859,6 +2922,7 @@ use_preset_vocabulary: true
 不朽二
 不修音
 不朽之城
+不朽之旅
 不许难过
 不需要应援
 不续约
@@ -2880,6 +2944,7 @@ use_preset_vocabulary: true
 不要抛下
 不要太感动
 不要太紧张
+不要温度
 不要自责
 不宜出行
 布衣神相
@@ -2889,6 +2954,7 @@ use_preset_vocabulary: true
 不用感谢我
 不用漂
 不用长大
+不用这么客气
 不优化
 步悠然
 不优雅
@@ -2906,6 +2972,7 @@ use_preset_vocabulary: true
 部长通道
 不招收
 不遮风
+不止不休
 不知愁
 不知东方既白
 不知父母恩
@@ -2918,6 +2985,7 @@ use_preset_vocabulary: true
 不追问
 不走读
 不走样
+不坐班
 不坐牢
 补作文
 擦擦克林
@@ -2934,17 +3002,21 @@ use_preset_vocabulary: true
 蔡程昱
 蔡崇信
 才出成绩
+彩船
 彩窗
 彩蛋超多
 踩凳子
 彩帝
 彩店
+蔡丁
 彩独
 蔡恩
 采访的时候
+才放假
 采访视频
 采访我
 踩飞机
+菜粉
 财父
 财富日
 才高考完
@@ -2980,6 +3052,7 @@ use_preset_vocabulary: true
 菜津奈
 财金圈
 蔡居诚
+猜角色
 才看得见
 才可能
 蔡坤廷
@@ -2988,6 +3061,7 @@ use_preset_vocabulary: true
 才两集
 材料作文
 彩鳞
+才六年
 蔡萝莉
 蔡落月
 采麻工
@@ -2999,16 +3073,20 @@ use_preset_vocabulary: true
 蔡明园
 菜鸟裹裹
 彩炮
+彩皮
 彩漂粉
 踩桥
 踩青
 蔡晴川
+猜青蛙
 蔡全无
 彩色弹幕
 踩山节
 才上映
 财神会
+财神节快乐
 财神客栈
+财神爷爷
 彩绳
 才生效
 采生折割
@@ -3030,6 +3108,7 @@ use_preset_vocabulary: true
 蔡小葵
 财信发展
 财新网
+才学到
 彩讯股份
 蔡雅思
 彩烟
@@ -3202,6 +3281,7 @@ use_preset_vocabulary: true
 厕所有人
 侧剃
 策勋
+厕用
 岑福
 岑宁儿
 岑怡诺
@@ -3307,6 +3387,7 @@ use_preset_vocabulary: true
 拆不散
 柴德有
 柴豆
+拆对
 拆队
 柴堆三国
 拆礼物
@@ -3349,6 +3430,7 @@ use_preset_vocabulary: true
 长安剑
 长安教练
 长安诺
+长安欧诺
 长安少年行
 长安十二时辰
 长安行
@@ -3372,6 +3454,7 @@ use_preset_vocabulary: true
 厂甸
 厂甸庙会
 嫦娥四号
+长方集团
 长风破晓
 长丰镇
 常高技
@@ -3441,8 +3524,10 @@ use_preset_vocabulary: true
 尝谕
 长垣市
 唱月
+长阅读
 常在你左右
 长征三号
+长征十一号
 长征五号
 唱支山歌
 长治医学院
@@ -3528,8 +3613,10 @@ use_preset_vocabulary: true
 潮萌小黄鸭
 炒面队
 超敏反应
+超魔导
 超模脸
 朝奈
+超奶思
 超难关
 超能查派
 超能打
@@ -3541,6 +3628,7 @@ use_preset_vocabulary: true
 潮跑
 超炮
 超跑狗
+潮品日
 超前点播
 朝青龙
 超清夜景自拍
@@ -3574,6 +3662,7 @@ use_preset_vocabulary: true
 超享团
 朝小树
 炒鞋
+超心动
 超心塞
 超新星全运会
 超新星运动会
@@ -3587,6 +3676,7 @@ use_preset_vocabulary: true
 潮音战纪
 超有东
 超有东西
+超有感
 超圆
 超元气
 超远三分
@@ -3688,6 +3778,7 @@ use_preset_vocabulary: true
 陈鲲羽
 辰乐
 陈乐一
+陈镭
 陈立农
 陈砺志
 陈亮声
@@ -3810,6 +3901,7 @@ use_preset_vocabulary: true
 陈雅馨
 陈雅怡
 沉烟
+陈延迪
 陈彦妃
 陈艳辉
 陈养鱼
@@ -3929,6 +4021,7 @@ use_preset_vocabulary: true
 成杰思
 成就大师
 成就非凡
+成就奖励
 程巨树
 成玦
 成珏
@@ -4025,6 +4118,7 @@ use_preset_vocabulary: true
 池长庚
 池诚
 赤橙梦魇
+尺呆
 迟到的祝福
 赤道和尚
 持刀抢劫
@@ -4116,6 +4210,7 @@ use_preset_vocabulary: true
 池太
 吃糖果
 吃糖丸
+池田依来沙
 赤兔之死
 赤丸
 池文一
@@ -4194,8 +4289,10 @@ use_preset_vocabulary: true
 虫皮
 冲破天际
 充气宝
+重启二
 重启满月
 重启之极海听雷
+重庆魂
 重庆理工
 重庆邮电
 重庆招考
@@ -4224,6 +4321,8 @@ use_preset_vocabulary: true
 重阳盒子
 重阳佳节
 重阳快乐
+充要
+重云
 虫仔
 冲战神
 充值优惠
@@ -4252,6 +4351,7 @@ use_preset_vocabulary: true
 抽免单
 抽齐
 抽签码
+抽签仪式
 丑人齐
 仇杀队
 抽特斯拉
@@ -4282,6 +4382,7 @@ use_preset_vocabulary: true
 出道即巅峰
 出道快乐
 出道了
+出道六周年
 出道名单
 出道日
 出道四周年
@@ -4346,6 +4447,7 @@ use_preset_vocabulary: true
 出去看电影
 出入卡
 初瑞雪
+初三的
 初三了
 厨神争霸
 出生岛
@@ -4413,6 +4515,7 @@ use_preset_vocabulary: true
 初之际
 楚中天
 出专辑
+厨子戏子痞子
 出走半生
 出租自己
 踹不动
@@ -4439,6 +4542,7 @@ use_preset_vocabulary: true
 川队
 穿盾
 穿阁
+穿个短袖
 穿褂子
 串关
 川恒
@@ -4446,6 +4550,7 @@ use_preset_vocabulary: true
 串后
 川化股份
 川建国
+穿件外套
 穿件衣服
 川疆
 传捷
@@ -4462,6 +4567,7 @@ use_preset_vocabulary: true
 穿礼服
 川辽
 川柳少女
+穿你外套
 川普王
 传奇大亨
 传奇的诞生
@@ -4514,6 +4620,7 @@ use_preset_vocabulary: true
 创维数字
 床仙
 创新发展
+创新精神
 创新能力
 创新人才
 创新无止境
@@ -4537,9 +4644,11 @@ use_preset_vocabulary: true
 吹翻
 吹过去
 吹坏
+垂蔓
 锤妹
 锤娜丽莎
 吹跑了
+垂緌饮清露
 锤嫂
 吹哨人
 吹台风
@@ -4564,6 +4673,7 @@ use_preset_vocabulary: true
 春黑
 春黑刀
 唇痕
+春晖遍四方
 春晖纪
 春姬
 春江水暖
@@ -4618,8 +4728,10 @@ use_preset_vocabulary: true
 春之少年
 淳中科技
 唇珠
+戳戳我
 戳了戳
 戳脸
+戳我一下
 慈悲颂
 瓷博会
 刺刺不休
@@ -4649,8 +4761,10 @@ use_preset_vocabulary: true
 刺情
 茨球
 次仁拉吉
+慈善平台
 慈善赛
 慈善信息
+慈善学校
 磁魏路
 刺猬猫
 刺猬女孩
@@ -4670,6 +4784,7 @@ use_preset_vocabulary: true
 赐座
 从不吝啬
 从不问
+匆匆心动
 从几号
 从来不过
 丛林匕首
@@ -4740,6 +4855,7 @@ use_preset_vocabulary: true
 淬命
 崔普闵
 崔器
+崔然竣
 脆弱星球
 崔瑟琪
 翠色欲流
@@ -4780,6 +4896,7 @@ use_preset_vocabulary: true
 存体力
 村霞
 村雨
+措措
 错的不是我
 错的少
 错登
@@ -4822,6 +4939,7 @@ use_preset_vocabulary: true
 打菜籽
 打车软件
 大赤包
+大出殡
 大褚村
 大吹打
 大呲花
@@ -4856,12 +4974,14 @@ use_preset_vocabulary: true
 达芬鱼
 打封闭
 大风鸟
+大枫树
 大封箱
 大佛普拉斯
 大伏
 大福村
 大府井
 大富科技
+大纲解析
 打糕舞
 搭个伙
 大根子
@@ -4901,6 +5021,7 @@ use_preset_vocabulary: true
 大话东游
 大话红娘
 大话佳人
+大花束
 大话王
 大坏狐狸
 大坏狐狸的故事
@@ -4917,8 +5038,10 @@ use_preset_vocabulary: true
 大吉鲁
 大几率
 大家都不会
+大家都快乐
 大家都难
 大家端午安康
+达家沟
 打假球
 打假拳
 打假日
@@ -4934,6 +5057,7 @@ use_preset_vocabulary: true
 大九键
 大橘猫
 打绝悟
+大军官
 大郡主
 打卡点
 打卡记录
@@ -4955,6 +5079,7 @@ use_preset_vocabulary: true
 大雷音寺
 大冷门
 达利加
+大力开展
 大立科技
 大力气
 大梨树
@@ -4995,6 +5120,7 @@ use_preset_vocabulary: true
 大眠
 大面菁
 大明风华
+大莫
 达摩币
 大漠孤侠
 大漠江湖
@@ -5032,6 +5158,7 @@ use_preset_vocabulary: true
 打屁虫
 大迫杰
 大破阵
+打扑克牌
 打气糖
 大齐通宝
 大欺诈师
@@ -5074,6 +5201,7 @@ use_preset_vocabulary: true
 大狮集团
 打手出界
 打手势
+打手心
 大叔别走
 大叔的爱
 大暑节气
@@ -5153,6 +5281,7 @@ use_preset_vocabulary: true
 大行李箱
 大凶捕
 大袖子
+大须弥锤
 大雪怪
 大学教材
 大学习
@@ -5192,6 +5321,7 @@ use_preset_vocabulary: true
 大渔湾
 大约是爱
 大岳丸
+大运汽车
 大宅男
 打战队赛
 打折村
@@ -5258,6 +5388,7 @@ use_preset_vocabulary: true
 带几本
 代际传递
 贷价
+带件外套
 戴建业
 歹街
 带金属
@@ -5538,6 +5669,7 @@ use_preset_vocabulary: true
 道山靓仔
 刀势
 导师合作
+导师们
 导师团
 刀使巫女
 道师爷
@@ -5666,6 +5798,7 @@ use_preset_vocabulary: true
 邓宏魁
 邓华德
 邓恢林
+等级球
 邓见超
 登剑阁
 等节后
@@ -5678,16 +5811,19 @@ use_preset_vocabulary: true
 邓男子
 等你爱我
 等你的好消息
+等你降落
 等你凯旋
 等你下课
 灯牌
 灯泡糖
 邓起
+等审核
 邓圣
 等时光
 等十年
 邓诗颖
 邓姝
+等双十一
 邓台
 灯台架
 登堂
@@ -5718,7 +5854,9 @@ use_preset_vocabulary: true
 邓州小学
 邓紫霄
 蒂埃里穆勒
+第八轮
 第八排
+地板价
 递棒
 地才
 地菜花
@@ -5762,6 +5900,7 @@ use_preset_vocabulary: true
 地缚少年花子君
 地缚神
 狄公
+地宫笔记
 狄公灭鼠
 地瓜苗
 地官
@@ -5811,6 +5950,7 @@ use_preset_vocabulary: true
 地灵曲
 第六层
 地陆
+迪卢克
 狄伦
 狄梦
 迪米
@@ -5833,6 +5973,7 @@ use_preset_vocabulary: true
 地平线零之曙光
 递铺镇
 狄淇儿
+第七轮
 第七史诗
 第七位
 第七站
@@ -5849,6 +5990,7 @@ use_preset_vocabulary: true
 第三刀
 第三方评估
 第三高级中学
+第三课时
 第三赛区
 第三志愿
 帝少
@@ -5857,10 +5999,13 @@ use_preset_vocabulary: true
 第十代
 地势低
 第十二秒
+第十二期
 第十放映室
 第十冠
 第十世
+第十页
 第十一个
+第十一期
 地术
 地鼠门
 第四阶段
@@ -5894,6 +6039,7 @@ use_preset_vocabulary: true
 第五号
 第五人格
 第五赛季
+地下宝库
 地下墓穴
 地下桥
 底线思想
@@ -5912,6 +6058,7 @@ use_preset_vocabulary: true
 第一次的离别
 第一动力
 第一个出来
+第一个教师节
 第一个礼拜
 第一个母亲节
 第一个愿望
@@ -6121,6 +6268,7 @@ use_preset_vocabulary: true
 丁曹
 顶层设计
 叮当狼
+定档了
 定点医院
 顶峰相见
 鼎丰真
@@ -6140,6 +6288,7 @@ use_preset_vocabulary: true
 顶级射手
 定价姐
 丁嘉文
+顶尖人才
 顶金币
 顶胯
 丁来杭
@@ -6148,8 +6297,10 @@ use_preset_vocabulary: true
 丁谧
 丁权
 丁人间
+丁如山
 丁若虚
 顶奢
+定胜
 定时发送
 丁守中
 丁叔
@@ -6192,6 +6343,7 @@ use_preset_vocabulary: true
 丁梓光
 钉子画
 丁子峻
+丢掉幻想
 丢粉笔
 丢垃圾桶
 丢麦
@@ -6226,6 +6378,7 @@ use_preset_vocabulary: true
 董大鹏
 冻大腿
 东大圩
+冻得要死
 栋笃特工
 董鄂妃
 懂法守法
@@ -6588,6 +6741,7 @@ use_preset_vocabulary: true
 杜少平
 杜少乾
 赌身高
+渡神纪
 独生娃
 杜生镇
 毒矢
@@ -6613,6 +6767,7 @@ use_preset_vocabulary: true
 杜晓言
 读心大师
 杜心同
+杜星霖
 独行侠
 渡鸦剑
 渡鸦年
@@ -6656,6 +6811,7 @@ use_preset_vocabulary: true
 断刀客
 段放
 断航
+段宏楠
 断虹桥
 段家堡
 段家宝
@@ -6732,6 +6888,7 @@ use_preset_vocabulary: true
 短学段
 段雪薇
 端阳节
+短衣短裤
 段艺璇
 段永平
 断玉
@@ -6813,9 +6970,11 @@ use_preset_vocabulary: true
 多吃糖
 多吃粽子
 多重人格
+多穿一件
 多床
 多大的雨
 多打听
+多带件
 多铎
 多多理财
 多多良
@@ -7014,6 +7173,7 @@ use_preset_vocabulary: true
 二更食堂
 二公主
 耳骨夹
+二鬼子
 尔豪
 二胡卵子
 而患不均
@@ -7027,6 +7187,7 @@ use_preset_vocabulary: true
 二嘉
 二加一
 二阶一
+贰京
 儿科医生
 二蓝
 二零二一
@@ -7269,6 +7430,7 @@ use_preset_vocabulary: true
 凡妮莎
 凡念
 翻牌达人
+反派自救系统
 反骗天下
 反贫
 范乔丹
@@ -7278,6 +7440,7 @@ use_preset_vocabulary: true
 梵缺
 凡人的品格
 繁荣稳定
+范茹
 范瑞娟
 范锐平
 范若若
@@ -7348,6 +7511,8 @@ use_preset_vocabulary: true
 犯罪中止
 防艾日
 放八天
+放半天假
+防爆士兵
 放被子
 放不下的他
 方舱
@@ -7394,6 +7559,7 @@ use_preset_vocabulary: true
 方可梦
 防控常态化
 防空火箭
+防空演练
 防控疫情
 方块弹珠
 方块脸
@@ -7549,6 +7715,7 @@ use_preset_vocabulary: true
 非禁即入
 菲克尔
 废可乐
+啡快
 费兰西斯迈克多曼德
 非浪
 飞雷
@@ -7592,6 +7759,7 @@ use_preset_vocabulary: true
 飞厦
 飞沙令
 肥蛇传说
+飞社长
 废神
 飞升之后
 绯世
@@ -7619,6 +7787,7 @@ use_preset_vocabulary: true
 废校
 菲小妞
 飞鞋点金
+菲谢尔
 飞行道
 飞行导师
 飞行点
@@ -7635,6 +7804,7 @@ use_preset_vocabulary: true
 肺炎疫情
 费伊
 非裔
+匪医诺克
 非遗文化
 飞鹰艾迪
 肺鱼
@@ -7666,6 +7836,7 @@ use_preset_vocabulary: true
 分班情况
 分贝值
 粉币
+粉笔网
 粪便池
 芬博阿松
 分不低
@@ -7889,6 +8060,7 @@ use_preset_vocabulary: true
 风铃花
 风灵玉秀
 封垄
+风龙废墟
 锋龙股份
 风龙魂
 冯曼娜
@@ -7931,10 +8103,12 @@ use_preset_vocabulary: true
 冯少侠
 丰涉
 风神股份
+风神瞳
 封神宇宙
 丰食
 丰收季
 丰收箱
+枫树林
 风霜雨露
 风水沟
 冯思佳
@@ -7951,6 +8125,7 @@ use_preset_vocabulary: true
 封土
 凤娃
 疯王
+蜂王胎
 冯卫东
 风味人间
 风味实验室
@@ -7962,6 +8137,7 @@ use_preset_vocabulary: true
 风险等级
 风险区
 风险挑战
+奉献一生
 风险意识
 凤仙子
 奉献祖国
@@ -8013,6 +8189,7 @@ use_preset_vocabulary: true
 风之灵
 冯芷墨
 风之气息
+风之瞳
 凤知微
 冯忠宏
 凤主
@@ -8049,6 +8226,7 @@ use_preset_vocabulary: true
 富弼
 滏滨
 服不服从
+阜埠河
 浮沧录
 扶苍山
 富察
@@ -8099,9 +8277,11 @@ use_preset_vocabulary: true
 福尔图娜
 富儿子
 复方金银花
+傅方俊
 复方鱼腥草
 赋分制
 浮浮雷达
+福冈县
 富冈义勇
 福高
 付高峰
@@ -8329,6 +8509,7 @@ use_preset_vocabulary: true
 氟硝西泮
 傅小小
 缚心
+傅欣瑶
 父姓
 复兴大道
 腹型肥胖
@@ -8385,6 +8566,7 @@ use_preset_vocabulary: true
 傅庄街道
 袱子
 负子蟾
+甫子寸
 父子档
 抚子静香
 父子拳王
@@ -8405,7 +8587,9 @@ use_preset_vocabulary: true
 盖德尔夜
 该放松
 改革创新
+改革后
 改革强军
+改革思维
 改革先锋
 改规则
 改过密码
@@ -8421,6 +8605,8 @@ use_preset_vocabulary: true
 概率题
 钙蜜
 概念版
+改年龄
+盖侬多夫
 改善交流
 改善生态环境
 改什么
@@ -8457,6 +8643,8 @@ use_preset_vocabulary: true
 感恩老师
 感恩母爱
 感恩母亲
+感恩相遇
+感恩有你们
 淦饭
 赣服通
 尴尬的我
@@ -8475,6 +8663,7 @@ use_preset_vocabulary: true
 甘李药业
 赣马
 甘蒙
+感念师恩
 肝票
 感情破裂
 绀青之拳
@@ -8503,6 +8692,8 @@ use_preset_vocabulary: true
 干有所成
 感遇
 敢于创新
+敢于创造
+敢于斗争
 甘于奉献
 敢于挑战
 干在当下
@@ -8590,6 +8781,7 @@ use_preset_vocabulary: true
 告白价
 告白节
 告白卡
+告白失败
 告白信
 告白之夜
 高榜提名
@@ -8762,6 +8954,7 @@ use_preset_vocabulary: true
 搞事服
 高诗岩
 高刷新率
+高思聪
 高司令
 高速堵车
 高速发展
@@ -8784,6 +8977,7 @@ use_preset_vocabulary: true
 高位出道
 高卫东
 高危职业
+高文彬
 高文英
 高五
 高晞月
@@ -8803,11 +8997,15 @@ use_preset_vocabulary: true
 高压箱
 高演
 高艺
+高一八班
 高一本线
+高一九班
 高义口
 搞一辆
 高椅岭
+高一七班
 高艺桐
+高一五班
 高一新生
 高音炮
 高颖浠
@@ -8830,6 +9028,7 @@ use_preset_vocabulary: true
 高志谦
 高至霆
 高职专科
+高中班主任
 高中锋
 高中生涯
 高中学生
@@ -8936,6 +9135,7 @@ use_preset_vocabulary: true
 格睿
 格润丝
 格桑花开
+隔山海
 叾屾
 葛饰北斋
 隔世追凶
@@ -8951,6 +9151,7 @@ use_preset_vocabulary: true
 各位家长好
 各位家长们
 各位考生
+各位老师们
 葛薇龙
 各位战友
 格文
@@ -8983,6 +9184,7 @@ use_preset_vocabulary: true
 给爸爸
 给粉丝
 给个好评
+给老师们
 给礼物
 给链接
 给你唱首歌
@@ -8997,6 +9199,7 @@ use_preset_vocabulary: true
 给你女朋友
 给你送花
 给你送礼物
+给你自由
 给你粽子
 给女孩
 给社区
@@ -9008,6 +9211,7 @@ use_preset_vocabulary: true
 给我闺蜜
 给我买礼物
 给我买手机
+给我十块钱
 给我一刀
 给我一首歌的时间
 给小费
@@ -9374,6 +9578,7 @@ use_preset_vocabulary: true
 固本堂
 估不出来
 古超
+孤城浪子
 顾承泽
 顾雏军
 顾川
@@ -9442,6 +9647,7 @@ use_preset_vocabulary: true
 咕果
 顾海燕
 顾衡
+谷花音
 蛊惑江湖
 顾基
 故剑
@@ -9451,6 +9657,7 @@ use_preset_vocabulary: true
 古界
 鼓界大王
 顾瑾
+古井深渊
 咕啾组
 古柯
 谷蓝帝
@@ -9500,6 +9707,7 @@ use_preset_vocabulary: true
 谷山纪章
 孤山寨
 顾少霆
+顾胜男
 顾盛夏
 故事馆
 故事王
@@ -9562,6 +9770,7 @@ use_preset_vocabulary: true
 谷雨茶
 谷雨花
 古元美术馆
+谷岳
 古月娜
 姑咱
 顾泽宇
@@ -9789,6 +9998,7 @@ use_preset_vocabulary: true
 广港
 光高
 光合谷
+光合积木
 广和通
 光乎
 逛花市
@@ -9832,6 +10042,7 @@ use_preset_vocabulary: true
 光线追踪
 光响
 广祥路
+逛校园
 广信材料
 广信贷
 广信区
@@ -9917,6 +10128,7 @@ use_preset_vocabulary: true
 鬼客
 鬼拉车
 诡雷
+归离
 桂林电子
 桂林航空
 桂林理工
@@ -9972,6 +10184,7 @@ use_preset_vocabulary: true
 诡王
 鬼王之宴
 桂味荔枝
+鬼武达摩
 贵相
 归乡记
 鬼校
@@ -10011,6 +10224,7 @@ use_preset_vocabulary: true
 跪族篮孩
 贵族学校
 滚冰节
+滚滚来
 滚石乐队
 滚烫的青春
 滚爷
@@ -10037,6 +10251,7 @@ use_preset_vocabulary: true
 国潮
 国超
 郭丞
+国耻日
 郭聪明
 郭村乡
 果达
@@ -10049,6 +10264,8 @@ use_preset_vocabulary: true
 过度疲劳
 过度执法
 过端
+果断出手
+果断决策
 国盾量子
 果多美
 过二本
@@ -10136,11 +10353,13 @@ use_preset_vocabulary: true
 国家粮食和物资储备局
 国家林业和草原局
 国家名片
+国家荣誉
 国家市场监督管理总局
 国家特色
 国家卫生健康委员会
 国家稳
 郭嘉文
+国家勋章
 国家医疗保障局
 国家移民管理局
 国家医学
@@ -10152,7 +10371,9 @@ use_preset_vocabulary: true
 国家知识产权局
 国家专项计划
 国检集团
+国将兴
 果酱音乐
+过教师节
 过界的爱
 过节呢
 郭杰瑞
@@ -10182,6 +10403,7 @@ use_preset_vocabulary: true
 果粒值
 郭琳然
 国六
+过六级
 锅炉爷爷
 郭论
 国面
@@ -10201,6 +10423,7 @@ use_preset_vocabulary: true
 过期儿童
 过七夕
 过七夕节
+过期药品
 郭沁
 国庆不放假
 國慶日
@@ -10271,6 +10494,7 @@ use_preset_vocabulary: true
 国之大典
 国之大计
 国之大者
+国之脊梁
 国之良将
 果州
 郭宗坤
@@ -10355,6 +10579,7 @@ use_preset_vocabulary: true
 还不解封
 还不离婚
 还不能查
+还不能买
 还不让出
 还不收拾
 还不下雨
@@ -10380,6 +10605,7 @@ use_preset_vocabulary: true
 海德林
 海德薇莉
 海德哲基尔与我
+还得背
 海灯
 海灯法师
 海底大作战
@@ -10435,9 +10661,11 @@ use_preset_vocabulary: true
 海龙湖
 海龙套
 海伦米伦
+海伦司
 海螺珠
 海鳗插件
 海鳗鳗
+还没背
 还没查出来
 还没查到
 还没出成绩
@@ -10456,6 +10684,7 @@ use_preset_vocabulary: true
 还没你高
 还没拍完
 还没上映
+还没审核
 还没收拾好
 还没填完
 还没下单
@@ -10477,6 +10706,7 @@ use_preset_vocabulary: true
 海鸥灰
 海派清口
 海囚
+害群
 海热症
 海忍
 骇人游戏
@@ -10564,6 +10794,7 @@ use_preset_vocabulary: true
 还在补作业
 还在打雷
 还在跌
+还在审核
 还在玩手机
 还在维护
 还在涨
@@ -10580,6 +10811,7 @@ use_preset_vocabulary: true
 汉班托塔
 瀚宝
 喊保安
+汉本萃
 寒冰诀
 韩冰洋
 憨不拉几
@@ -10649,6 +10881,7 @@ use_preset_vocabulary: true
 汉谟拉比
 汉莫拉比小姐
 汉谟拉比小姐
+韩某某
 韩沐伯
 韩跑跑
 韩佩泉
@@ -10786,6 +11019,7 @@ use_preset_vocabulary: true
 好多剧
 好多卷子
 好多例
+好多礼物
 好多明星
 好多情侣
 好多声
@@ -10830,6 +11064,7 @@ use_preset_vocabulary: true
 豪华套餐
 好欢快
 好欢螺
+好货节
 好货淘不停
 豪姬
 好几例
@@ -10848,6 +11083,7 @@ use_preset_vocabulary: true
 昊凯
 昊恺
 好看的要死
+好可
 好困扰
 好莱坞往事
 皓镧
@@ -10855,6 +11091,7 @@ use_preset_vocabulary: true
 好凉快
 好律师
 郝迈
+好麦多
 豪门盛宴
 好梦可圆
 好梦手环
@@ -10862,9 +11099,11 @@ use_preset_vocabulary: true
 好慕课
 好母亲
 好难报
+好难背
 好难考
 好难填
 薅你头发
+好奇夜
 好强烈
 豪情雅致
 豪情在天
@@ -10924,6 +11163,7 @@ use_preset_vocabulary: true
 何宝生
 河北北方
 河北传媒学院
+河北电视台
 河北东方
 河北分数线
 河北高考
@@ -10988,6 +11228,7 @@ use_preset_vocabulary: true
 河东一中
 喝豆汁
 何杜娟
+贺顿
 赫顿玛尔
 鹤儿
 赫尔佐格
@@ -11049,6 +11290,7 @@ use_preset_vocabulary: true
 贺军科
 贺峻霖
 贺俊雄
+何俊尧
 何君尧
 贺开朗
 合砍
@@ -11075,6 +11317,7 @@ use_preset_vocabulary: true
 赫连春水
 何良
 何灵依
+河流如血
 鹤龙湖
 贺龙体育场
 荷鲁斯之眼
@@ -11089,6 +11332,7 @@ use_preset_vocabulary: true
 喝脉动
 贺茂
 合猫猫
+喝茅台
 贺梅
 赫美集团
 何美男
@@ -11098,6 +11342,7 @@ use_preset_vocabulary: true
 赫米特
 赫默
 何莫修
+河姆渡人
 何木子
 河南财政
 河南分数线
@@ -11125,6 +11370,7 @@ use_preset_vocabulary: true
 河南职业
 河南中考
 河南专升本
+盒娘
 和平精英
 何其短
 赫奇帕奇
@@ -11138,6 +11384,7 @@ use_preset_vocabulary: true
 何润锋
 核嗓
 河山统一
+何尚
 合上笔盖
 河上街
 赫舍里
@@ -11203,6 +11450,7 @@ use_preset_vocabulary: true
 河野太郎
 河野悦子
 河艺
+荷乙
 贺一诚
 何宜德
 何屹繁
@@ -11251,6 +11499,7 @@ use_preset_vocabulary: true
 合租趣
 合作办学
 合作包容
+合作交流
 合作抗疫
 合作曲
 合作无间
@@ -11428,6 +11677,7 @@ use_preset_vocabulary: true
 横断山脉
 恒芳
 恒丰纸业
+横海
 恒河水
 恒吉
 衡济
@@ -11448,8 +11698,10 @@ use_preset_vocabulary: true
 衡阳师范
 恒逸石化
 恒银金融
+横中线
 紘爱
 红堡
+红包封面
 红包口令
 红包盟
 红包呢
@@ -11536,10 +11788,13 @@ use_preset_vocabulary: true
 鸿蒙系统
 虹膜识别
 红魔手机
+宏楠
+红楠
 红女巫
 红胖子
 红袍女
 红骑士
+红旗下
 红墙叹
 红囚鸟
 弘忍
@@ -11549,6 +11804,8 @@ use_preset_vocabulary: true
 红绒
 红肉橙
 洪三元
+红色故事
+红色固体胶
 红色家书
 红色气球
 红色通缉
@@ -11596,6 +11853,8 @@ use_preset_vocabulary: true
 弘扬茶文化
 弘扬传统
 洪洋洞
+弘扬革命
+弘扬革命精神
 弘阳广场
 弘扬科学精神
 弘扬劳动精神
@@ -11626,6 +11885,7 @@ use_preset_vocabulary: true
 泓樽付
 厚爱无需多言
 后爸后妈
+侯本岗
 厚本金融
 后菜鸟的灿烂时代
 猴非猴
@@ -11634,6 +11894,7 @@ use_preset_vocabulary: true
 后宫番
 猴姑米稀
 后冠
+侯贵平
 后海大鲨鱼
 侯汉廷
 侯鹤廉
@@ -11653,12 +11914,14 @@ use_preset_vocabulary: true
 吼姆王
 候鸟之恋
 侯朋岩
+厚乳
 侯赛尼
 猴三棒
 后鲨
 吼山
 猴神大叔
 侯四海
+后四天
 吼堂
 吼堂老火锅
 猴套
@@ -11711,6 +11974,7 @@ use_preset_vocabulary: true
 湖北专场
 胡必亮
 护边员
+胡宾果
 虎臣
 互乘起爆符
 胡楚靓
@@ -11755,6 +12019,7 @@ use_preset_vocabulary: true
 狐黄白柳灰
 胡皇后
 互惠共享
+互惠共赢
 互火
 沪嘉
 护甲工
@@ -11779,6 +12044,7 @@ use_preset_vocabulary: true
 虎九万
 护框
 虎狼之师
+胡乐乐
 狐利
 狐狸不是妖
 互利共荣
@@ -11958,7 +12224,9 @@ use_preset_vocabulary: true
 华波波
 花饽饽
 花不拉几
+华采
 华彩流章
+华采天地
 花草间
 华测导航
 桦城
@@ -12102,11 +12370,13 @@ use_preset_vocabulary: true
 花螳螂
 花田醉
 华桐
+花僮
 华通热力
 花吐症
 花娃
 花王眼罩
 华微电子
+华为给力
 华为国行版
 华为加油
 华为美
@@ -12140,6 +12410,8 @@ use_preset_vocabulary: true
 华星光电
 华胥梦
 化学大题
+化学竞赛
+化学练习册
 化学物品
 花颜月貌
 花样厨神
@@ -12212,11 +12484,14 @@ use_preset_vocabulary: true
 焕驰
 幻宠大陆
 幻丑症
+换搭档
 换丹
 寰谛凤翎
+换底色
 幻电
 幻洞
 换动作
+换斗篷
 欢度六一
 欢度五一
 换短袖
@@ -12235,6 +12510,7 @@ use_preset_vocabulary: true
 换教材
 换教练
 幻界王
+幻境试炼
 环境治理
 换卷
 换卷子
@@ -12366,6 +12642,7 @@ use_preset_vocabulary: true
 皇甫公子
 皇甫嵩
 黄盖淖
+黄岗梁
 黄古林
 黄冠亨
 皇冠已聚
@@ -12444,6 +12721,7 @@ use_preset_vocabulary: true
 黄坤明
 黄蜡烛
 晃了一下
+黄利辉
 黄历师
 黄礼志
 晃两下
@@ -12583,6 +12861,7 @@ use_preset_vocabulary: true
 黄智博
 黄之锋
 黄智雯
+黄忠东
 黄中柳
 黄忠皮肤
 黄紫昌
@@ -12643,6 +12922,7 @@ use_preset_vocabulary: true
 辉煌中国
 灰灰不鸽
 灰姬
+惠及民生
 惠加保
 辉家军
 惠健康
@@ -12990,6 +13270,7 @@ use_preset_vocabulary: true
 吉橙
 继承段位
 继承家业
+记承天寺
 寄诚庸
 集成战略
 疾冲
@@ -13036,6 +13317,7 @@ use_preset_vocabulary: true
 机动奥特曼
 机动兵
 急冻奇侠
+急冻树
 机动战姬
 冀东装备
 极斗
@@ -13051,6 +13333,7 @@ use_preset_vocabulary: true
 基督再临
 极端愤怒
 肌断食
+几朵花
 基多拉
 极恶
 极恶都市
@@ -13135,6 +13418,7 @@ use_preset_vocabulary: true
 基建狂魔
 季建业
 即将发生
+即将开启
 集结吧王者
 集结打团
 季节蜡烛
@@ -13147,6 +13431,7 @@ use_preset_vocabulary: true
 寂静之地
 寂静之岭
 寂静之夜
+急救日
 寄居大侠
 极巨化
 寄居少女
@@ -13269,6 +13554,7 @@ use_preset_vocabulary: true
 姬圈
 寄人间
 忌日快乐
+肌溶解
 肌肉猫
 即入
 吉萨
@@ -13281,6 +13567,7 @@ use_preset_vocabulary: true
 几束
 机枢
 技术创新
+几束花
 奇数猎
 奇数骑
 奇数贼
@@ -13339,6 +13626,7 @@ use_preset_vocabulary: true
 极限逃生
 极限震撼
 极限职业
+极限追猎
 纪湘
 吉祥结
 季向空
@@ -13348,6 +13636,7 @@ use_preset_vocabulary: true
 吉祥文化
 季肖冰
 纪晓波
+集小红花
 纪晓君
 机械电子
 机械画皮
@@ -13365,6 +13654,7 @@ use_preset_vocabulary: true
 急性呼吸道感染
 畸形屋
 继续跌
+几许风雨
 继续前进
 继续下降
 季雅
@@ -13380,6 +13670,7 @@ use_preset_vocabulary: true
 极夜幽冥
 极夜之歌
 吉艺
+纪伊
 记忆重构
 记忆殿堂
 记忆裂痕
@@ -13487,13 +13778,16 @@ use_preset_vocabulary: true
 加冠
 嘉贵妃
 嘉贵人
+贾国龙
 家国梦
 家国情深
 加贺号
 贾湖骨笛
+嘉会
 嘉积镇
 加加贝
 家家宜
+加件衣服
 假酒烧
 贾凯里尼
 贾咳子
@@ -13502,6 +13796,7 @@ use_preset_vocabulary: true
 加快补齐
 加快发展
 加快构建
+加快科技创新
 加快科技发展
 加快农业
 加快推进
@@ -13601,7 +13896,9 @@ use_preset_vocabulary: true
 加藤百合
 贾天子
 家庭报告书
+家庭美满
 家童
+加外套
 贾维
 嘉伟尔
 嘉维尔
@@ -13693,6 +13990,8 @@ use_preset_vocabulary: true
 坚定理想信念
 尖顶山
 坚定四个自信
+坚定思想
+坚定维护
 坚定信仰
 坚定一点
 坚定意志
@@ -13750,6 +14049,7 @@ use_preset_vocabulary: true
 健康共同体
 健康码
 健康猫
+健康美
 健康美丽
 健康申报表
 健康通
@@ -13798,8 +14098,10 @@ use_preset_vocabulary: true
 坚韧不屈
 坚韧之力
 菅纫姿
+兼容模式
 尖锐沉默
 坚瑞沃能
+减三十
 谏山创
 间伤
 建设海洋强国
@@ -13813,6 +14115,7 @@ use_preset_vocabulary: true
 剑圣至宝
 坚实根基
 坚实基础
+减十斤
 捡尸人
 监视者们
 尖瘦
@@ -13897,6 +14200,7 @@ use_preset_vocabulary: true
 江达琳
 姜丹尼尔
 讲党课
+江岛
 江狄
 降点温
 姜东昊
@@ -13919,6 +14223,7 @@ use_preset_vocabulary: true
 将国之天鹰星
 江海大学
 姜汉娜
+讲好红色故事
 姜皓文
 姜赫
 姜宏波
@@ -13981,6 +14286,7 @@ use_preset_vocabulary: true
 江南十校
 姜珮瑶
 蒋娉婷
+讲普通话
 江秋莲
 江若琳
 将杀
@@ -14036,6 +14342,7 @@ use_preset_vocabulary: true
 降线
 江小北
 姜小果
+姜小楷
 江小可
 江小美
 江晓琪
@@ -14087,7 +14394,9 @@ use_preset_vocabulary: true
 姜梓新
 骄傲的少年
 茭白节
+搅拌均匀
 叫保安
+校本课程
 骄兵必败
 较长时间
 娇穿
@@ -14109,6 +14418,8 @@ use_preset_vocabulary: true
 脚光
 教画画
 教化学
+交换余生
+教诲如春风
 鲛肌
 交际处
 教几年级
@@ -14119,6 +14430,7 @@ use_preset_vocabulary: true
 教科文组织
 郊狼
 胶佬
+教练们
 鲛灵
 叫龙
 焦迈奇
@@ -14134,7 +14446,10 @@ use_preset_vocabulary: true
 矫若游龙
 角神
 焦尸
+教师节贺卡
+教师节活动
 教师节礼物
+交十块
 教师天团
 教师专项
 教师资格证考试
@@ -14151,6 +14466,7 @@ use_preset_vocabulary: true
 脚下有力量
 佼心食堂
 侥幸者
+教学能力
 教学通
 交易截止日
 脚艺人
@@ -14171,11 +14487,13 @@ use_preset_vocabulary: true
 教资报名
 饺子就酒
 饺子君
+教资考试
 饺子钱
 饺子寿司
 教综
 结爱
 解爱
+洁白的婚纱
 杰比特
 界别
 结城友奈
@@ -14265,6 +14583,7 @@ use_preset_vocabulary: true
 解区
 姐圈有你
 节日安康
+节日快乐哈
 节日快乐呀
 节日快乐鸭
 节日快乐呦
@@ -14283,6 +14602,7 @@ use_preset_vocabulary: true
 皆是回忆
 结石姐
 皆是命
+皆是生活
 接受采访
 接受邀请
 接收值
@@ -14319,7 +14639,9 @@ use_preset_vocabulary: true
 解析异常
 解析与检测
 结弦
+接新生
 皆星河
+皆虚
 界许褚
 戒烟不戒酒
 戒烟日
@@ -14353,6 +14675,7 @@ use_preset_vocabulary: true
 金安国纪
 金奥博
 金白川
+金白开
 进班级
 金榜路
 金宝汇
@@ -14444,6 +14767,7 @@ use_preset_vocabulary: true
 禁狗令
 金骨朵
 金咕咕
+禁锢之地
 金光咒
 金龟车
 金桂大道
@@ -14586,6 +14910,7 @@ use_preset_vocabulary: true
 金秦禹
 晋情购
 金请夏
+金秋福利
 金秋九月
 金曲榜
 金曲歌王
@@ -14640,6 +14965,7 @@ use_preset_vocabulary: true
 金属狂潮
 金属狂野
 锦书云中来
+金斯伯格
 谨斯里
 近松十人卫
 金素慧
@@ -14672,6 +14998,7 @@ use_preset_vocabulary: true
 今天鬼节
 今天很热
 津田健次郎
+今天教师节
 今天考完
 今天立秋
 今天朋友圈
@@ -14920,6 +15247,7 @@ use_preset_vocabulary: true
 经济大萧条
 经济繁荣
 经济建设
+荆棘女王
 经济融合
 竞技神
 经济体系
@@ -14973,6 +15301,7 @@ use_preset_vocabulary: true
 惊沙
 静山
 井上正大
+精神财富
 精神风貌
 京深海鲜
 京深海鲜市场
@@ -14989,6 +15318,7 @@ use_preset_vocabulary: true
 泾水
 镜水
 静水边
+惊悚派对
 净态
 静态框
 惊涛飓浪
@@ -15011,6 +15341,7 @@ use_preset_vocabulary: true
 净无痕
 精武体育
 京蜥
+京西宾馆
 惊喜连连
 京县
 井贤栋
@@ -15165,6 +15496,7 @@ use_preset_vocabulary: true
 九馕
 九片
 酒粕
+九千七
 九人团
 旧闪
 救上来
@@ -15192,6 +15524,7 @@ use_preset_vocabulary: true
 九霄环佩
 九霄塔
 九心海棠
+九猩红
 九星连珠
 旧言
 九翼
@@ -15208,6 +15541,7 @@ use_preset_vocabulary: true
 九月二号
 九月好
 九月加油
+九月九号
 九月开始
 九月快乐
 九月你好
@@ -15238,6 +15572,7 @@ use_preset_vocabulary: true
 局部坏死
 局部有雨
 橘彩星光
+聚灿
 聚灿光电
 具灿星
 聚长白
@@ -15245,6 +15580,7 @@ use_preset_vocabulary: true
 聚橙
 具承俊
 锯齿兽
+巨盗
 橘岛
 巨淀湖
 据点守卫
@@ -15261,6 +15597,7 @@ use_preset_vocabulary: true
 钜峰
 飓风奇劫
 飓风之神
+拒服兵役
 橘公司
 巨骨舌鱼
 聚广德
@@ -15303,6 +15640,7 @@ use_preset_vocabulary: true
 巨力集团
 俱利伽罗
 橘里橘气
+聚力青春
 橘丽丝
 聚力新时代
 剧亮
@@ -15356,6 +15694,7 @@ use_preset_vocabulary: true
 雎晓雯
 聚血石
 巨星不易
+巨兴茂
 巨型蘑菇云
 巨星排面
 巨行星
@@ -15385,6 +15724,7 @@ use_preset_vocabulary: true
 捐骨髓
 卷睫盼
 捐卡
+捐款票据
 卷苗
 涓生
 隽水镇
@@ -15392,6 +15732,7 @@ use_preset_vocabulary: true
 卷行天下
 捐赠票据
 卷子难
+绝版蓝
 绝不答应
 绝不手软
 崛川
@@ -15399,6 +15740,7 @@ use_preset_vocabulary: true
 绝代艳后
 绝岛
 决斗场见
+决斗大师
 角斗之王
 绝对公平
 绝对灵盗
@@ -15445,6 +15787,7 @@ use_preset_vocabulary: true
 觉醒前
 觉醒之战
 绝凶虎
+绝巘多生怪柏
 绝夜
 绝夜逢生
 绝园的暴风雨
@@ -15488,6 +15831,7 @@ use_preset_vocabulary: true
 军强才能国安
 菌人
 军人们
+军人使命
 军人运动会
 君实生物
 军事五项
@@ -15593,6 +15937,7 @@ use_preset_vocabulary: true
 卡位战
 卡文迪什
 卡无翼
+卡西米尔
 卡西尼号
 卡相
 卡夜阁
@@ -15607,6 +15952,7 @@ use_preset_vocabulary: true
 凯布劳内
 楷灿
 开车图
+开冲
 开除学籍
 开创未来
 开创新天地
@@ -15630,6 +15976,7 @@ use_preset_vocabulary: true
 开海节
 开黑回忆
 开红包
+开会呢
 开鸡
 凯江桥
 铠角兽
@@ -15714,6 +16061,7 @@ use_preset_vocabulary: true
 开这种玩笑
 凯珍号
 开诊所
+开专场
 看八佰
 阚犇犇
 看不到太阳
@@ -15744,6 +16092,7 @@ use_preset_vocabulary: true
 看国漫
 看好了没
 看荷花
+看花木兰
 看极光
 坎肩
 看见恶魔
@@ -15786,6 +16135,7 @@ use_preset_vocabulary: true
 看位次
 看我的生活
 看我状态
+看信条
 看熊出没
 看秀
 看一分钟
@@ -15844,6 +16194,7 @@ use_preset_vocabulary: true
 抗疫必胜
 抗疫第一课
 抗疫基金
+抗疫精神
 抗疫剧
 抗疫无国界
 抗疫英雄
@@ -15867,6 +16218,7 @@ use_preset_vocabulary: true
 考程
 考成这样
 考出好成绩
+考初中
 考得不错
 考的不错
 考得不行
@@ -15919,13 +16271,16 @@ use_preset_vocabulary: true
 考绍伊
 考生加油
 考生物
+考生信息
 考生之家
+考生助手
 考试必过
 考师范
 考试期间
 考试用品
 考试之窗
 考试作弊
+考四六级
 考四天
 烤酸奶
 考太差
@@ -15933,17 +16288,22 @@ use_preset_vocabulary: true
 考完咯
 考完啦
 考完了没
+考完六级
 考完喽
 考完没有
+考完四级
 考完以后
 考完一科
 考完一门
 考完英语
 考完再说
+考文顿
 考文综
+考研大纲
 考研的话
 考研假
 考研教室
+考研上岸
 考研时间
 考研调剂
 考一门
@@ -16007,6 +16367,7 @@ use_preset_vocabulary: true
 科技工作者
 科技狐
 科技进步
+科技领域
 科技强国
 科技强军
 科技师范
@@ -16020,6 +16381,7 @@ use_preset_vocabulary: true
 科技中国
 柯佳嬿
 科教更加进步
+科教频道
 可杰
 刻刻帝
 可可里大卖
@@ -16040,10 +16402,12 @@ use_preset_vocabulary: true
 克雷斯波
 克雷斯托夫斯基体育场
 科雷亚
+可莉
 颗粒季
 克力架
 克利切
 科里斯
+克里斯埃文斯
 克里斯保罗
 克里斯康奈尔
 克里斯滕森
@@ -16088,6 +16452,7 @@ use_preset_vocabulary: true
 氪石
 科师大
 刻蚀机
+课时训练
 可食用陆生动物
 克氏综合征
 柯书
@@ -16096,6 +16461,7 @@ use_preset_vocabulary: true
 科斯
 氪条
 可调剂
+可投
 克图格亚
 科娃
 科瓦奇
@@ -16264,6 +16630,7 @@ use_preset_vocabulary: true
 空投枪
 控温杯
 空无之钥
+空袭警报
 空夏
 空想树
 空心病
@@ -16435,6 +16802,7 @@ use_preset_vocabulary: true
 快乐风男
 快乐环岛
 快乐快乐快乐
+快乐每一天
 快乐呀
 快乐呦
 快乐中国毕业歌会
@@ -16503,6 +16871,7 @@ use_preset_vocabulary: true
 匡威
 狂武藏
 狂小狗
+狂焰
 狂野刺
 狂野刺客
 狂野大陆
@@ -16557,6 +16926,7 @@ use_preset_vocabulary: true
 困难狗
 昆霓
 鲲湫
+昆山世硕
 鲲套
 坤廷
 昆图斯
@@ -16603,8 +16973,10 @@ use_preset_vocabulary: true
 拉花师
 辣鸡洋
 拉结尔
+拉筋板
 辣警霸王花
 拉警报
+蜡炬成灰
 辣卷
 拉卡泽特
 拉胯
@@ -16633,6 +17005,7 @@ use_preset_vocabulary: true
 辣酸奶
 拉蒜器
 辣台妹
+拉特兰
 拉腿杀
 拉旺多尔济
 拉威
@@ -16643,6 +17016,7 @@ use_preset_vocabulary: true
 蜡烛堆
 腊猪脚
 莱安娜
+莱昂纳德乔治
 莱傲天
 莱伯妮
 来澄通
@@ -16656,6 +17030,7 @@ use_preset_vocabulary: true
 来电狂响
 来电奇缘
 来点赞
+来抖音
 莱恩哈特
 来个红包
 来根华子
@@ -16669,6 +17044,7 @@ use_preset_vocabulary: true
 来开船
 莱科宁
 来临沂
+来临之际
 莱玫
 赖美云
 莱姆病
@@ -16717,6 +17093,7 @@ use_preset_vocabulary: true
 蓝窗
 蓝春
 懒得包
+懒得背
 兰德里纳河的地下室
 兰德鲁
 蓝登
@@ -16729,6 +17106,7 @@ use_preset_vocabulary: true
 兰芳特
 蓝菲琳
 岚风
+懒狗代
 蓝姑
 蓝拐
 烂果
@@ -16754,6 +17132,7 @@ use_preset_vocabulary: true
 蓝莓派
 蓝莓台
 拦门
+蓝棉裤
 烂命华
 蓝墨
 蓝魔鬼
@@ -16766,10 +17145,12 @@ use_preset_vocabulary: true
 兰奇尼
 蓝骑士
 兰洽会
+兰芊翊
 岚切
 蓝青峰
 蓝青玄
 蓝琼缨
+篮球教练
 篮球界
 兰若庭
 懒人火锅
@@ -16989,6 +17370,8 @@ use_preset_vocabulary: true
 崂山校区
 老少年
 牢生
+老师节日快乐
+老师最好看
 老兽
 老鼠肉
 老鼠台
@@ -16999,6 +17382,8 @@ use_preset_vocabulary: true
 老团员
 老乌鸦
 老奚
+老西藏
+老西藏精神
 捞虾
 老选手
 劳燕
@@ -17148,6 +17533,7 @@ use_preset_vocabulary: true
 冷案
 冷彻
 楞次
+冷得要死
 冷冻电镜
 冷冻食品
 冷都男
@@ -17234,6 +17620,7 @@ use_preset_vocabulary: true
 俚岛
 丽岛新材
 离岛之歌
+立德立人
 李德伦
 利迪策
 李帝努
@@ -17405,6 +17792,7 @@ use_preset_vocabulary: true
 李林生
 李璐雪
 李陆雪
+理论创新
 理论法
 理论联系实际
 理论水平
@@ -17510,6 +17898,7 @@ use_preset_vocabulary: true
 历史重演
 理事国
 李始娟
+历史练习册
 利市派
 梨视频
 历史试卷
@@ -17523,6 +17912,7 @@ use_preset_vocabulary: true
 李束
 李舒白
 李淑静
+李舒克
 梨树王
 丽水街
 狸说
@@ -17667,6 +18057,8 @@ use_preset_vocabulary: true
 李元戎
 梨园湾
 栗原文音
+璃月
+璃月港
 李运秋
 李云睿
 李昀锐
@@ -17819,12 +18211,14 @@ use_preset_vocabulary: true
 恋恋江湖
 莲莲子
 莲露
+联盟第一人
 恋梦空间
 炼命
 联明股份
 联名款
 连拿
 廉颇
+廉颇皮肤
 恋情曝光
 链人
 链刃
@@ -17839,6 +18233,7 @@ use_preset_vocabulary: true
 恋是樱草色
 联手创未来
 脸叔
+廉斯嘉
 连琑反应
 联泰环保
 练摊儿
@@ -17907,6 +18302,7 @@ use_preset_vocabulary: true
 凉风至
 梁岗
 两个大男人
+两个毫不动摇
 两个男孩子
 两个箱子
 两个校区
@@ -17936,6 +18332,7 @@ use_preset_vocabulary: true
 梁浸浸
 梁靖康
 梁靖崑
+两课时
 两颗糖
 凉快一点
 亮老鼠
@@ -17954,6 +18351,7 @@ use_preset_vocabulary: true
 梁朋杰
 两匹马
 梁婆娘
+良器
 两千首
 梁青
 梁銶琚
@@ -17969,6 +18367,7 @@ use_preset_vocabulary: true
 粮食危机
 梁诗雅
 良树
+两束花
 亮司
 梁思礼
 梁思申
@@ -17985,6 +18384,7 @@ use_preset_vocabulary: true
 梁小友
 梁信军
 梁兴扬
+梁铉锡
 梁艳萍
 梁野山
 良衣
@@ -18092,6 +18492,7 @@ use_preset_vocabulary: true
 烈克
 裂可宁
 猎狼人
+猎龙队
 猎鹿
 列宁格勒
 猎妻
@@ -18117,6 +18518,7 @@ use_preset_vocabulary: true
 猎心者
 猎凶
 猎凶风河谷
+裂穴
 猎赝
 烈焰领主
 烈阳天道
@@ -18228,6 +18630,7 @@ use_preset_vocabulary: true
 林纳斯
 林奈奈
 林楠笙
+林奴儿
 林品璇
 林浅
 林秦
@@ -18313,6 +18716,7 @@ use_preset_vocabulary: true
 林雨申
 淋雨一直走
 林渝植
+临渊行
 林哲民
 林哲宇
 林珍娜
@@ -18391,6 +18795,7 @@ use_preset_vocabulary: true
 灵爵
 灵绝
 领军人
+灵龛
 凌空抽射
 岭口
 铃兰花
@@ -18425,6 +18830,7 @@ use_preset_vocabulary: true
 零片酬
 铃钱
 绫清竹
+领取礼包
 灵犬
 灵泉峡
 零日漏洞
@@ -18478,6 +18884,7 @@ use_preset_vocabulary: true
 伶鼬
 另有安排
 灵鱼
+领月饼
 令月公主
 凌云彻
 凌云窟
@@ -18508,6 +18915,7 @@ use_preset_vocabulary: true
 六百四
 刘柏辛
 柳白猿
+六百字
 六棒
 六保
 六宝
@@ -18541,6 +18949,7 @@ use_preset_vocabulary: true
 刘大美
 刘大美人
 六打五
+六代机
 六道天书
 刘德海
 刘德强
@@ -18564,6 +18973,8 @@ use_preset_vocabulary: true
 刘飞儿
 六峰山
 刘凤霞
+六福星
+刘福星
 刘夫洋
 刘夫阳
 流感病毒裂解疫苗
@@ -18608,6 +19019,11 @@ use_preset_vocabulary: true
 刘火
 六迹
 六级报名
+六级必过
+六级翻译
+六级加油
+六级考试
+六级作文
 刘迦
 刘家庙
 刘嘉怡
@@ -18680,12 +19096,14 @@ use_preset_vocabulary: true
 刘启明
 六七十分
 刘栖子
+刘倩楠
 六强
 六枪
 柳青鸾
 柳青阳
 刘秋生
 刘铨淼
+六人晚餐
 刘人语
 柳茹
 柳如丝
@@ -18724,6 +19142,7 @@ use_preset_vocabulary: true
 柳条湖
 柳条湖事件
 流亭街道
+流通体系
 刘统勋
 柳疃镇
 柳屯镇
@@ -18739,6 +19158,7 @@ use_preset_vocabulary: true
 流雾
 刘五朵
 六五环境日
+柳熙烈
 刘喜龙
 刘熙阳
 柳惜音
@@ -18842,6 +19262,7 @@ use_preset_vocabulary: true
 刘招华
 留着肚子
 留着花
+刘正印
 刘志彪
 刘至佳
 刘智明
@@ -18852,6 +19273,7 @@ use_preset_vocabulary: true
 柳智宇
 刘忠林
 六周年
+六周年快乐
 留住美
 留住人才
 留住乡愁
@@ -18889,6 +19311,7 @@ use_preset_vocabulary: true
 龙井问茶
 龙井虾仁
 泷口光
+龙令
 龙岭迷窟
 拢龙
 龙脉石
@@ -18900,6 +19323,7 @@ use_preset_vocabulary: true
 龙门浩
 龙门绝境
 龙梦柔
+龙魔导
 龙目岛
 隆念娣
 龙牌之谜
@@ -18914,6 +19338,7 @@ use_preset_vocabulary: true
 龙煞
 隆山
 龙神契约
+龙神之力
 隆盛科技
 隆师
 龙矢
@@ -18988,6 +19413,7 @@ use_preset_vocabulary: true
 楼板娘
 楼层低
 漏洞伞
+娄晗
 娄浩
 楼家豪
 楼炅择
@@ -19113,6 +19539,7 @@ use_preset_vocabulary: true
 陆鸣
 鹿明
 露茗堂
+芦名星
 路默依
 露娜拉
 露娜塔
@@ -19183,6 +19610,7 @@ use_preset_vocabulary: true
 露胃装
 鲁问
 陆雯倩
+炉温曲线
 鲁文涛
 陆文勇
 陆文章
@@ -19197,6 +19625,7 @@ use_preset_vocabulary: true
 陆仙人
 鹿先森乐队
 鹿相
+露笑
 路小北
 陆小贝
 鹿小草
@@ -19236,6 +19665,7 @@ use_preset_vocabulary: true
 路悠言
 鹿予
 鹿与飞鸟
+陆寓丰
 陆遇寄秋
 卢煜明
 陆宇鹏
@@ -19262,6 +19692,8 @@ use_preset_vocabulary: true
 卢作孚
 栾冰然
 峦城
+乱穿衣
+栾队
 乱港分子
 乱轰三国志
 乱花葬
@@ -19281,6 +19713,7 @@ use_preset_vocabulary: true
 略表心意
 略伦特
 掠食城市
+略无阙处
 掠星
 掠阵
 抡博
@@ -19349,6 +19782,7 @@ use_preset_vocabulary: true
 罗海丽
 罗豪才
 漯河医专
+罗喉计都
 罗湖桥
 洛华
 落花时节
@@ -19421,6 +19855,7 @@ use_preset_vocabulary: true
 罗斯威尔
 罗思源
 罗素兄弟
+罗素月
 罗桃
 罗天大醮
 洛天然
@@ -19468,6 +19903,7 @@ use_preset_vocabulary: true
 罗云琦
 罗渽民
 罗正
+罗织经
 罗忠生
 洛竹
 骆庄
@@ -19574,6 +20010,7 @@ use_preset_vocabulary: true
 马保国
 马伯骞
 马伯赛
+抹布姐
 马步谣
 麻布依
 麻步镇
@@ -19696,6 +20133,7 @@ use_preset_vocabulary: true
 马秋子
 马茸茸
 玛瑞亚
+玛萨拉帝
 马赛回旋
 马沙特
 马上端午节
@@ -19791,6 +20229,7 @@ use_preset_vocabulary: true
 马占军
 马者村
 马喆人
+马正阳
 马之王子殿下
 马志威
 马智宇
@@ -19862,6 +20301,7 @@ use_preset_vocabulary: true
 买练习册
 买凉鞋
 霾龙
+麦路人
 迈玛瑞
 卖萌日
 买米当卡
@@ -19947,10 +20387,12 @@ use_preset_vocabulary: true
 慢粒
 蛮凉快
 慢慢搬
+慢慢背
 慢慢变老
 慢慢贴近
 满满喜欢你
 满门忠烈
+满命
 满目星辰
 曼尼普尔
 曼娘
@@ -20050,6 +20492,7 @@ use_preset_vocabulary: true
 毛军华
 茅侃侃
 毛克利
+猫坑
 猫乐
 猫乐园
 毛里斯
@@ -20083,6 +20526,7 @@ use_preset_vocabulary: true
 矛尾鱼
 毛乌素沙漠
 猫系男孩
+冒险等级
 茅仙洞
 猫仙人
 冒险之翼
@@ -20125,6 +20569,7 @@ use_preset_vocabulary: true
 霉超疯
 没抄上
 没抄袭
+没成熟
 没成团
 没翅膀
 没吃粽子
@@ -20133,6 +20578,7 @@ use_preset_vocabulary: true
 没出分
 没处分
 没出库
+没穿外套
 没创意
 没凑够
 没答完
@@ -20204,10 +20650,12 @@ use_preset_vocabulary: true
 美国独立日
 美国夫人
 美国工厂
+美国国籍
 美国国旗
 美国警察
 美国囧案
 美国领事馆
+美国菩萨
 美国翘臀
 美国人民
 美国泰拉能源
@@ -20228,7 +20676,9 @@ use_preset_vocabulary: true
 梅花镖
 梅花卷
 梅花香自苦寒来
+美辉瑞
 美货
+魅惑女巫
 梅姬
 没继承
 没几分
@@ -20237,6 +20687,7 @@ use_preset_vocabulary: true
 美加狮
 没降价
 梅杰里
+没进面试
 美锦能源
 没进球
 没紧张
@@ -20266,13 +20717,16 @@ use_preset_vocabulary: true
 梅丽尔
 美丽风景线
 梅力更
+美丽河北
 魅力湖南
 美丽谎言
+魅力吉林
 美丽家园
 美丽节
 美丽梦想
 梅丽莎
 梅丽珊卓
+美丽生活
 魅力维加斯
 美利云
 美丽祖国
@@ -20287,6 +20741,7 @@ use_preset_vocabulary: true
 美马
 没买礼物
 梅曼
+美满幸福
 美美搭
 美梦星
 梅米特
@@ -20359,6 +20814,7 @@ use_preset_vocabulary: true
 美术专业
 没撕
 没送出去
+没送礼
 没送礼物
 没算出来
 没碎片
@@ -20368,6 +20824,7 @@ use_preset_vocabulary: true
 美糖
 没填满
 没填完
+美通币
 没同桌
 没头盔
 没涂卡
@@ -20379,6 +20836,7 @@ use_preset_vocabulary: true
 没脱单
 美味关系
 美味奇缘
+美味星球
 美味侦探
 美物节
 没下起来
@@ -20489,6 +20947,7 @@ use_preset_vocabulary: true
 孟村镇
 萌大
 蒙达
+蒙德城
 梦的传说
 蒙的都对
 蒙的全对
@@ -20639,6 +21098,7 @@ use_preset_vocabulary: true
 孟兆星
 蒙着眼
 梦枕貘
+梦之回廊
 梦之泪伤
 梦之使者
 梦中女孩
@@ -20701,6 +21161,7 @@ use_preset_vocabulary: true
 米国度
 秘行要员
 糜昊伦
+米忽悠
 米花之味
 迷幻风
 迷魂凼
@@ -20861,6 +21322,7 @@ use_preset_vocabulary: true
 缅川
 面窗
 面窗纱
+免单卡
 免单了
 免单日
 绵德
@@ -21027,6 +21489,7 @@ use_preset_vocabulary: true
 民之所幸
 民族常识
 民族的希望
+民族栋梁
 明坂聪美
 命宝
 溟波
@@ -21040,6 +21503,7 @@ use_preset_vocabulary: true
 冥灯
 冥灯龙
 明灯三千
+鸣笛声
 冥斗狮
 明矾石
 鸣凤庄
@@ -21054,6 +21518,7 @@ use_preset_vocabulary: true
 鸣鸿传
 明湖秀
 鸣皇榊
+铭记初心
 铭记历史
 铭记英雄
 名将令
@@ -21131,6 +21596,7 @@ use_preset_vocabulary: true
 明天开学
 明天看电影
 明天考试加油
+明天考四级
 明天考完
 明天能到
 明天去学校
@@ -21169,9 +21635,11 @@ use_preset_vocabulary: true
 明言明语
 明阳电路
 名扬花鼓
+茗玉
 冥域时空
 明月岛
 明月寄相思
+明月镜片
 明月栞那
 明月如霜
 明月山庄
@@ -21189,6 +21657,9 @@ use_preset_vocabulary: true
 名侦探皮卡丘
 鸣之间
 明栀明
+命之座
+命中人
+明昼
 命转乾坤
 冥族
 缪爹
@@ -21249,11 +21720,13 @@ use_preset_vocabulary: true
 魔法的禁书目录
 魔法工坊
 魔法公鸡
+魔法纪录
 魔法教师
 魔法觉醒
 魔法口袋
 魔法料理
 魔法猫
+魔法牌
 魔法俏佳人
 魔法绒
 魔法商店
@@ -21293,6 +21766,7 @@ use_preset_vocabulary: true
 莫虎
 魔壶
 魔化龙
+魔花螳螂
 墨幻
 莫焕晶
 魔幻卡牌
@@ -21464,6 +21938,8 @@ use_preset_vocabulary: true
 莫郁华
 墨玉太极
 摩玉玄奇
+魔渊
+魔渊之刃
 莫扎
 墨者
 魔珍
@@ -21477,6 +21953,7 @@ use_preset_vocabulary: true
 谋定天下
 谋划长远
 某幻君
+谋局
 哞利斯塔
 牟林翰
 谋女郎
@@ -21690,6 +22167,7 @@ use_preset_vocabulary: true
 娜美酱
 纳闷过
 娜米达
+纳米晶体
 纳米颗粒
 娜姆
 那幕
@@ -21715,6 +22193,7 @@ use_preset_vocabulary: true
 哪所大学
 哪所学校
 纳坦
+那图鲁
 纳威
 那我不客气
 那我就不客气
@@ -21729,6 +22208,7 @@ use_preset_vocabulary: true
 哪一所
 纳因格兰
 纳英戈兰
+拿月饼
 纳扎尔巴耶夫
 那战队
 那张卷
@@ -21780,6 +22260,7 @@ use_preset_vocabulary: true
 奶拽
 奈子
 奶子沟
+男爱豆
 男班主任
 难报
 南宝山
@@ -21851,6 +22332,7 @@ use_preset_vocabulary: true
 南京聚隆
 南京审计
 南京晓庄
+南京疫情
 南京邮电
 南京中医药
 难就业
@@ -21896,6 +22378,7 @@ use_preset_vocabulary: true
 男同胞们
 南投县
 男玩家
+难忘师恩
 男未婚
 南威软件
 南溪
@@ -22047,6 +22530,7 @@ use_preset_vocabulary: true
 倪克斯神谕
 妮可鱼
 妮蔻
+你快听
 泥兰
 逆浪千秋
 逆练
@@ -22058,6 +22542,7 @@ use_preset_vocabulary: true
 尼玛顿珠
 匿名捐款
 逆命师
+匿名提问
 尼摩船长
 倪莫问
 妮姆芙
@@ -22067,6 +22552,7 @@ use_preset_vocabulary: true
 妮侬
 尼欧怀兹彗星
 你拍我
+溺器
 倪秋云
 倪睿思
 尼山萨满
@@ -22098,6 +22584,7 @@ use_preset_vocabulary: true
 逆转次元
 逆转乾坤
 倪子鱼
+你作业
 撵不走
 年宠
 念娣
@@ -22136,6 +22623,7 @@ use_preset_vocabulary: true
 年已过半
 鲶鱼脸
 念在初犯
+年账单
 念之灵
 撵转
 娘道
@@ -22171,6 +22659,7 @@ use_preset_vocabulary: true
 聂小雨
 捏造陷阱
 孽主
+您辛苦了
 宁宝宝
 宁滨
 宁丹琳
@@ -22269,6 +22758,7 @@ use_preset_vocabulary: true
 农路
 农民利益
 农农
+农洽会
 浓情端午
 浓情玫瑰
 农尚环境
@@ -22279,6 +22769,7 @@ use_preset_vocabulary: true
 弄雪
 农业发展
 农业农民
+弄玉米
 浓云
 努尔白克力
 努尔比耶
@@ -22352,6 +22843,7 @@ use_preset_vocabulary: true
 诺瓦拉
 诺亚大陆
 诺亚幻想
+女巴
 女魃墓
 女班主任
 女不养狗
@@ -22359,6 +22851,7 @@ use_preset_vocabulary: true
 女大十一变
 女导弹
 女德班
+女弟子
 女店员
 女儿谷
 女儿们的恋爱
@@ -22370,6 +22863,7 @@ use_preset_vocabulary: true
 女孩闺房
 女娇娥
 女劫
+女警官
 女客人
 女雷神
 女林
@@ -22403,6 +22897,7 @@ use_preset_vocabulary: true
 女侠节
 女下属
 女肖
+女校长
 女心理师
 女婿节
 女婿日
@@ -22528,6 +23023,7 @@ use_preset_vocabulary: true
 排考场
 派克服
 派克特
+排扣裤
 拍来拍去
 拍了拍我
 拍了拍自己
@@ -22535,6 +23031,7 @@ use_preset_vocabulary: true
 拍了一下
 拍立减
 拍两下
+派蒙
 排名多少
 拍拍你
 拍拍他
@@ -22636,6 +23133,7 @@ use_preset_vocabulary: true
 庞颖
 胖哲
 胖子行动队
+跑八百
 跑步的时候
 跑步进场
 泡菜节
@@ -22750,6 +23248,7 @@ use_preset_vocabulary: true
 彭城王
 朋弟
 彭定康
+捧逗合
 彭奋
 彭海涛
 彭胡弯
@@ -22796,6 +23295,7 @@ use_preset_vocabulary: true
 彭志勇
 彭子苏
 彭祖园
+皮宝
 皮草季
 皮草节
 皮带大王
@@ -22836,6 +23336,7 @@ use_preset_vocabulary: true
 皮纳瑞罗
 皮纳特
 匹配错误
+匹配题
 啤啤
 皮皮寒
 皮皮狐
@@ -22916,10 +23417,12 @@ use_preset_vocabulary: true
 拼爹爹
 拼多多
 拼个单
+拼个团
 拼婚
 拼季卡
 拼卡
 拼酷
+贫困认定
 贫困日
 贫困专项
 品兰
@@ -22964,6 +23467,7 @@ use_preset_vocabulary: true
 平负
 瓶盖挑战
 平挂生
+苹果发布会
 苹果官网
 苹果嘉儿
 苹果联邦
@@ -22971,11 +23475,14 @@ use_preset_vocabulary: true
 评价女王
 评价手册
 评价网
+评奖评优
+评奖学金
 平旌
 平井桃
 萍爵
 平卡
 凭空消失
+平框
 平乐宴
 平流雾
 平陆成江
@@ -23004,7 +23511,9 @@ use_preset_vocabulary: true
 屏下摄像头
 平鑫涛
 平型关大捷
+平行卷
 平行组
+评议小组
 平阴玫瑰
 瓶与抛光者
 平语颂
@@ -23046,6 +23555,7 @@ use_preset_vocabulary: true
 魄罗王
 破魔刀
 破泞之战
+颇妞
 破片手雷
 颇颇
 颇颇公主
@@ -23167,6 +23677,7 @@ use_preset_vocabulary: true
 启大大
 骑呆
 齐岱泽
+齐德
 启迪设计
 启迪未来
 戚殿
@@ -23185,6 +23696,7 @@ use_preset_vocabulary: true
 起飞币
 弃妃独宠
 气氛不算融洽
+七分财
 起分线
 七封情书
 棋逢挚爱
@@ -23266,6 +23778,7 @@ use_preset_vocabulary: true
 七连阳
 杞梁
 七粮液
+骑猎
 麒麟洞
 麒麟花
 麒麟剧社
@@ -23357,6 +23870,7 @@ use_preset_vocabulary: true
 骑士君
 骑士卡
 齐世龙
+歧视女性
 七十七天
 其实我都清楚
 启示之眼
@@ -23385,6 +23899,7 @@ use_preset_vocabulary: true
 齐藤壮马
 七天班
 祁天道
+七天神像
 齐天小太子
 旗亭酒肆
 弃团
@@ -23477,6 +23992,7 @@ use_preset_vocabulary: true
 七月初二
 七月初七
 七月初一
+七月二十二
 启月夫妇
 七月加油
 七月节
@@ -23573,6 +24089,7 @@ use_preset_vocabulary: true
 千甲德
 钱江水利
 钱江学院
+钱瑾
 千金重弩
 前进姿态
 前景好
@@ -23610,6 +24127,7 @@ use_preset_vocabulary: true
 千年笛
 千年调
 千年难遇
+千年学府
 千年一遇
 千年之约
 千鸟城
@@ -23784,6 +24302,7 @@ use_preset_vocabulary: true
 强弱项
 呛嗓子
 强生控股
+强盛之基
 腔室
 强实践
 强势入场
@@ -23801,6 +24320,7 @@ use_preset_vocabulary: true
 蔷薇园
 蔷薇之心
 抢我生意
+强我中华
 抢先体验
 枪爷
 枪影
@@ -23914,6 +24434,7 @@ use_preset_vocabulary: true
 亲爱的客栈
 亲爱的篮球
 亲爱的老爸
+亲爱的老师
 亲爱的麻洋街
 亲爱的请放松
 亲爱的她们
@@ -23935,6 +24456,7 @@ use_preset_vocabulary: true
 秦光荣
 亲华
 亲华派
+侵华战争
 覃怀
 覃欢喜
 秦皇古道
@@ -23986,6 +24508,7 @@ use_preset_vocabulary: true
 秦屹
 秦衣
 秦宜智
+秦俑情
 秦煜
 秦瑜
 秦禹
@@ -24007,6 +24530,7 @@ use_preset_vocabulary: true
 请别告诉我
 请别离开我
 青草地
+轻策庄
 请茶歌
 清肠器
 情场杀手
@@ -24052,11 +24576,13 @@ use_preset_vocabulary: true
 青春液
 青春由磨砺而出彩
 青春有你
+青春在大地
 青春制作人
 青春最好时
 请赐我一双翅膀
 青大教务
 清黛
+青岛地震
 青岛峰会
 青岛农业
 青岛啤酒节
@@ -24102,6 +24628,7 @@ use_preset_vocabulary: true
 清姬
 青吉鬼
 请假必买色
+请假理由
 清见
 清江河
 清江桥
@@ -24130,6 +24657,7 @@ use_preset_vocabulary: true
 清凉小队
 清凉寨
 青林村
+请留步
 青笼
 青龙古镇
 青龙会
@@ -24283,6 +24811,7 @@ use_preset_vocabulary: true
 情缘树
 青悦城
 青云榜
+庆云顶
 青云汇
 情在烧
 青簪行
@@ -24355,6 +24884,7 @@ use_preset_vocabulary: true
 球盘
 邱倩
 秋千水
+丘丘人
 球球是道
 球球兔
 秋渠乡
@@ -24372,6 +24902,8 @@ use_preset_vocabulary: true
 秋水誓
 丘索维金娜
 秋天的怀念
+秋天的雨
+秋天该很好
 秋天见
 秋天快乐
 球跳塔
@@ -24410,6 +24942,7 @@ use_preset_vocabulary: true
 去摆地摊
 去摆摊
 趣伴
+去搬书
 趣步
 取不上
 趣步行
@@ -24501,6 +25034,7 @@ use_preset_vocabulary: true
 曲小檀
 趣学习
 去学校了
+去学校写
 曲爷
 曲一
 屈由
@@ -24512,6 +25046,7 @@ use_preset_vocabulary: true
 区域协调发展
 区域行动
 区域自治
+去远方
 曲云传
 曲志林
 取之有度
@@ -24534,6 +25069,7 @@ use_preset_vocabulary: true
 全光勋
 全国哀悼
 全国哀悼日
+全国爱牙日
 全国爱眼日
 全国大联考
 全国大赛
@@ -24580,6 +25116,7 @@ use_preset_vocabulary: true
 全力保障
 全力奔小康
 全力配合
+全历史
 全力推进
 权力与荣耀
 全力詹
@@ -24596,6 +25133,7 @@ use_preset_vocabulary: true
 全面吃鸡模拟器
 全面防控
 全面扶贫
+全面复兴
 全面贯彻
 全面合作
 全面检查
@@ -24681,7 +25219,11 @@ use_preset_vocabulary: true
 权顺荣
 全体党员
 全体会议
+全体教师
+全体老师
 全体人民
+全体同学
+全贴合
 全图视野
 圈外女友
 犬王
@@ -24755,6 +25297,7 @@ use_preset_vocabulary: true
 群众利益
 裙姊
 染安
+冉冰
 燃城
 冉承其
 燃灯节
@@ -24771,6 +25314,7 @@ use_preset_vocabulary: true
 然山派
 燃殇
 燃烧王座
+燃烧自己
 燃素
 染完头
 染完头发
@@ -24943,6 +25487,8 @@ use_preset_vocabulary: true
 人民圈子
 人民生命
 人民生命安全
+人民万岁
+人民卫士
 人民英雄
 人民至上
 人民智云
@@ -24983,6 +25529,7 @@ use_preset_vocabulary: true
 人生无限公司
 人生一串
 人生有梦
+人事调动
 认识海洋
 人手贝
 人手一只
@@ -25017,6 +25564,7 @@ use_preset_vocabulary: true
 人形立牌
 人形态
 人烟之岛
+认养一头牛
 人妖王
 任燚
 任意步
@@ -25057,6 +25605,7 @@ use_preset_vocabulary: true
 仍是少年
 扔石头
 扔一科
+扔证件
 日本沉没
 日本狼
 日本首相
@@ -25092,6 +25641,7 @@ use_preset_vocabulary: true
 日盈电子
 日月贝
 日月风华
+日月水火
 日月同天
 日晕
 日晕三更雨
@@ -25120,6 +25670,7 @@ use_preset_vocabulary: true
 容佩
 熔喷布
 容齐
+绒球花
 熔融炉
 熔山龙
 荣晟
@@ -25223,6 +25774,7 @@ use_preset_vocabulary: true
 入学后
 入学籍
 入学码
+入学年份
 汝嫣
 汝阳王
 入野自由
@@ -25299,6 +25851,7 @@ use_preset_vocabulary: true
 若能与你共乘海浪之上
 若森
 若是长久时
+若塔
 若芽色
 若有战
 若玉
@@ -25468,6 +26021,7 @@ use_preset_vocabulary: true
 三观炸裂
 三国服
 三国机密
+三国猛将
 三国群雄传
 三国王者
 三孩
@@ -25480,6 +26034,7 @@ use_preset_vocabulary: true
 三晖电气
 三吉彩花
 三价合一
+三嫁惹君心
 三加三
 三加四
 三加一
@@ -25511,6 +26066,7 @@ use_preset_vocabulary: true
 三面娜迦
 三秒即可
 三民小区
+三目
 三年以上
 三年之期
 三年之痛
@@ -25555,6 +26111,8 @@ use_preset_vocabulary: true
 散是满天星
 三十篇
 三十五度
+三首诗
+三束
 三四集
 三四秒
 三四排
@@ -25562,6 +26120,7 @@ use_preset_vocabulary: true
 三四下
 三苏园
 三堂街
+三套题
 三头怪
 三万多人
 三万人
@@ -25570,6 +26129,7 @@ use_preset_vocabulary: true
 三维板
 三维股份
 三维集团
+三位老师
 三维码
 三维丝
 三稳
@@ -25756,6 +26316,7 @@ use_preset_vocabulary: true
 沙漠兄弟
 沙漠之雕
 沙漠之鹰
+沙娜拉
 沙尼亚特
 傻帕
 沙佩
@@ -25789,13 +26350,16 @@ use_preset_vocabulary: true
 啥也不是
 沙叶新
 杀意隆
+沙一汀
 鲨影
 杀鱼弟
 鲨鱼肌
 鲨鱼夹
+鲨鱼裤
 杀玉狼
 鲨鱼线
 沙赞
+沙之守护
 杀之贪
 杀之卸
 沙洲坝
@@ -25858,10 +26422,12 @@ use_preset_vocabulary: true
 山东商务职业学院
 山东省考
 山东消防
+山东沂水
 山东政法
 山东中医药
 善毒
 善读书
+善盾
 山坟
 山粉糊
 山风短
@@ -25955,9 +26521,11 @@ use_preset_vocabulary: true
 衫叶
 善逸
 闪艺
+单依纯
 山隐
 闪印
 山阴公主
+善于斗争
 单禹豪
 山月不知心底事
 杉泽
@@ -26037,6 +26605,7 @@ use_preset_vocabulary: true
 赏金恋人
 上京东
 尚九熙
+尚九熙何九华
 上军校
 商侃
 上考场
@@ -26197,9 +26766,11 @@ use_preset_vocabulary: true
 少御音
 邵元
 邵芸
+绍职
 蛇宝
 奢比
 蛇仓翔太
+蛇缠腰
 蛇赤
 奢侈税
 涉川
@@ -26334,15 +26905,20 @@ use_preset_vocabulary: true
 深海异兽
 深海越狱
 谌浩轩
+审核不过
+审核不通过
+审核过
 神猴大叔
 神候令
 神户制钢
 深化改革创新
 深化合作
 深化合作共赢
+深化互信
 神话王
 神话王降临
 深化友谊
+神话装备
 身患绝症
 申惠晶
 神火股份
@@ -26389,6 +26965,7 @@ use_preset_vocabulary: true
 申柳真
 申留真
 神龙天女
+神龙尊者
 蜃楼王
 神鹿峰
 沈螺
@@ -26400,6 +26977,7 @@ use_preset_vocabulary: true
 什么都看不见
 什么卷
 沈美人
+沈梦可
 沈梦溪
 沈梦雨
 神秘大佬
@@ -26436,6 +27014,7 @@ use_preset_vocabulary: true
 深崎暮人
 神奇男孩
 神器使
+神弃之地
 神签
 身强
 深切哀悼
@@ -26467,6 +27046,7 @@ use_preset_vocabulary: true
 身势语
 神兽归笼
 神兽回笼
+神爽
 沈水湾
 沈四海
 绅探
@@ -26481,6 +27061,7 @@ use_preset_vocabulary: true
 身体旺旺
 沈听白
 沈浵
+神瞳
 神童山
 神偷大师
 神偷联盟
@@ -26645,7 +27226,9 @@ use_preset_vocabulary: true
 盛蕙子
 生活不如意
 生活对我下手了
+生活美满
 生活启示录
+生活如意
 生活生产
 圣火纹
 生活有鱼
@@ -26666,6 +27249,7 @@ use_preset_vocabulary: true
 生来好动
 省理
 胜利闭幕
+胜利的方向
 胜利股份
 胜利日阅兵
 胜利召开
@@ -26691,6 +27275,7 @@ use_preset_vocabulary: true
 生命探测仪
 生命之杯
 生命至上
+生命重于泰山
 生命重于一切
 圣母圣咏
 省内省外
@@ -26748,6 +27333,7 @@ use_preset_vocabulary: true
 圣纹
 生我养我
 生物竞赛
+生物课代表
 生物识别
 生物试卷
 生物实验
@@ -26840,6 +27426,7 @@ use_preset_vocabulary: true
 时代峰峻
 时代俊峰
 时代峻峰
+时代课题
 史黛拉
 世代龙城
 时代少年团
@@ -26859,10 +27446,13 @@ use_preset_vocabulary: true
 施定柔
 十朵
 十多秒
+师恩深似海
+十二大战
 十二号楼
 十二金刚
 十二时辰
 十二试炼
+史尔特尔
 十二载
 十二战纪
 十二周年
@@ -26913,6 +27503,7 @@ use_preset_vocabulary: true
 时光教会我爱你
 时光尽头
 时光尽头的恋人
+拾光里
 拾光里的我们
 时光恋人
 时光瓶
@@ -26985,6 +27576,7 @@ use_preset_vocabulary: true
 世界表白日
 十戒传奇
 世界大象日
+世界等级
 世界动物日
 世界反法西斯
 世界肥胖日
@@ -26994,6 +27586,7 @@ use_preset_vocabulary: true
 世界海员日
 世界滑板日
 世界环境日
+世界急救日
 世界计量日
 世界接吻日
 世界科技
@@ -27097,12 +27690,14 @@ use_preset_vocabulary: true
 石门市场
 石门台
 湿梦
+誓盟
 施密茨
 史密斯热水器
 拾棉花
 时秒
 石庙子
 噬灭
+试鸣
 使命担当
 世名科技
 释明空
@@ -27136,6 +27731,7 @@ use_preset_vocabulary: true
 史彭元
 食品节
 视频铃声
+视频题
 食品饮料
 食品质量
 视频助理裁判
@@ -27159,6 +27755,7 @@ use_preset_vocabulary: true
 石雀
 狮群
 狮群的狩猎
+诗然
 世人皆苦
 嗜人之夜
 食日
@@ -27199,6 +27796,7 @@ use_preset_vocabulary: true
 事事休
 噬时妖
 食事药闻
+世硕电子
 十四号楼
 十四级
 十四五
@@ -27377,6 +27975,7 @@ use_preset_vocabulary: true
 收班费
 手办上线
 手宝
+受表彰
 手部皮肤
 寿材店
 首财官
@@ -27400,6 +27999,7 @@ use_preset_vocabulary: true
 寿丰
 首封
 首峰
+收复台湾
 授格者
 手工水饺
 收谷子
@@ -27449,6 +28049,7 @@ use_preset_vocabulary: true
 受难节
 手抛球
 手捧鲜花
+手捧着鲜花
 手皮
 售片
 授旗仪式
@@ -27590,6 +28191,7 @@ use_preset_vocabulary: true
 淑女剑
 淑女飘飘拳
 叔拍
+书契
 蜀七
 数钱宝
 数千次
@@ -27636,9 +28238,11 @@ use_preset_vocabulary: true
 数字人生
 鼠族
 赎罪营
+刷初始
 刷动态
 刷瓜
 刷龙啸
+刷寝
 刷刷乐
 刷推
 刷油管
@@ -27646,6 +28250,8 @@ use_preset_vocabulary: true
 摔鞭
 衰草
 帅蛋
+甩都甩不掉
+甩杆
 摔跤狂热
 帅雷雷
 甩链接
@@ -27692,6 +28298,7 @@ use_preset_vocabulary: true
 双凰刀
 双黄连
 双黄莲蓉
+双击卡
 双脊龙
 双击头像
 双击一下
@@ -27742,6 +28349,7 @@ use_preset_vocabulary: true
 双十协定
 双十一狂欢夜
 双十一晚会
+霜树
 双宋
 双提
 双天狗
@@ -27803,6 +28411,7 @@ use_preset_vocabulary: true
 睡皇后
 水虺
 水火土
+水笕
 睡觉啦
 水浸街
 水晶光电
@@ -27848,6 +28457,7 @@ use_preset_vocabulary: true
 水氢发动机
 水忍
 水散粉
+水沙
 睡商
 睡上铺
 水生村
@@ -27985,6 +28595,7 @@ use_preset_vocabulary: true
 斯丹曼簇
 四旦双冰
 死档
+死当区
 寺岛拓笃
 死的快
 斯蒂夫
@@ -28015,6 +28626,7 @@ use_preset_vocabulary: true
 四海鲸骑
 四海流云
 四海龙王
+似海深
 四海兄弟
 四行仓库
 四号种子
@@ -28026,11 +28638,20 @@ use_preset_vocabulary: true
 四火
 司祭
 私机
+四级必过
+四级成绩
 四季床
+四级答案
+四级翻译
+四季耕耘
 四季盔
 四季如梦
 死寂逃亡
+四级听力
 四季通用
+四级英语
+四级真题
+四级作文
 撕家
 四加时
 四家诗
@@ -28064,6 +28685,7 @@ use_preset_vocabulary: true
 斯凉
 撕裂的末日
 四零
+四六级考试
 四六事件
 四龙图
 丝路花开
@@ -28071,6 +28693,7 @@ use_preset_vocabulary: true
 丝路山水地图
 丝路视觉
 丝路探行
+丝路文化
 思落
 丝洛芬
 司马法
@@ -28188,6 +28811,7 @@ use_preset_vocabulary: true
 死亡之雪
 死亡之眼
 死亡之咬
+死亡之夜
 四王子
 司危
 四为
@@ -28262,12 +28886,14 @@ use_preset_vocabulary: true
 送个礼物
 送个皮肤
 送给爸爸
+送给老师
 送给妈妈
 送给我自己
 宋光明
 宋哈娜
 颂海
 送孩子上学
+送贺卡
 淞沪战役
 宋继扬
 宋佳昌
@@ -28275,6 +28901,7 @@ use_preset_vocabulary: true
 送健康
 送饺子
 送金
+送锦旗
 宋金泽
 宋景
 宋靖
@@ -28463,6 +29090,7 @@ use_preset_vocabulary: true
 苏陌叶
 苏木山
 苏难
+苏念衾
 苏暖暖
 俗女养成记
 速泡净
@@ -28505,6 +29133,7 @@ use_preset_vocabulary: true
 苏湾镇
 苏唯
 苏文浩
+苏雯丽
 苏五口
 苏喜
 宿系之源
@@ -28537,6 +29166,7 @@ use_preset_vocabulary: true
 素媛案
 苏韵锦
 苏泽林
+苏浙皖
 素贞
 苏贞昌
 素蒸
@@ -28559,6 +29189,7 @@ use_preset_vocabulary: true
 酸奶面膜
 算你倒霉
 算啥样
+算什么男人
 酸糖
 酸与
 隋岸
@@ -28766,6 +29397,7 @@ use_preset_vocabulary: true
 塔迪奇
 他多少分
 塔尔图
+塌房
 塔防之光
 塔黄
 踏火行歌
@@ -28825,6 +29457,7 @@ use_preset_vocabulary: true
 泰菲
 太妃榛果
 台风过境
+台风海神
 台风路径
 台风少年
 台风少年团
@@ -28884,6 +29517,7 @@ use_preset_vocabulary: true
 太空旅行
 太空易
 泰勒丝
+太冷酷
 太冷门
 泰利
 太马
@@ -28894,6 +29528,8 @@ use_preset_vocabulary: true
 太闷热
 太难报
 太难选
+太暖心
+太怕痛
 泰培
 邰鹏
 太平口
@@ -28908,6 +29544,7 @@ use_preset_vocabulary: true
 太烧脑
 泰神
 太神秘
+太史五蛇羹
 泰爽
 泰斯拉
 太素九针
@@ -29101,6 +29738,7 @@ use_preset_vocabulary: true
 唐纳鲁马
 糖尿病日
 唐妞
+唐农
 唐培彦
 塘栖镇
 汤浅政明
@@ -29190,6 +29828,7 @@ use_preset_vocabulary: true
 讨伐令
 讨伐证
 逃废债
+讨鬼
 陶汉林
 淘好货
 桃花宝宝
@@ -29223,6 +29862,7 @@ use_preset_vocabulary: true
 桃鹿
 陶伦
 陶沐
+桃乃木
 桃乃木香奈
 逃跑计划
 淘气大侦探
@@ -29268,6 +29908,7 @@ use_preset_vocabulary: true
 特别国债
 特别季
 特别紧张
+特别困难
 特别凉快
 特别闷
 特别行动
@@ -29323,7 +29964,10 @@ use_preset_vocabulary: true
 特温特
 特武
 特效枪
+特效武器
 特药险
+特异区
+特一营
 特战荣耀
 特战英豪
 特招线
@@ -29416,6 +30060,7 @@ use_preset_vocabulary: true
 体坛周报
 体贴民情
 踢腿舞
+提瓦特
 题王争霸
 体温登记表
 体温记录
@@ -29495,6 +30140,7 @@ use_preset_vocabulary: true
 天狗食月
 天骨
 天光云影
+天鬼姬
 天国的嫁衣
 田国福
 天国拯救
@@ -29514,6 +30160,7 @@ use_preset_vocabulary: true
 天黑之前
 天很黑
 天很热
+田横镇
 田宏杰
 田鸿杰
 天吼
@@ -29627,6 +30274,7 @@ use_preset_vocabulary: true
 填哪
 天那么热
 甜奶酪
+天能重工
 甜虐
 甜醅
 天蓬贺岁
@@ -29691,12 +30339,14 @@ use_preset_vocabulary: true
 天堂度假村
 天堂堵塞
 天堂福音
+天堂回信
 天堂山
 天堂之孔
 天陶红莲
 天陶红莲菜市场
 天天爱彩票
 天天吃肉
+天天满课
 天天特卖
 甜甜咸咸
 天铁股份
@@ -29854,6 +30504,7 @@ use_preset_vocabulary: true
 铁锅炖自己
 铁憨憨
 铁猴子
+贴花黄
 铁华团
 铁甲狂猴
 铁甲雄兵
@@ -29917,6 +30568,7 @@ use_preset_vocabulary: true
 挺迷茫
 亭奴
 挺强烈
+挺省
 汀泗桥
 亭泰
 停胎
@@ -29932,6 +30584,7 @@ use_preset_vocabulary: true
 挺有心
 挺震撼
 停止返校
+停止运营
 停止造谣
 庭中有奇树
 同安康
@@ -29944,6 +30597,7 @@ use_preset_vocabulary: true
 同城代打
 彤程新材
 统筹规划
+统筹推进
 统筹协调
 统筹做好
 潼川
@@ -29966,15 +30620,19 @@ use_preset_vocabulary: true
 铜官窑
 桶滚
 痛滚滚
+佟国维
 通核
 同呼吸共命运
 童话梦
 童话侠
 同婚
 同济科技
+同集路
 同济医院
 同检
 桐健码
+同讲
+同讲普通话
 同居牢友
 铜爵
 同考场
@@ -30002,6 +30660,8 @@ use_preset_vocabulary: true
 佟庆辉
 通渠
 瞳雀
+彤人秘
+同赛区
 彤色
 铜山湖
 桐生战兔
@@ -30056,6 +30716,7 @@ use_preset_vocabulary: true
 通译术
 同意调剂
 通用语言
+通裕
 童禹坤
 统御力
 童缘
@@ -30080,6 +30741,8 @@ use_preset_vocabulary: true
 投档数
 偷地雷
 头都不回
+偷渡客
+偷渡者
 头发留太长
 头发太长
 偷分
@@ -30208,6 +30871,7 @@ use_preset_vocabulary: true
 图谱包
 屠怯怯
 突然加速
+突然降温
 徒然喜欢你
 突然心动
 图瑞斯
@@ -30290,6 +30954,7 @@ use_preset_vocabulary: true
 退出账号
 推刺
 推动改革
+推动高质量
 推动构建
 推动建设
 推动经济
@@ -30297,6 +30962,7 @@ use_preset_vocabulary: true
 推动企业
 退饭卡
 推哥
+推广普通话
 腿好粗
 推进绿色发展
 推进全民健身
@@ -30348,6 +31014,7 @@ use_preset_vocabulary: true
 脱戒指
 托鲸
 托卡耶夫
+脱口秀大会
 托拉姆物语
 托雷多
 托雷基亚
@@ -30525,6 +31192,7 @@ use_preset_vocabulary: true
 万镜觉醒
 玩具大乱斗
 玩具酱
+玩聚制造局
 万卷宗师
 玩军争
 万卡约
@@ -30599,6 +31267,8 @@ use_preset_vocabulary: true
 万圣忍
 万圣伟
 万市
+万事皆虚
+万事皆允
 万事顺心
 皖事通
 玩世英雄
@@ -30610,6 +31280,7 @@ use_preset_vocabulary: true
 丸太
 万泰生物
 万通智控
+万图师
 晚晚
 万王之王
 万唯
@@ -30620,6 +31291,7 @@ use_preset_vocabulary: true
 万物春生
 万物互联
 玩物节
+万物皆虚
 玩物立志
 万物向阳
 万向德农
@@ -30650,6 +31322,7 @@ use_preset_vocabulary: true
 王安宁
 王安宇
 王鏊
+网吧特权
 王霸天
 网暴
 网爆
@@ -30713,6 +31386,7 @@ use_preset_vocabulary: true
 王凤雅
 王馥真
 王淦昌
+王干事
 旺岗
 王铬争
 汪亘
@@ -31054,6 +31728,7 @@ use_preset_vocabulary: true
 维猜
 微财富
 苇草
+未查询
 韦昌进
 微潮心跳
 伪钞者
@@ -31080,11 +31755,14 @@ use_preset_vocabulary: true
 伟大的诱惑者
 伟大精神
 伟大理论
+伟大领袖
 伟大梦想
 伟大民族
 伟大胜利
 伟大事业
 维达纸品
+为党育人
+未到终局
 违德
 伟德山
 魏德信
@@ -31127,6 +31805,7 @@ use_preset_vocabulary: true
 为国奋斗
 为国履职
 卫国勇士
+为国育才
 威海职业
 维寒迪
 潍河
@@ -31137,6 +31816,8 @@ use_preset_vocabulary: true
 维护国家
 维护国家安全
 维护和平
+维护人民
+维护人民健康
 维护社会稳定
 维护世界和平
 维护完
@@ -31289,6 +31970,7 @@ use_preset_vocabulary: true
 魏舒烨
 魏舒游
 未书羽
+为霜
 味爽
 威水
 沩水
@@ -31314,9 +31996,11 @@ use_preset_vocabulary: true
 巍巍天山
 为武汉喝彩
 围屋里的桃花
+威武路
 维希度斯
 为习近平鼓掌
 危险的她
+危险三角区
 危险性游戏
 危险又迷人
 微笑狗
@@ -31376,6 +32060,7 @@ use_preset_vocabulary: true
 魏允熙
 为崽挨打
 为崽而战
+伪造者
 为战而生
 为战育人
 为这个家
@@ -31426,6 +32111,7 @@ use_preset_vocabulary: true
 闻花
 文化宝库
 文化长城
+文化传承
 文化瑰宝
 文化和自然遗产日
 文化输出
@@ -31465,6 +32151,7 @@ use_preset_vocabulary: true
 文明健康
 文明精神
 文明六
+文明码
 文明其精神
 文明上网
 文明之光
@@ -31606,9 +32293,11 @@ use_preset_vocabulary: true
 我查成绩
 我查分
 我差一分
+我长袖
 我吃了两个
 我出去看看
 我穿短袖
+我穿外套
 我的班主任
 我的保姆手册
 我的波塞冬
@@ -31622,6 +32311,7 @@ use_preset_vocabulary: true
 我的国
 我的黑眼圈
 我的皇帝陛下
+我的机器人
 我的机器人男友
 我的将军啊
 我的姐姐
@@ -31639,6 +32329,7 @@ use_preset_vocabulary: true
 我的奇怪朋友
 我的青春期
 我的情敌是超人
+我的缺点
 我的少年
 我的少年时代
 我的时代和我
@@ -31663,6 +32354,7 @@ use_preset_vocabulary: true
 我的真朋友
 我的志愿
 我的粽子
+我等的人
 我第二志愿
 卧底巨星
 我第一排
@@ -31767,10 +32459,13 @@ use_preset_vocabulary: true
 我来承担
 我来自纽约
 沃利贝尔
+我两个星期
+我两周
 卧龙凤雏
 卧龙泉
 沃伦姆德
 涡轮隼
+我裸考
 我妈生日
 我买花
 我满级
@@ -31789,6 +32484,7 @@ use_preset_vocabulary: true
 我没男朋友
 我没有男朋友
 我没有作业
+我们班女生
 我们曾在一起
 我们当年
 我们的队伍向太阳
@@ -31813,6 +32509,7 @@ use_preset_vocabulary: true
 我们是冠军
 我们万岁
 我们校服
+我们心中
 我们一个班
 我们一起过
 我们永不言弃
@@ -31851,6 +32548,7 @@ use_preset_vocabulary: true
 我去补作业
 我去查一下
 我去复读
+我缺点
 我却没有
 我染发
 我染头
@@ -31865,7 +32563,9 @@ use_preset_vocabulary: true
 我啥也没买
 我上车了
 我上辅导班
+我审核
 我身后的陶斯
+我是不是有病
 我是唱作人
 我是创作人
 我是大哥大
@@ -31920,6 +32620,7 @@ use_preset_vocabulary: true
 我喜欢科比
 我喜欢你们
 卧夕凉
+我下周
 我嫌热
 我想吃掉你的胰脏
 我想吃西瓜
@@ -31933,12 +32634,14 @@ use_preset_vocabulary: true
 我想买手机
 我向你飞
 我想去看电影
+我想去你那
 我想染头发
 我想脱单
 我想我不一样
 我想学医
 我想要抱抱
 我想要杯咖啡
+我写作业
 我心雀跃
 我心蔚蓝
 我姓李
@@ -31974,6 +32677,7 @@ use_preset_vocabulary: true
 我也不甘心
 我也不紧张
 我也不快乐
+我也不送
 我也不喜欢吃
 我也不羡慕
 我也查不到
@@ -31981,6 +32685,7 @@ use_preset_vocabulary: true
 我也复读
 我也好慌
 我也好紧张
+我也好冷
 我也很快乐
 我也考不上
 我也没查
@@ -32019,6 +32724,7 @@ use_preset_vocabulary: true
 我咋没感觉
 我在吃粽子
 我在第一排
+我在东北
 我在二班
 我在二中
 我在赶作业
@@ -32040,7 +32746,9 @@ use_preset_vocabulary: true
 我在我奶家
 我在我外婆家
 我在五班
+我在下棋
 我在学校
+我再也没有
 我在一班
 我在一中
 我早就有
@@ -32055,6 +32763,7 @@ use_preset_vocabulary: true
 我正睡觉
 我正在更新
 我志愿
+我周几
 我周日
 我专科
 我专升本
@@ -32063,12 +32772,14 @@ use_preset_vocabulary: true
 我自己去看
 我最差
 我最喜欢看
+我作业
 无爱可诉
 武安一中
 五百出头
 五百分
 吴柏松
 无碑人
+吾辈自强
 武本康弘
 五鞭
 无边桃炎
@@ -32141,6 +32852,7 @@ use_preset_vocabulary: true
 乌尔赖希
 五二一
 乌法
+误发
 无法成为野兽的我们
 无法加入
 武法律师
@@ -32174,6 +32886,7 @@ use_preset_vocabulary: true
 无垢者
 巫骨
 物怪
+无关联
 五官王
 吴冠希
 无关性别
@@ -32204,6 +32917,7 @@ use_preset_vocabulary: true
 武汉战疫
 武汉专场
 五航战
+五号电池
 五号晚上
 五号走
 乌合
@@ -32240,6 +32954,7 @@ use_preset_vocabulary: true
 武家湾
 无价之姐
 无价之邪
+五家子
 武间道
 无间风云
 无间傀儡
@@ -32271,6 +32986,7 @@ use_preset_vocabulary: true
 污君
 五军对决
 吴克群
+吴恪之
 悟空问答
 五块二毛一
 吴旷
@@ -32292,6 +33008,7 @@ use_preset_vocabulary: true
 乌力格尔
 物理公式
 舞力觉醒
+物理练习册
 武里南
 物理韬韬
 雾里微凉此生情
@@ -32316,6 +33033,7 @@ use_preset_vocabulary: true
 乌灵
 五菱宝骏
 无龄感
+五菱凯捷
 吴岭澜
 五菱神车
 武陵仙君
@@ -32426,6 +33144,7 @@ use_preset_vocabulary: true
 务实工作
 伍世豪
 武士黑
+五十六个
 吴施蒙
 武士之魂
 无首
@@ -32440,6 +33159,7 @@ use_preset_vocabulary: true
 午睡留声机
 误说
 五丝
+无私付出
 五四节
 五四晚会
 巫颂
@@ -32469,6 +33189,7 @@ use_preset_vocabulary: true
 五万八
 乌丸莲耶
 五王
+勿忘国殇
 无妄海
 勿忘历史
 武王庙
@@ -32521,6 +33242,8 @@ use_preset_vocabulary: true
 无限战争
 无相冥渊
 无相石
+无相之风
+无相之雷
 吴小晖
 吴小妮
 无孝子
@@ -32561,6 +33284,7 @@ use_preset_vocabulary: true
 伍叶
 舞夜
 午夜的列车
+午夜风暴
 午夜后宫
 午夜绿
 午夜之星
@@ -32594,6 +33318,7 @@ use_preset_vocabulary: true
 五一桶
 五一小长假
 五一有活动
+无依之地
 巫医子
 巫殷
 雾隐村
@@ -32647,6 +33372,7 @@ use_preset_vocabulary: true
 吴浈
 吴真生
 吴政隆
+无证上岗
 无证之罪
 吴质
 物质力量
@@ -32660,12 +33386,15 @@ use_preset_vocabulary: true
 乌中旗
 吴忠全
 五中全会
+吴中天
 吴忠中学
 五洲客
+五周年快乐
 五竹
 巫祝
 五竹叔
 无主之城
+武装龙
 武装少女
 武装头脑
 乌骓
@@ -32703,6 +33432,7 @@ use_preset_vocabulary: true
 西坝口
 洗榜
 玺包
+夕贝
 西贝尔
 西北风云
 西比尔
@@ -32726,6 +33456,7 @@ use_preset_vocabulary: true
 西城楼
 西城秀树
 稀稠
+西川贵教
 熙春
 西村乡
 西大营子
@@ -32764,6 +33495,7 @@ use_preset_vocabulary: true
 西虹市首富
 西侯度
 西湖大学
+熙华
 喜欢本大爷
 喜欢的专业
 喜欢你我也是
@@ -32882,6 +33614,7 @@ use_preset_vocabulary: true
 喜塔腊尔晴
 喜塔腊氏
 洗糖
+喜提爱车
 西提猜
 喜提大专
 膝跳反应
@@ -32902,6 +33635,7 @@ use_preset_vocabulary: true
 希望你不要
 希望树
 希望之光
+细伟
 西文理
 希沃白板
 西溪
@@ -32919,9 +33653,11 @@ use_preset_vocabulary: true
 西辛店乡
 悉心教导
 悉心照顾
+悉心指导
 西行者
 细嗅
 希璇
+羲玄
 吸血泵
 西亚卡姆
 息衍
@@ -32948,6 +33684,7 @@ use_preset_vocabulary: true
 吸油烟
 稀有装扮
 夕羽
+希域
 洗冤
 熹月
 西月国
@@ -32976,6 +33713,7 @@ use_preset_vocabulary: true
 夏呈青
 夏驰
 下次光临
+下次还来
 厦大附中
 下大雨了
 下单时间
@@ -33073,11 +33811,13 @@ use_preset_vocabulary: true
 夏天快乐
 下田麻美
 侠天下
+夏天巡演
 厦外
 下旺村
 狭雾
 下午好好考
 下午几点考
+下午几点走
 下午看电影
 下午看考场
 下午考完
@@ -33136,6 +33876,7 @@ use_preset_vocabulary: true
 仙班校园
 现包
 先报志愿
+先辈们
 酰本胺
 先不交
 先不学
@@ -33148,6 +33889,8 @@ use_preset_vocabulary: true
 先达股份
 闲代
 现代化建设
+现代双语
+现代物流
 现代学院
 咸蛋黄肉粽
 先导片
@@ -33180,6 +33923,7 @@ use_preset_vocabulary: true
 贤合庄
 限户籍
 仙狐奇缘
+闲花
 先集合
 限籍令
 献祭流
@@ -33241,6 +33985,7 @@ use_preset_vocabulary: true
 限时出售
 限时返场
 限时活动
+限时可见
 显示全文
 限时珍藏
 先手棋
@@ -33268,6 +34013,7 @@ use_preset_vocabulary: true
 纤舞
 仙武奇缘
 仙西山
+贤香
 先卸载
 限薪令
 线性马达
@@ -33323,6 +34069,7 @@ use_preset_vocabulary: true
 香厂路
 香肠派对
 享橙
+相承
 祥城镇
 想吃雪糕
 想吃粽子
@@ -33446,6 +34193,7 @@ use_preset_vocabulary: true
 象说
 相思红
 相思酒
+相思卷
 向松祚
 像素头
 想套路我
@@ -33495,6 +34243,7 @@ use_preset_vocabulary: true
 向俞星
 项羽虞姬
 相遇在人海
+相遇之缘
 祥源文化
 祥云桥
 祥云寺
@@ -33546,6 +34295,7 @@ use_preset_vocabulary: true
 小车间
 小城姑娘
 晓程科技
+萧承煦
 小池百合子
 小吃节
 小丑皇
@@ -33574,6 +34324,7 @@ use_preset_vocabulary: true
 骁电
 小店铺
 小电视卡
+小叮铛
 小丁猫
 萧定权
 肖动
@@ -33627,6 +34378,7 @@ use_preset_vocabulary: true
 笑果文化
 小蛤蟆
 小海蒂
+肖海亮
 小海龙
 肖海鹏
 肖海洋
@@ -33646,6 +34398,7 @@ use_preset_vocabulary: true
 小红莓合唱团
 小红莓乐队
 小红瓶
+小红象
 小红衣
 小红钻
 小吼
@@ -33856,6 +34609,7 @@ use_preset_vocabulary: true
 小食桶
 小视秀
 小饰与洋子
+小手工
 小守护
 小手牵小狗
 小首饰
@@ -33899,6 +34653,7 @@ use_preset_vocabulary: true
 小头盔
 小偷猫
 小兔几
+笑吐了
 小土坡
 小团综
 校拓
@@ -33948,6 +34703,7 @@ use_preset_vocabulary: true
 小羞涩
 小袖之手
 小叙
+小漩涡
 小雪生
 肖亚庆
 晓焰
@@ -33977,6 +34733,7 @@ use_preset_vocabulary: true
 小尤奈
 小渔
 肖玉璧
+小虞姬
 小雨家族
 肖宇梁
 萧宇梁
@@ -33998,6 +34755,7 @@ use_preset_vocabulary: true
 小月牙
 萧赞
 小赞杯
+小灶课
 小泽亚李
 肖渣貊
 小斋
@@ -34050,6 +34808,7 @@ use_preset_vocabulary: true
 斜杠青年
 写攻略
 写观后感
+写贺卡
 谢和平
 协和万邦
 谢和弦
@@ -34123,7 +34882,12 @@ use_preset_vocabulary: true
 谢小厨
 谢晓飞
 谢小侯爷
+谢谢各位家长
 谢谢妈咪
+谢谢你的祝福
+谢谢您们
+谢谢亲爱哒
+谢谢亲爱滴
 写信人
 谢杏芳
 谢易初
@@ -34146,6 +34910,7 @@ use_preset_vocabulary: true
 协作抗疫
 写作业了
 心爱的小摩托
+心爱之物
 新安股份
 新鳌
 辛柏青
@@ -34167,6 +34932,8 @@ use_preset_vocabulary: true
 心诚则灵
 新池子
 新春水门
+新春鼬
+新搭档
 辛达苟萨
 新打野刀
 新代言
@@ -34189,6 +34956,7 @@ use_preset_vocabulary: true
 新地图
 辛迪亚
 辛东彬
+心动的瞬间
 心动的信号
 心动服
 心动列车
@@ -34222,6 +34990,7 @@ use_preset_vocabulary: true
 新冠状病毒
 新冠状肺炎
 心光
+新光巷
 新规划
 新闺蜜时代
 心归宿
@@ -34261,6 +35030,7 @@ use_preset_vocabulary: true
 心阶
 新界面
 新韭菜
+新九门
 新就业
 新局
 新剧情
@@ -34333,6 +35103,7 @@ use_preset_vocabulary: true
 新气泡
 辛其物
 信其有
+辛勤的园丁
 辛勤付出
 辛勤劳动
 新寝室
@@ -34361,6 +35132,7 @@ use_preset_vocabulary: true
 新使命
 辛十四娘
 新手册
+新手池
 新手冲刺
 新手驾到
 新手妈妈
@@ -34392,6 +35164,7 @@ use_preset_vocabulary: true
 新闻传播学
 新文创
 新闻司
+新闻特写
 新武将
 新舞林大会
 新乌龙院
@@ -34403,6 +35176,7 @@ use_preset_vocabulary: true
 信息核对
 新喜剧之王
 新系列
+信息匹配
 心系群众
 心系人民
 信息商务学院
@@ -34439,6 +35213,7 @@ use_preset_vocabulary: true
 心形西瓜
 新型学徒制
 新型猪流感
+新秀杯
 辛选
 昕雪
 馨雪妃
@@ -34467,6 +35242,7 @@ use_preset_vocabulary: true
 信用岛
 信用付
 新鼬
+心有大我
 心有暖阳
 心有千千结
 心有所系
@@ -34553,6 +35329,7 @@ use_preset_vocabulary: true
 幸福绵长
 幸福起航
 幸福三重奏
+幸福社区
 幸福有配方
 荥高
 星光大赏
@@ -34618,6 +35395,7 @@ use_preset_vocabulary: true
 星棋
 行窃预兆
 邢清清
+行秋
 猩球大战
 星球陨落
 星球者联盟
@@ -34643,6 +35421,7 @@ use_preset_vocabulary: true
 星途坦荡
 星推榜
 星推官
+星推荐
 邢万强
 星网宇达
 性文化节
@@ -34668,6 +35447,7 @@ use_preset_vocabulary: true
 星野志坚
 星移
 星颐广场
+杏雨
 星语星愿
 星元
 行远
@@ -34737,6 +35517,7 @@ use_preset_vocabulary: true
 凶画
 熊槐
 胸怀大局
+胸怀祖国
 凶魂
 熊家军
 凶间
@@ -34834,6 +35615,7 @@ use_preset_vocabulary: true
 修竹墨客
 许爱
 许爱唯一
+许鞍华
 许安然
 徐百川
 续保押金
@@ -35056,6 +35838,7 @@ use_preset_vocabulary: true
 炫宝
 炫贝
 禤靐龘
+炫彩皮肤
 炫彩小汤圆
 玄苍
 萱草花
@@ -35119,6 +35902,7 @@ use_preset_vocabulary: true
 璇女派
 悬旗
 玄麒
+悬泉瀑布
 悬日
 选啥专业
 炫实
@@ -35208,10 +35992,12 @@ use_preset_vocabulary: true
 学海风暴
 薛浩呈
 薛皓文
+学好英语
 学好知识
 血河
 血红龙
 薛洪言
+血湖
 雪花赋
 雪花菈米
 雪花落下
@@ -35235,6 +36021,7 @@ use_preset_vocabulary: true
 学考加油
 学考网
 学科素养
+学科知识
 雪拉
 雪兰莪
 雪老城
@@ -35308,6 +36095,7 @@ use_preset_vocabulary: true
 学习理论知识
 学习历史
 学习强国
+学习形式
 学习延安精神
 薛笑
 学校代码
@@ -35335,6 +36123,7 @@ use_preset_vocabulary: true
 学业进步
 血夜杀
 学业水平测试
+学业顺利
 薛义
 血疫
 血衣侯
@@ -35469,6 +36258,7 @@ use_preset_vocabulary: true
 亚平宁
 牙签裤
 鸦青
+压燃
 亚人酱有话要说
 雅桑克莱
 鸦杀
@@ -35647,6 +36437,7 @@ use_preset_vocabulary: true
 燕山夜话
 严尚嘉
 眼少
+岩神瞳
 言生
 衍生剧
 衍生码
@@ -35762,6 +36553,7 @@ use_preset_vocabulary: true
 兖州路
 兖州煤业
 妍珠
+岩主
 岩柱
 炎柱
 烟烛台
@@ -35805,6 +36597,7 @@ use_preset_vocabulary: true
 阳光成长
 阳光股份
 阳光嘉园
+杨光金
 阳光女孩
 阳光沙滩
 杨广文
@@ -35832,6 +36625,7 @@ use_preset_vocabulary: true
 杨戟
 洋蓟
 杨继红
+羊急了也跳墙
 杨集镇
 杨家栋
 杨家楼
@@ -35848,6 +36642,7 @@ use_preset_vocabulary: true
 杨凯雯
 扬科勒
 杨笠
+羊力大仙
 杨丽菁
 杨丽娟
 杨丽晓
@@ -35866,6 +36661,7 @@ use_preset_vocabulary: true
 扬尼斯
 养牛场
 杨沛宜
+洋浦壹号
 氧气舱
 氧气果
 杨奇函
@@ -35905,6 +36701,7 @@ use_preset_vocabulary: true
 杨廷东
 阳亭侯
 杨童婳
+杨童舒
 羊驼杯
 阳王杯
 仰望北斗
@@ -35996,6 +36793,7 @@ use_preset_vocabulary: true
 要出道
 要出汗
 要出省
+要穿外套
 要穿校服
 姚大
 要打仗
@@ -36007,6 +36805,7 @@ use_preset_vocabulary: true
 药店飞龙
 药电睡
 姚渡站
+要多穿
 要多少分
 要多少人
 要剁手
@@ -36022,6 +36821,7 @@ use_preset_vocabulary: true
 要封城
 要福利
 要高点
+要给老师
 要给我妈
 幺姑爷
 妖怪宝可萌
@@ -36077,6 +36877,7 @@ use_preset_vocabulary: true
 要开朗
 要开了
 要考好
+要考四级
 耀客
 耀客传媒
 遥鲲
@@ -36096,6 +36897,7 @@ use_preset_vocabulary: true
 姚梦瑶
 瑶明
 姚明明
+姚沐希
 幺宁
 瑶皮肤
 要漂
@@ -36118,6 +36920,7 @@ use_preset_vocabulary: true
 要上映
 耀神
 姚生记
+要升旗
 耀势
 药师兜
 要是复读
@@ -36179,6 +36982,7 @@ use_preset_vocabulary: true
 要优化
 要有仪式感
 姚昱辰
+要月考
 耀云
 曜仔
 姚哲恬
@@ -36201,6 +37005,7 @@ use_preset_vocabulary: true
 夜变
 叶别枝
 耶波
+夜泊石
 野簿
 叶不羞
 夜策冷
@@ -36211,7 +37016,9 @@ use_preset_vocabulary: true
 叶冲
 耶茨
 椰蛋树
+夜盗
 椰岛游戏
+夜盗珍妃墓
 野渡
 冶儿
 叶尔凡
@@ -36292,6 +37099,7 @@ use_preset_vocabulary: true
 叶轻眉
 叶清明
 叶青缇
+野球帝
 叶全真
 野日
 叶塞大陆
@@ -36338,6 +37146,7 @@ use_preset_vocabulary: true
 夜信
 爷新
 野性的呼唤
+夜行黄沙道中
 夜行少女
 夜墟
 叶瑄
@@ -36357,6 +37166,7 @@ use_preset_vocabulary: true
 夜映
 夜樱四重奏
 叶永烈
+夜幽
 业由才广
 椰油皂
 业余打野
@@ -36406,12 +37216,14 @@ use_preset_vocabulary: true
 一百来分
 一百零八
 一百零一
+一百年前
 一百四十多
 一百万个可能
 一百页
 一百亿
 一百一十多
 一百周年
+一般困难
 一般社员
 一帮一
 一爆
@@ -36433,6 +37245,7 @@ use_preset_vocabulary: true
 一本专业
 一笔画完
 伊壁鸠鲁
+一比三
 一闭上
 一闭上眼
 一闭上眼睛
@@ -36475,6 +37288,7 @@ use_preset_vocabulary: true
 一次投档
 易次元
 异次元通讯
+一寸山河
 一寸相思
 怡达股份
 易大佬
@@ -36482,6 +37296,7 @@ use_preset_vocabulary: true
 一大捧
 易大千
 一代传奇
+一代伟人
 衣带诏
 一代紫
 一旦决定
@@ -36503,11 +37318,13 @@ use_preset_vocabulary: true
 一点都不浪漫
 一点感觉没有
 一点就到家
+一点小心意
 一点也不快乐
 伊甸之星
 伊甸之眼
 伊甸之战
 一定没问题
+一定能过
 一定能行
 一定要加油
 一定要努力
@@ -36559,12 +37376,14 @@ use_preset_vocabulary: true
 壹方城
 医防结合
 一方水土
+一非
 已肥
 医妃难囚
 医妃天下
 一分不差
 一分不多
 一分部署
+一份心意
 一分一档
 一分一档表
 一分一段表
@@ -36595,6 +37414,7 @@ use_preset_vocabulary: true
 一个民族
 一个明星的诞生
 一个木函
+一个喷嚏
 一个奇迹
 一个寝
 一个伸手
@@ -36618,6 +37438,7 @@ use_preset_vocabulary: true
 已过半
 异国大营救
 一郭汇
+以国之名
 易哈佛
 伊哈洛
 依海
@@ -36628,6 +37449,7 @@ use_preset_vocabulary: true
 伊核
 意合
 伊核协议
+一黑板
 已黑化
 亦痕
 忆红莲
@@ -36639,6 +37461,7 @@ use_preset_vocabulary: true
 意华股份
 艺画开天
 异化之地
+一换季
 已婚男人
 艺妓
 一击毙命
@@ -36653,8 +37476,10 @@ use_preset_vocabulary: true
 以家人之名
 易家湾
 一家五口
+易家扬
 以家之名
 一箭爆头
+一件短袖
 易见股份
 一键互赞
 易剑莲
@@ -36794,6 +37619,7 @@ use_preset_vocabulary: true
 一诺无悔
 易霈
 易培基
+一盆花
 一批次
 一批二批
 一片丹心向阳开
@@ -36808,6 +37634,7 @@ use_preset_vocabulary: true
 一妻多夫制
 一起复读
 一起过七夕
+一起捐
 一起来捉妖
 一起去爬山
 一起热爱就现在
@@ -36911,6 +37738,7 @@ use_preset_vocabulary: true
 一束玫瑰花
 一树桃花开
 艺术线
+一束鲜花
 艺术专业
 以水代酒
 易水决
@@ -36925,6 +37753,7 @@ use_preset_vocabulary: true
 一所大学
 伊塔流星雨
 以太森林
+一抬手
 一套又一套
 以特币
 伊藤美诚
@@ -37026,6 +37855,7 @@ use_preset_vocabulary: true
 依依东望
 一衣红雪
 一亿像素
+易易梓
 易易紫
 医隐
 医用防护
@@ -37042,18 +37872,21 @@ use_preset_vocabulary: true
 一元秒杀
 怡玥
 抑云
+易孕体质
 一载百味
 夷则
 奕泽
 一盏台灯
 一张电影票
 一朝分娩
+一朝沐杏雨
 医者童心
 逸真
 伊正
 易峥
 一直出汗
 一直跌
+一支粉笔
 一纸花约
 一直晃
 一直进不去
@@ -37086,6 +37919,7 @@ use_preset_vocabulary: true
 已走不动
 异族崛起
 易租网
+一尊天下
 一座岛
 已做好决定
 因爱无畏
@@ -37195,6 +38029,7 @@ use_preset_vocabulary: true
 隐雀
 引燃点
 银容
+隐塞
 银色情人节
 银沙湾
 隐山
@@ -37226,6 +38061,7 @@ use_preset_vocabulary: true
 隐王
 银卫
 因为热爱
+因为太怕痛
 因为下雨
 银雾湖
 因戏生情
@@ -37268,6 +38104,7 @@ use_preset_vocabulary: true
 音跃球球
 音乐盛典
 音乐专辑
+音韵季
 氤氲之息
 银藏
 瘾者
@@ -37379,7 +38216,9 @@ use_preset_vocabulary: true
 影煞
 樱傻
 樱杀
+应氏杯
 影视频道
+影兽
 应书岭
 樱树镇
 迎霜节
@@ -37459,6 +38298,7 @@ use_preset_vocabulary: true
 樱之华
 樱之梦
 影蜘蛛
+迎中秋
 瀛洲镇
 英珠
 影装
@@ -37473,6 +38313,7 @@ use_preset_vocabulary: true
 鹰嘴桃
 鹰佐
 永安自行车
+用班费
 永葆初心
 拥抱过后
 永葆活力
@@ -37551,6 +38392,7 @@ use_preset_vocabulary: true
 用手机拍
 勇太
 永泰新村
+勇挑重担
 用网治网
 勇为
 勇维
@@ -37565,6 +38407,7 @@ use_preset_vocabulary: true
 勇毅前行
 勇于创新
 永远不亏
+永远不停机
 永远单身
 永远的长安城
 永远的神
@@ -37573,6 +38416,7 @@ use_preset_vocabulary: true
 永远美丽
 永远年轻漂亮
 永远热泪盈眶
+永远自由
 咏月
 永璋
 咏者
@@ -37614,6 +38458,7 @@ use_preset_vocabulary: true
 有道众包
 优德精密
 游灯
+有低保
 有点不甘心
 有点差距
 有点刺眼
@@ -37691,6 +38536,7 @@ use_preset_vocabulary: true
 攸佳宁
 有减速
 幼角
+有教师资格证
 优借
 幽界
 优劲
@@ -37799,6 +38645,7 @@ use_preset_vocabulary: true
 有热搜
 怣忈
 有人宠
+有人关心
 有人陪你过
 有认识的人
 有人约我
@@ -37843,6 +38690,7 @@ use_preset_vocabulary: true
 诱蚊剂
 有吻戏
 悠窝窝
+有无居住证
 有舞台
 游戏部落
 游戏超人
@@ -37851,6 +38699,7 @@ use_preset_vocabulary: true
 有嘻哈
 游戏黑洞
 游戏机制
+游戏加载中
 游戏科学
 尤西雷
 游戏礼包
@@ -37869,6 +38718,7 @@ use_preset_vocabulary: true
 有校车
 有校服
 鱿小鱼
+有心了
 有信念
 有心者
 优幸
@@ -37877,7 +38727,9 @@ use_preset_vocabulary: true
 有幸遇见
 有幸与你相爱
 友秀
+优秀班主任
 优秀护士
+优秀教师
 优秀青年
 有序推进
 幽穴
@@ -37916,6 +38768,7 @@ use_preset_vocabulary: true
 尤长靖
 尤长胖
 有召必回
+有这么冷
 幼贞
 有震动
 有震感
@@ -37950,6 +38803,7 @@ use_preset_vocabulary: true
 于伯
 余不配
 雨不小
+育才强国
 豫彩通
 玉苍山
 御茶家
@@ -38074,9 +38928,12 @@ use_preset_vocabulary: true
 遇见青春
 遇见神鹿
 遇见天坛
+御剑仙
+玉剑仙
 遇见幸福
 御姐在上
 雨金
+豫金刚石
 宇津见绘里世
 御津井芭华
 御旌
@@ -38124,6 +38981,7 @@ use_preset_vocabulary: true
 遇罗克
 雨妈
 余茂春
+羽毛球社
 于美红
 瑜妹妹
 渝妹子
@@ -38174,7 +39032,9 @@ use_preset_vocabulary: true
 玉泉公园
 玉泉观
 御权天下
+育人理念
 余人师兄
+愚人众
 玉荣力
 虞山卿
 玉折
@@ -38268,6 +39128,7 @@ use_preset_vocabulary: true
 禹曦
 禹曦夫妇
 裕溪河
+预习卡
 虞兮叹
 鱼先锋
 御宵
@@ -38281,6 +39142,7 @@ use_preset_vocabulary: true
 于信
 育新机
 御杏
+御星魔矢
 于秀丽
 玉虚宫
 浴血黑帮
@@ -38291,6 +39153,7 @@ use_preset_vocabulary: true
 玉言
 瑜言
 羽焰
+预言季
 预言机
 余衍林
 语言特色
@@ -38315,6 +39178,7 @@ use_preset_vocabulary: true
 余元君
 芋圆西米露
 禹元宰
+愚月
 鱼跃扑球
 喻越越
 雨灾
@@ -38363,6 +39227,7 @@ use_preset_vocabulary: true
 郁子阳
 虞紫鸢
 远爱
+愿爱无忧
 袁巴元
 愿八月
 沅白
@@ -38392,6 +39257,7 @@ use_preset_vocabulary: true
 原地解散
 圆底烧瓶
 袁店
+园丁们
 园丁日记
 缘豆
 圆肚皮
@@ -38459,6 +39325,7 @@ use_preset_vocabulary: true
 愿你前程似锦
 愿你我
 袁农
+远漂
 元气大川
 元气蛋
 元气满满的哥哥
@@ -38472,6 +39339,7 @@ use_preset_vocabulary: true
 远去的飞鹰
 院群
 袁仁国
+元戎弩
 元若
 远山雪
 原尚
@@ -38498,6 +39366,7 @@ use_preset_vocabulary: true
 袁肃
 元素地牢
 元素法
+元素反应
 元素龙
 苑苏文
 元素之灵
@@ -38539,6 +39408,7 @@ use_preset_vocabulary: true
 原油期货
 远游之枪
 原雨
+元与均棋
 院院
 元玥
 缘月
@@ -38606,6 +39476,7 @@ use_preset_vocabulary: true
 越囧
 阅卷老师
 粤康码
+月考完
 岳珂
 约克公爵
 粤课堂
@@ -38764,6 +39635,7 @@ use_preset_vocabulary: true
 云互动
 云焕
 云婚礼
+运火
 云激动
 云祭扫
 云建站
@@ -38799,6 +39671,7 @@ use_preset_vocabulary: true
 云南红河
 云南花兔
 云南民族
+云南瑞丽
 云南站
 云霓雀翎
 云捧花
@@ -38938,6 +39811,7 @@ use_preset_vocabulary: true
 簪花人间
 暂缓开学
 咱俩一个班
+赞美老师
 赞赏码
 赞拖
 暂无数据
@@ -39015,6 +39889,7 @@ use_preset_vocabulary: true
 择捉
 贼巢
 贼紧张
+怎会相见
 怎么不回家
 怎么查分
 怎么肥四
@@ -39040,6 +39915,7 @@ use_preset_vocabulary: true
 增强交流
 增强人民体质
 增强文化自信
+增强信心
 增强意识
 增强忧患意识
 曾淑岩
@@ -39162,6 +40038,7 @@ use_preset_vocabulary: true
 战队赛
 战放
 战枫
+斩风刀
 展佛
 沾福卡
 沾福气
@@ -39212,6 +40089,7 @@ use_preset_vocabulary: true
 詹青云
 战犬
 战犬瑞克斯
+站如松
 斩神
 战神榜
 战神纪
@@ -39344,6 +40222,7 @@ use_preset_vocabulary: true
 张光北
 张贵妃
 张桂梅
+張國榮
 张国伟退役
 张海彬
 张海娇
@@ -39360,6 +40239,7 @@ use_preset_vocabulary: true
 张华山
 张继聪
 张际勇
+张纪中
 张家畈镇
 张家港行
 张加帅
@@ -39443,6 +40323,7 @@ use_preset_vocabulary: true
 掌上高考
 掌上考试院
 涨上来
+掌上综素
 章绍伟
 张绍忠
 张神儿
@@ -39456,6 +40337,7 @@ use_preset_vocabulary: true
 张书维
 张舒越
 张霜剑
+张顺飞
 张硕辅
 张颂文
 张太后
@@ -39464,6 +40346,7 @@ use_preset_vocabulary: true
 张天志
 张婉儿
 张万霖
+张网以待
 张威科
 张伟林
 张维为
@@ -39550,6 +40433,7 @@ use_preset_vocabulary: true
 张芷婷
 张芷溪
 张之悦
+张芝芝
 樟中
 张忠奎
 张中生
@@ -39700,6 +40584,7 @@ use_preset_vocabulary: true
 照旺庄
 赵伟峰
 赵微柔
+赵温柔
 赵文竹
 赵西风
 赵兮雪
@@ -39735,6 +40620,7 @@ use_preset_vocabulary: true
 赵英波
 赵英明
 赵英男
+赵樱子
 赵永平
 赵宥乔
 赵优秀
@@ -39797,6 +40683,7 @@ use_preset_vocabulary: true
 遮山镇
 遮挽
 这英雄
+浙政钉
 柘中股份
 这周末
 珍爱和平
@@ -39817,6 +40704,7 @@ use_preset_vocabulary: true
 臻萃
 真淡定
 朕的刺客女友
+真的好冷
 真的好热
 真的很热
 真的没想到
@@ -39985,6 +40873,7 @@ use_preset_vocabulary: true
 蒸汽石
 郑棋元
 郑乾
+郑琴心
 郑秋冬
 郑湫泓
 征求志愿
@@ -40116,6 +41005,7 @@ use_preset_vocabulary: true
 支持华为
 支持维权
 咫尺之间
+支持主播
 智虫
 只宠你一人
 至纯科技
@@ -40149,10 +41039,12 @@ use_preset_vocabulary: true
 脂肪腿
 脂肪险
 知分
+支付结算
 支付码
 致父亲
 直付通
 支付页面
+支付预算
 致富之路
 智夫子
 至高创世
@@ -40204,6 +41096,7 @@ use_preset_vocabulary: true
 致敬劳动者
 致敬青春
 致敬英雄
+枳椇子
 之蓝
 只狼
 织牢
@@ -40219,6 +41112,7 @@ use_preset_vocabulary: true
 指令卡
 指路回
 只录取
+指路人
 芝麻购
 芝麻胡同
 芝麻鲸选
@@ -40236,6 +41130,7 @@ use_preset_vocabulary: true
 直面暴击
 纸面服刑
 直面会
+直面挑战
 知苗易约
 智珉
 知民情
@@ -40295,6 +41190,7 @@ use_preset_vocabulary: true
 知识区
 只是太在意
 芝士网
+知识与能力
 知书
 制水
 支摊
@@ -40373,6 +41269,7 @@ use_preset_vocabulary: true
 志愿指南
 志愿助手
 支月英
+致云雀
 致允熙
 治藏方略
 制造及自动化
@@ -40480,12 +41377,15 @@ use_preset_vocabulary: true
 种鬼
 中国宝武
 中国北斗
+中国必胜
 中国茶
 中国长城
 中国唱诗班
 中国吃播
 中国创造
 中国达人秀
+中国大学生
+中国担当
 中国风采
 中国姑娘
 中国故事
@@ -40493,12 +41393,14 @@ use_preset_vocabulary: true
 中国航天
 中国航天日
 中国好剧本
+中国好演员
 中国火星探测
 中国机长
 中国教育考试网
 中国节
 中国金币网
 中国禁毒网
+中国锦鲤
 中国精神
 中国军人
 中国科传
@@ -40513,6 +41415,7 @@ use_preset_vocabulary: true
 中国青年说
 中国赛艇队
 中国式家长
+中国首富
 中国天眼
 中国天楹
 中国铁路
@@ -40533,6 +41436,7 @@ use_preset_vocabulary: true
 中国制度
 中国之治
 中韩对抗赛
+中韩夫妇
 钟函谷
 中荷友谊
 中弘股份
@@ -40591,6 +41495,7 @@ use_preset_vocabulary: true
 众乐世界
 钟黎
 重莲
+中列
 忠烈杨家将
 钟灵石
 钟楼怪人
@@ -40625,13 +41530,16 @@ use_preset_vocabulary: true
 中切
 钟青
 中青校园
+中秋盒子
 钟秋杰
+中秋礼物
 中泉广场
 众人帮
 中塞
 中塞友谊
 中森明菜
 中沙友谊
+钟睒睒
 中山优马
 中设股份
 终身监禁
@@ -40639,6 +41547,7 @@ use_preset_vocabulary: true
 终身学习
 众神之王
 重视安全
+中式婚礼
 中石科技
 钟书记
 中水科
@@ -40673,6 +41582,7 @@ use_preset_vocabulary: true
 钟晓芹
 钟晓阳
 中新赛克
+衷心祝愿
 重型武器
 中兴镇
 中匈
@@ -40756,6 +41666,7 @@ use_preset_vocabulary: true
 咒狐
 洲际赛
 周嘉诚
+周教
 周杰伦日
 周洁琼
 周九良
@@ -40802,6 +41713,7 @@ use_preset_vocabulary: true
 周日上午
 周融
 周三见
+周生辰
 周诗迪
 周士原
 周时韫
@@ -40941,6 +41853,7 @@ use_preset_vocabulary: true
 主机游戏
 铸甲师
 祝剑
+猪兼强驾校
 朱剑秋
 朱见深
 珠江控股
@@ -40960,6 +41873,7 @@ use_preset_vocabulary: true
 逐浪之夏
 筑牢安全防线
 助老服务
+祝老师们
 筑牢筑实
 猪乐桃
 珠李
@@ -41007,6 +41921,7 @@ use_preset_vocabulary: true
 竹内凉真
 竹内美宥
 竹内顺子
+祝你节日快乐
 祝你金榜题名
 祝你考上
 祝你前程似锦
@@ -41024,6 +41939,8 @@ use_preset_vocabulary: true
 猪年如意
 猪年行大运
 猪年迎春
+祝您节日快乐
+祝您身体健康
 祝您生活愉快
 诛佞
 朱盼盼
@@ -41037,6 +41954,7 @@ use_preset_vocabulary: true
 竹取
 竹犬
 朱雀街
+朱雀桥
 朱雀志
 珠日河
 逐日之弓
@@ -41207,6 +42125,7 @@ use_preset_vocabulary: true
 专业目录
 专业排名
 专业设备
+专业实务
 专业题
 专业调剂
 专业调配
@@ -41225,6 +42144,7 @@ use_preset_vocabulary: true
 庄大夫
 撞刀
 装刀凯
+撞到头
 庄换羽
 撞火
 装节
@@ -41273,6 +42193,7 @@ use_preset_vocabulary: true
 追书丑
 追四
 坠兔
+追新番
 追星成功
 追星女孩
 追星愉快
@@ -41280,6 +42201,7 @@ use_preset_vocabulary: true
 追寻先烈足迹
 追鹰日记
 追月神
+追逐者
 准备复读
 准备上号
 准大学生
@@ -41363,6 +42285,7 @@ use_preset_vocabulary: true
 紫金王朝
 子静
 紫荆之巅
+自救系统
 紫爵
 兹卡
 紫琅湖
@@ -41422,6 +42345,7 @@ use_preset_vocabulary: true
 自我调适
 子雾啊
 紫溪山
+仔细阅读
 紫霞仙子礼裙
 自相逢
 子孝
@@ -41472,6 +42396,7 @@ use_preset_vocabulary: true
 资助通
 自主研发
 自主制造
+孜孜教诲
 自走棋
 宗爱
 总方针
@@ -41569,10 +42494,12 @@ use_preset_vocabulary: true
 祖国的未来
 祖国妈妈
 祖国强大
+祖国人
 祖国颂
 祖国统一
 祖国威武
 祖国绽放
+祖国祖国
 租号玩
 组合名
 组合训练
@@ -41605,6 +42532,7 @@ use_preset_vocabulary: true
 祖祖小姨妈
 钻出去
 钻链
+钻石宝箱
 钻石联赛
 钻石特权
 钻石雪
@@ -41624,6 +42552,7 @@ use_preset_vocabulary: true
 最长视频
 最吃香
 最初的起点
+最出色
 最大的努力
 最大优势
 最低分数
@@ -41643,6 +42572,7 @@ use_preset_vocabulary: true
 最高段位
 最高多少
 最高检
+最高荣誉
 最高时速
 最公平
 醉海棠
@@ -41701,6 +42631,7 @@ use_preset_vocabulary: true
 醉梦前尘
 罪梦者
 醉面
+最默契
 罪木
 最难写
 最怕冷
@@ -41712,6 +42643,7 @@ use_preset_vocabulary: true
 最强厂牌
 最强烈
 最强蜗牛
+最亲的人
 醉拳宗师
 罪人挽歌
 最伤感
@@ -41752,9 +42684,12 @@ use_preset_vocabulary: true
 遵义医科大学
 尊医重卫
 尊重点
+尊重科学
+尊重劳动
 尊重历史
 尊重人才
 尊重原创
+尊重知识
 尊重自然
 左岸春天
 作案动机
@@ -41815,6 +42750,7 @@ use_preset_vocabulary: true
 左青鸾
 作曲人
 左然
+昨日梦
 昨日青空
 昨日之歌
 左殇
@@ -41829,6 +42765,7 @@ use_preset_vocabulary: true
 左徒
 做完指甲
 佐为
+作文翻译
 作文好难
 作文没写完
 做我的猫

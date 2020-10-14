@@ -44,3 +44,7 @@ ssr	ssr	10
 ∴	suoyi	10
 QQ邮箱	qqyouxiang	10
 QQ邮箱	qqyx	10
+²	pingfang	10
+³	lifang	10
+aliyun	aliyun	10
+≈	yuedengyu	10

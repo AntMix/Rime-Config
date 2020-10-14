@@ -26,10 +26,10 @@ import_tables:
   - luna_pinyin.sougou.movie
   - luna_pinyin.sougou.animation
   - luna_pinyin.sougou.repeat
-  - luna_pinyin.sougou.develop
+  - luna_pinyin.sougou.develop #开发
   - luna_pinyin.sougou.diet # 食品
   - luna_pinyin.sougou.daily # 日常
-  - luna_pinyin.sougou.area
+  - luna_pinyin.sougou.area # 地名
   - luna_pinyin.sougou.warframe
   - luna_pinyin.sougou.popular
   # - luna_pinyin.sougou.threeKingdoms # 三国

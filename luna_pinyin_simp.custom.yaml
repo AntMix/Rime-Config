@@ -95,7 +95,7 @@ patch:
   translator:
     dictionary: luna_pinyin.extended
     # 设置 是否显示拼音提示 0不显示 其他的为几个字符才显示
-    spelling_hints: 5
+    spelling_hints: 2
     initial_quality: 1
     enable_encoder: false
     encode_commit_history: true
