@@ -98,8 +98,8 @@ function date_translator(input, seg)
 
         -- Candidate(type, start, end, text, comment)
         -- yield(Candidate('date', seg.start, seg._end, os.date('%Y年%m月%d日'), '')) -- 2020年03月31日 此格式基本不用
-        yield(Candidate('date', seg.start, seg._end, date, '')) -- 2020年3月31日
         yield(Candidate('date', seg.start, seg._end, os.date('%Y-%m-%d'), '')) --2020-03-31
+        yield(Candidate('date', seg.start, seg._end, date, '')) -- 2020年3月31日
         yield(Candidate('date', seg.start, seg._end, date_zh_td, '')) -- 农历庚子(鼠)年三月初八
         yield(Candidate('date', seg.start, seg._end, date_zh_cn, '')) -- 二〇二〇年三月三十一日
     -- yield(Candidate('date', seg.start, seg._end, os.date('%Y%m%d'), '')) -- 20200331
@@ -138,6 +138,7 @@ function time_translator(input, seg)
     -- Candidate(type, start, end, text, comment)
     if (input == 'time' or input == 'sj') then
         yield(Candidate('time', seg.start, seg._end, os.time(), ' ')) -- 时间戳
+        yield(Candidate('time', seg.start, seg._end, os.date('%H:%M:%S'), ''))
         yield(Candidate('time', seg.start, seg._end, os.date('%Y-%m-%d %H:%M:%S'), ''))
         yield(Candidate('time', seg.start, seg._end, os.date('%Y年%m月%d日 %H点%M分%S秒'), ''))
     end
