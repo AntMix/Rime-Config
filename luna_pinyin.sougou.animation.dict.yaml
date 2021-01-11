@@ -1,6 +1,6 @@
 ---
 name: luna_pinyin.sougou.common.animation
-version: "2020.12.07"
+version: "2021.01.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
