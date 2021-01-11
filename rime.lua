@@ -129,7 +129,31 @@ function date_translator(input, seg)
         if week_num == '6' then
             week = '星期六'
         end
-        yield(Candidate('time', seg.start, seg._end, week, ' '))
+        yield(Candidate('week', seg.start, seg._end, week, ' '))
+    end
+    if (input == 'today') then
+        yield(Candidate('today', seg.start, seg._end, os.date('%Y-%m-%d'), ''))
+        yield(
+            Candidate(
+                'today',
+                seg.start,
+                seg._end,
+                os.date('%Y-%m-%d') .. os.date(' %Y-%m-%d', os.time() + 86400),
+                ''
+            )
+        )
+    end
+    if (input == 'yesterday') then
+        yield(Candidate('yesterday', seg.start, seg._end, os.date('%Y-%m-%d', os.time() - 86400), ''))
+        yield(
+            Candidate(
+                'yesterday',
+                seg.start,
+                seg._end,
+                os.date('%Y-%m-%d', os.time() - 86400) .. os.date(' %Y-%m-%d'),
+                ''
+            )
+        )
     end
 end
 

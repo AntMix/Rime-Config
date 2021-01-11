@@ -8,6 +8,10 @@ antmix@aliyun.com	email	100000
 [吃瓜]	cg	10
 [汗]	han	10
 [社会社会]	shehui	10
+[666]	liu	10
+[让我看看]	kankan	10
+[苦涩]	kuse	10
+[裂开]	liekai	10
 😂	xk	10
 🐔哥	jige	10
 🍋  nm  10
@@ -22,7 +26,7 @@ php	php	10
 PHP	php	3
 MySQL	mysql	10
 emoji	emoji	10
-App	app	10
+APP	app	10
 git	git	10
 github	github	10
 AirPods	airpods	10
