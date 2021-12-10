@@ -44,6 +44,7 @@ patch:
     translators:
       - lua_translator@date_translator # 日期 - rime.lua
       - lua_translator@time_translator # 时间 - rime.lua
+      - echo_translator
       - punct_translator
       - reverse_lookup_translator
       - script_translator

@@ -31,6 +31,7 @@ import_tables:
   - luna_pinyin.sougou.daily # 日常
   - luna_pinyin.sougou.area # 地名
   - luna_pinyin.sougou.warframe
+  - luna_pinyin.sougou.yuanshen
   - luna_pinyin.sougou.popular
   # - luna_pinyin.sougou.threeKingdoms # 三国
   # - luna_pinyin.sougou.xiehouyu # 歇后语
