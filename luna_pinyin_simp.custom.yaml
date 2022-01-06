@@ -160,8 +160,8 @@ patch:
       - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
       - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
 
-      # - derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
-      # - derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
+      - derive/^([zcs])h/$1/             # zh, ch, sh => z, c, s
+      - derive/^([zcs])([^h])/$1h$2/     # z, c, s => zh, ch, sh
 
       # - derive/^n/l/                     # n => l
       # - derive/^l/n/                     # l => n
@@ -185,8 +185,8 @@ patch:
 
       # 韵母
       # - derive/^([bpmf])eng$/$1ong/      # meng = mong, ...
-      # - derive/([aeio])n$/$1ng/            # en => eng, in => ing
-      # - derive/([aeio])ng$/$1n/            # eng => en, ing => in
+      - derive/([aeio])n$/$1ng/            # en => eng, in => ing
+      - derive/([aeio])ng$/$1n/            # eng => en, ing => in
 
 
       # 反模糊音？
