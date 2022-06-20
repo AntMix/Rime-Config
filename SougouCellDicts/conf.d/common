@@ -20,7 +20,7 @@ DICT=(
 "agriculture/15149"
 "lives/15206"
 "area/763"
-"warframe/99864"
+# "warframe/99864"
 "yuanshen/140775"
 )
 eval "${CELL_ID}${DICT_CELL_SUFFIX}=(${DICT[@]})"
